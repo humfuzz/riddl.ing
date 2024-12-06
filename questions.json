@@ -142,5 +142,6 @@
 "2024-12-04": {"answers":"blood","prompt":"What am I?","q1":"I’m pumped.","q2":"I come in four groups.","q3":"I’m donated.","q4":"Vampires love me.","q5":"I’m a red body fluid."},
 "2024-12-05": {"answers":"mosquito,mosquitoes,mosquitos","prompt":"What am I?","q1":"I need you.","q2":"I cause suffering.","q3":"Often, you won’t notice me until I’m gone...","q4":"...and until you start itching.","q5":"I fly and drink your blood."},
 "2024-12-06": {"answers":"jeans,blue jeans","prompt":"What am I?","q1":"I’m made of cotton.","q2":"I’m sturdy.","q3":"I’m a popular fashion choice.","q4":"My styles include skinny, cargo, and mom.","q5":"I’m a pair of denim pants."},
-"2024-12-07": {"answers":"paradox,paradoxes","prompt":"What am I?","q1":"One of me involves racing a tortoise.","q2":"One of me involves a donkey between food and water.","q3":"One of me involves being alone in the universe.","q4":"One of me involves rebuilding a ship over time.","q5":"One of me involves killing your grandfather."}
+"2024-12-07": {"answers":"paradox,paradoxes","prompt":"What am I?","q1":"One of me involves racing a tortoise.","q2":"One of me involves a donkey between food and water.","q3":"One of me involves being alone in the universe.","q4":"One of me involves rebuilding a ship over time.","q5":"One of me involves killing your grandfather."},
+"2024-12-08": {"answers":"electron,electrons","prompt":"What am I?","q1":"I’m negative.","q2":"I’m small.","q3":"I’m elementary.","q4":"I’m attracted by an atom’s nucleus.","q5":"I’m a particle named after electricity."}
 }
