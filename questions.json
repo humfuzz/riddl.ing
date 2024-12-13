@@ -149,5 +149,6 @@
 "2024-12-11": {"answers":"menu,menus","prompt":"What am I?","q1":"You probably don’t have one at home.","q2":"I’m important if you have allergies.","q3":"I’m important if you have a budget.","q4":"I’ve got your order.","q5":"You read me when you eat out."},
 "2024-12-12": {"answers":"menu,menus","prompt":"What am I?","q1":"Bars include me.","q2":"Shortcuts avoid me.","q3":"Keyboards navigate me.","q4":"Right-clicking opens me.","q5":"I’m a digital option list."},
 "2024-12-13": {"answers":"concert,concerts","prompt":"What am I?","q1":"I’m loud.","q2":"I might have cannons and fireworks.","q3":"You pay to see me.","q4":"I might have dancers and musicians.","q5":"I might have openers and encores."},
-"2024-12-14": {"answers":"triangle,triangles","prompt":"What comes third?","q1":"8th: where you stop.","q2":"7th: twenty or fifty pence.","q3":"6th: a honeybee’s favourite.","q4":"5th: an intelligence headquarters in the US.","q5":"4th: seen on graph paper or chessboards."}
+"2024-12-14": {"answers":"triangle,triangles","prompt":"What comes third?","q1":"8th: where you stop.","q2":"7th: twenty or fifty pence.","q3":"6th: a honeybee’s favourite.","q4":"5th: an intelligence headquarters in the US.","q5":"4th: seen on graph paper or chessboards."},
+"2024-12-15": {"answers":"towel","prompt":"What am I?","q1":"Some might bring me on a space trip.","q2":"I’m fuzzy.","q3":"I absorb liquids.","q4":"Face me, hand me, and kitchen me are varieties.","q5":"I’m used to dry things."}
 }
