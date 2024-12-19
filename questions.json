@@ -155,5 +155,6 @@
 "2024-12-17": {"answers":"period","prompt":"What am I?","q1":"I’m a pause.","q2":"I’m a recurring pain.","q3":"I’m a moment of time.","q4":"Say me out loud to make your decision final.","q5":"There are five of me in these clues.","message":"Twosday"},
 "2024-12-18": {"answers":"candy,candies","prompt":"What am I?","q1":"I’m sweet.","q2":"Dentists hate me!","q3":"I can be hard or soft.","q4":"I’m a kid’s treat.","q5":"I’m sweets."},
 "2024-12-19": {"answers":"cane","prompt":"What am I?","q1":"I’m held.","q2":"I’m long.","q3":"I’m straight on one end and curved on the other.","q4":"I look like an umbrella without the top.","q5":"I help you walk."},
-"2024-12-20": {"answers":"candy cane,candy canes","prompt":"What am I?","q1":"I’m popular this time of year.","q2":"I’ll make your breath fresh.","q3":"I look like a barbershop pole.","q4":"Some put me on a Christmas tree.","q5":"I’m a peppermint treat."}
+"2024-12-20": {"answers":"candy cane,candy canes","prompt":"What am I?","q1":"I’m popular this time of year.","q2":"I’ll make your breath fresh.","q3":"I look like a barbershop pole.","q4":"Some put me on a Christmas tree.","q5":"I’m a peppermint treat."},
+"2024-12-21": {"answers":"stocking,stockings","prompt":"What am I?","q1":"I can be opaque or see-through.","q2":"I come in pairs.","q3":"I’m stuffed.","q4":"You don’t want to find coal in me.","q5":"I’m long socks."}
 }
