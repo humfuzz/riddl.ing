@@ -4,5 +4,6 @@
 "2025-01-03": {"answers":"carrot,carrots","prompt":"What am I?","q1":"You can make a cake with me.","q2":"Change my first letter to ‘p’ and I become a bird.","q3":"Snowmen love me.","q4":"Bunnies love me.","q5":"I’m an orange root vegetable."},
 "2025-01-04": {"answers":"eiffel tower,the eiffel tower","prompt":"What am I?","q1":"I have one apartment.","q2":"I’m made of iron.","q3":"I look like an A.","q4":"This isn’t me:🗼","q5":"I’m an iconic Paris structure."},
 "2025-01-05": {"answers":"glass","prompt":"What am I?","q1":"I’m molten and cooled rock.","q2":"A me is made out of me. Mes used to be made out of me.","q3":"Without me, you can’t play riddl.ing on your phone.","q4":"If you’re inside, you need me to look outside.","q5":"A magnifying me is also made out of me."},
-"2025-01-06": {"answers":"panda,pandas,giant panda,panda bear","prompt":"What am I?","q1":"I’m alive.","q2":"I’m black.","q3":"I’m white.","q4":"I’m furry.","q5":"I love eating bamboo."}
+"2025-01-06": {"answers":"panda,pandas,giant panda,panda bear","prompt":"What am I?","q1":"I’m alive.","q2":"I’m black.","q3":"I’m white.","q4":"I’m furry.","q5":"I love eating bamboo."},
+"2025-01-07": {"answers":"register","prompt":"What am I?","q1":"I’m a list of entries.","q2":"I’m a musical range.","q3":"My bell rings when I open.","q4":"Do me to sign up.","q5":"I’m a book of births and deaths; a style of language or instrument; a cash or memory store; what you do to make an account.","message":"Twosday"}
 }
