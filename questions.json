@@ -7,5 +7,6 @@
 "2025-01-06": {"answers":"panda,pandas,giant panda,panda bear","prompt":"What am I?","q1":"I’m alive.","q2":"I’m black.","q3":"I’m white.","q4":"I’m furry.","q5":"I love eating bamboo."},
 "2025-01-07": {"answers":"register","prompt":"What am I?","q1":"I’m a list of entries.","q2":"I’m a musical range.","q3":"My bell rings when I open.","q4":"Do me to sign up.","q5":"I’m a book of births and deaths; a style of language or instrument; a cash or memory store; what you do to make an account.","message":"Twosday"},
 "2025-01-08": {"answers":"bed,bedroom","prompt":"Where am I?","q1":"I’m here every day.","q2":"I often don’t see anything here.","q3":"I might be on a queen.","q4":"I’m lying down.","q5":"My head is on a pillow."},
-"2025-01-09": {"answers":"toilet,toilets","prompt":"What am I?","q1":"You use me every day.","q2":"Some use me in one way and some use me in two ways.","q3":"A dog’s version of me is outside.","q4":"Wash your hands after using me.","q5":"Flush me after using me."}
+"2025-01-09": {"answers":"toilet,toilets","prompt":"What am I?","q1":"You use me every day.","q2":"Some use me in one way and some use me in two ways.","q3":"A dog’s version of me is outside.","q4":"Wash your hands after using me.","q5":"Flush me after using me."},
+"2025-01-10": {"answers":"underwear,undergarment","prompt":"What am I?","q1":"You usually don’t want others to see me.","q2":"I go on first and off last.","q3":"I’m often washed.","q4":"I fit you.","q5":"Other clothes are worn over me."}
 }
