@@ -13,5 +13,6 @@
 "2025-01-12": {"answers":"anthem,national anthem","prompt":"What am I?","q1":"You probably know one of me.","q2":"I’m different depending on where you live.","q3":"Some of me are multilingual.","q4":"I’m sung...","q5":"...especially in schools or before sports."},
 "2025-01-13": {"answers":"seoul","prompt":"Where am I?","q1":"There’s a wide river here.","q2":"The name of this place means “capital”.","q3":"I have really fast internet here.","q4":"I’m at the heart and soul of e-sports.","q5":"I’m in the capital of K-wave.","message":"Guest riddle by kylli"},
 "2025-01-14": {"answers":"fan,fans","prompt":"What am I?","q1":"I follow.","q2":"I blow.","q3":"My mail contains gifts, my fiction is unofficial, and my service is catering.","q4":"I’ll cool you down or cheer you up.","q5":"I support my favourites or I circulate air.","message":"Twosday"},
-"2025-01-15": {"answers":"bed,bedroom","prompt":"Where am I?","q1":"I’m here every day.","q2":"I often don’t see anything here.","q3":"I might be on a queen.","q4":"I’m lying down.","q5":"My head is on a pillow."}
+"2025-01-15": {"answers":"bed,bedroom","prompt":"Where am I?","q1":"I’m here every day.","q2":"I often don’t see anything here.","q3":"I might be on a queen.","q4":"I’m lying down.","q5":"My head is on a pillow."},
+"2025-01-16": {"answers":"ant,ants","prompt":"What am I?","q1":"I live in hills.","q2":"I’m rarely lonely.","q3":"A fire me might hurt you.","q4":"I like to march with my army.","q5":"I’m a colonial insect."}
 }
