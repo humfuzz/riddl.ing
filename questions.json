@@ -14,5 +14,6 @@
 "2025-01-13": {"answers":"seoul","prompt":"Where am I?","q1":"There’s a wide river here.","q2":"The name of this place means “capital”.","q3":"I have really fast internet here.","q4":"I’m at the heart and soul of e-sports.","q5":"I’m in the capital of K-wave.","message":"Guest riddle by kylli"},
 "2025-01-14": {"answers":"fan,fans","prompt":"What am I?","q1":"I follow.","q2":"I blow.","q3":"My mail contains gifts, my fiction is unofficial, and my service is catering.","q4":"I’ll cool you down or cheer you up.","q5":"I support my favourites or I circulate air.","message":"Twosday"},
 "2025-01-15": {"answers":"bed,bedroom","prompt":"Where am I?","q1":"I’m here every day.","q2":"I often don’t see anything here.","q3":"I might be on a queen.","q4":"I’m lying down.","q5":"My head is on a pillow."},
-"2025-01-16": {"answers":"ant,ants","prompt":"What am I?","q1":"I live in hills.","q2":"I’m rarely lonely.","q3":"A fire me might hurt you.","q4":"I like to march with my army.","q5":"I’m a colonial insect."}
+"2025-01-16": {"answers":"ant,ants","prompt":"What am I?","q1":"I live in hills.","q2":"I’m rarely lonely.","q3":"A fire me might hurt you.","q4":"I like to march with my army.","q5":"I’m a colonial insect."},
+"2025-01-17": {"answers":"mystery,murder mystery","prompt":"What am I?","q1":"I’m solved.","q2":"I might feature cases.","q3":"If you don’t know the answer, it might be a me.","q4":"I might feature detectives.","q5":"I’m a crime genre."}
 }
