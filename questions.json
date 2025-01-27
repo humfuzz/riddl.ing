@@ -26,5 +26,6 @@
 "2025-01-25": {"answers":"blind","prompt":"What am I?","q1":"Take a me guess.","q2":"Love is me.","q3":"You have me spots.","q4":"You read with your fingers if you’re me.","q5":"I’m the inability to see."},
 "2025-01-26": {"answers":"vine,vines,grapevine,ivy,climber","prompt":"What am I?","q1":"I climb walls.","q2":"I grow up.","q3":"I make walls green.","q4":"My name comes from wine.","q5":"A grape me grows grapes."},
 "2025-01-27": {"answers":"moment","prompt":"What am I?","q1":"I’m fleeting.","q2":"Drumrolls, please... the me of truth!","q3":"Hold or hang on a me.","q4":"Take a photo to capture a me.","q5":"I’m a single point in time."},
-"2025-01-28": {"answers":"dragon,dragons,chinese dragon","prompt":"What am I?","q1":"I’m long.","q2":"I have two or four legs (depending on where I’m from).","q3":"It’s my year.","q4":"I’m a mystical, flying, rain-making serpent.","q5":"I’m a winged fire-breathing lizard.","message":"Twosday"}
+"2025-01-28": {"answers":"dragon,dragons,chinese dragon","prompt":"What am I?","q1":"I’m long.","q2":"I have two or four legs (depending on where I’m from).","q3":"It’s my year.","q4":"I’m a mystical, flying, rain-making serpent.","q5":"I’m a winged fire-breathing lizard.","message":"Twosday"},
+"2025-01-29": {"answers":"snake,snakes","prompt":"What am I?","q1":"I can kill you.","q2":"I represent good and evil, health, rebirth, and eternity.","q3":"I eat animals whole.","q4":"I lose my skin.","q5":"I’m a slithering serpent."}
 }
