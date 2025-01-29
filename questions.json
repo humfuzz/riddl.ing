@@ -28,5 +28,6 @@
 "2025-01-27": {"answers":"moment","prompt":"What am I?","q1":"I’m fleeting.","q2":"Drumrolls, please... the me of truth!","q3":"Hold or hang on a me.","q4":"Take a photo to capture a me.","q5":"I’m a single point in time."},
 "2025-01-28": {"answers":"dragon,dragons,chinese dragon","prompt":"What am I?","q1":"I’m long.","q2":"I have two or four legs (depending on where I’m from).","q3":"It’s my year.","q4":"I’m a mystical, flying, rain-making serpent.","q5":"I’m a winged fire-breathing lizard.","message":"Twosday"},
 "2025-01-29": {"answers":"snake,snakes","prompt":"What am I?","q1":"I can kill you.","q2":"I represent good and evil, health, rebirth, and eternity.","q3":"I eat animals whole.","q4":"I lose my skin.","q5":"I’m a slithering serpent."},
-"2025-01-30": {"answers":"bean,beans","prompt":"What am I?","q1":"I’m vanilla.","q2":"I’m jelly.","q3":"I’m kidney.","q4":"I’m soy.","q5":"I’m coffee."}
+"2025-01-30": {"answers":"bean,beans","prompt":"What am I?","q1":"I’m vanilla.","q2":"I’m jelly.","q3":"I’m kidney.","q4":"I’m soy.","q5":"I’m coffee."},
+"2025-01-31": {"answers":"sticker","prompt":"What am I?","q1":"I’m one-sided.","q2":"I’m peeled.","q3":"I might say “4011” on a banana.","q4":"I might tell you something’s origin or discount.","q5":"I’m sticky."}
 }
