@@ -44,5 +44,6 @@
 "2025-02-12": {"answers":"lantern","prompt":"What am I?","q1":"I’m carried or hung.","q2":"Some versions of me fly up.","q3":"I might be made of metal, paper, or pumpkin.","q4":"I use oil, wax, or electricity.","q5":"I’m an enclosed light source."},
 "2025-02-13": {"answers":"earth","prompt":"What comes first?","q1":"6th: big and blue.","q2":"5th: cold and sideways.","q3":"4th: got a nice ring to it!","q4":"3rd: the largest with a great spot.","q5":"2nd: rocky, red, and rovered."},
 "2025-02-14": {"answers":"cupid","prompt":"Who am I?","q1":"I’ll shoot you...","q2":"...and it’ll feel great.","q3":"I look like a child.","q4":"I use a bow.","q5":"I’ll make you fall in love."},
-"2025-02-15": {"answers":"battery","prompt":"What am I?","q1":"I’m a store.","q2":"I make things portable.","q3":"You might get worried if I’m low.","q4":"I’m charged.","q5":"I power electronics."}
+"2025-02-15": {"answers":"battery","prompt":"What am I?","q1":"I’m a store.","q2":"I make things portable.","q3":"You might get worried if I’m low.","q4":"I’m charged.","q5":"I power electronics."},
+"2025-02-16": {"answers":"vomit,vomiting,puke,barf,throw up","prompt":"What am I?","q1":"I’m gross.","q2":"If someone else does me, don’t get hit.","q3":"You usually don’t intend to do me...","q4":"...unless you ate something poisonous.","q5":"I’m an involuntary stomach purge."}
 }
