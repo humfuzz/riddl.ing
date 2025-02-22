@@ -52,5 +52,6 @@
 "2025-02-20": {"answers":"dessert","prompt":"What am I?","q1":"Examples of me include kaju katli, mämmi, and pristiños.","q2":"There’s always room for me.","q3":"I’m a treat.","q4":"I’m rarely savoury.","q5":"I’m a sweet course at the end of a meal."},
 "2025-02-21": {"answers":"roller coasters,rollercoaster,rollercoasters,roller coaster","prompt":"What am I?","q1":"I go in circles.","q2":"I go up and down.","q3":"I make people scream.","q4":"You should be fastened to your seat.","q5":"I’m an amusement park thrill ride."},
 "2025-02-22": {"answers":"helmet,riding helmet","prompt":"What am I?","q1":"You can wear me.","q2":"I’ll protect you.","q3":"I’m required at certain areas.","q4":"I’m required when riding certain vehicles.","q5":"I’m a hard head covering."},
-"2025-02-23": {"answers":"lighter,cigarette lighter","prompt":"What am I?","q1":"You may need me on a birthday.","q2":"I’m found in convenience stores.","q3":"I often use butane.","q4":"You may need me if you smoke.","q5":"I’m a portable fire-making device."}
+"2025-02-23": {"answers":"lighter,cigarette lighter","prompt":"What am I?","q1":"You may need me on a birthday.","q2":"I’m found in convenience stores.","q3":"I often use butane.","q4":"You may need me if you smoke.","q5":"I’m a portable fire-making device."},
+"2025-02-24": {"answers":"gold","prompt":"What connects all five words?","q1":"1. Heart.","q2":"2. Rush.","q3":"3. Fool.","q4":"4. Mine.","q5":"5. Digger.","message":"Connections"}
 }
