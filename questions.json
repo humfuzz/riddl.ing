@@ -56,5 +56,6 @@
 "2025-02-24": {"answers":"gold","prompt":"What connects all five words?","q1":"1. Heart.","q2":"2. Rush.","q3":"3. Fool.","q4":"4. Mine.","q5":"5. Digger.","message":"Connections"},
 "2025-02-25": {"answers":"chip,chips","prompt":"What am I?","q1":"I’ve become smaller and faster over time.","q2":"I’m a short shot to the green.","q3":"You move all of me in.","q4":"I’m paired with fish.","q5":"I’m a byte-based circuit, a golf swing, a casino currency, or a bite-sized snack.","message":"Twosday"},
 "2025-02-26": {"answers":"mime,mimes","prompt":"Who am I?","q1":"I perform.","q2":"I often wear white makeup.","q3":"I’m silent.","q4":"I may seem stuck in an invisible box.","q5":"I act with facial expressions and body movements."},
-"2025-02-27": {"answers":"waiter,waitress","prompt":"Who am I?","q1":"I bus.","q2":"I sound patient.","q3":"I serve.","q4":"I might expect tips.","q5":"I take orders and serve food."}
+"2025-02-27": {"answers":"waiter,waitress","prompt":"Who am I?","q1":"I bus.","q2":"I sound patient.","q3":"I serve.","q4":"I might expect tips.","q5":"I take orders and serve food."},
+"2025-02-28": {"answers":"information,info","prompt":"What am I?","q1":"A group of soldiers might be me?","q2":"Ew, too much me!","q3":"An insider might have me you don’t.","q4":"A newspaper spreads me.","q5":"I’m part of IT."}
 }
