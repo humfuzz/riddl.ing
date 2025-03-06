@@ -64,5 +64,6 @@
 "2025-03-04": {"answers":"remote","prompt":"Where/what am I?","q1":"I’m far.","q2":"I make things louder or quieter.","q3":"Very few people are here.","q4":"I turn things on or off.","q5":"I’m a wireless controller or a distant place.","message":"Twosday"},
 "2025-03-05": {"answers":"yellow","prompt":"What am I?","q1":"My stone is a popular attraction.","q2":"My card means you did something wrong.","q3":"My light tells you to slow down.","q4":"I’m in the middle of Romania, Vietnam, and an egg.","q5":"I’m a sunny colour."},
 "2025-03-06": {"answers":"puzzle","prompt":"What am I?","q1":"I’m Rush Hour or Portal.","q2":"I’m a helpmate or tsumego.","q3":"I’m a nonogram or a sudoku.","q4":"I’m Tetris or a Rubik’s cube.","q5":"I’m a crossword or a jigsaw."},
-"2025-03-07": {"answers":"aloe vera,aloe","prompt":"What am I?","q1":"I’m invasive.","q2":"I’m evergreen.","q3":"I’m used in cosmetics.","q4":"I soothe burns.","q5":"I’m a succulent with thick leaves."}
+"2025-03-07": {"answers":"aloe vera,aloe","prompt":"What am I?","q1":"I’m invasive.","q2":"I’m evergreen.","q3":"I’m used in cosmetics.","q4":"I soothe burns.","q5":"I’m a succulent with thick leaves."},
+"2025-03-08": {"answers":"giga","prompt":"What comes first?","q1":"6th: yotta.","q2":"5th: zetta.","q3":"4th: exa.","q4":"3rd: peta.","q5":"2nd: tera.","message":"Sixday"}
 }
