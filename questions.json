@@ -70,5 +70,6 @@
 "2025-03-10": {"answers":"matcha","prompt":"What am I?","q1":"I’m bitter.","q2":"I’m solid and usually made into a liquid.","q3":"My name is Japanese.","q4":"I’m green.","q5":"I’m a flavourful ground tea."},
 "2025-03-11": {"answers":"line","prompt":"What am I?","q1":"I can be short or long.","q2":"I can be skipped or cut.","q3":"I’m straight in mathematics, but can be winding in real life.","q4":"Another name for me sounds like the letter ‘Q’.","q5":"I’m a connection from one point to another, or a bunch of waiting people.","message":"Twosday"},
 "2025-03-12": {"answers":"poland","prompt":"Where am I?","q1":"There’s an art museum here.","q2":"There’s a soap museum here.","q3":"There’s a Holocaust museum here.","q4":"There’s a Chopin museum and a Marie Curie museum here.","q5":"There’s a film museum in Łódź, a pinball museum in Kraków, and a National Museum of Technology in Warsaw here."},
-"2025-03-13": {"answers":"book","prompt":"What am I?","q1":"You can scan me.","q2":"Change my first letter and you can use me to fish.","q3":"You can flip me.","q4":"You can read me.","q5":"I’m a collection of pages put together."}
+"2025-03-13": {"answers":"book","prompt":"What am I?","q1":"You can scan me.","q2":"Change my first letter and you can use me to fish.","q3":"You can flip me.","q4":"You can read me.","q5":"I’m a collection of pages put together."},
+"2025-03-14": {"answers":"death","prompt":"What am I?","q1":"I can be peaceful or violent.","q2":"I may judge you.","q3":"I may wear a black robe.","q4":"I’m the end.","q5":"I may carry a sickle."}
 }
