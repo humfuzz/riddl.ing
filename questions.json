@@ -73,5 +73,6 @@
 "2025-03-13": {"answers":"book","prompt":"What am I?","q1":"You can scan me.","q2":"Change my first letter and you can use me to fish.","q3":"You can flip me.","q4":"You can read me.","q5":"I’m a collection of pages put together."},
 "2025-03-14": {"answers":"death","prompt":"What am I?","q1":"I can be peaceful or violent.","q2":"I may judge you.","q3":"I may wear a black robe.","q4":"I’m the end.","q5":"I may carry a sickle."},
 "2025-03-15": {"answers":"mandarin chinese,mandarin,chinese","prompt":"What comes first?","q1":"6th: Bengali.","q2":"5th: Portuguese.","q3":"4th: Hindi.","q4":"3rd: English.","q5":"2nd: Spanish.","message":"Sixday"},
-"2025-03-16": {"answers":"reverse","prompt":"What am I?","q1":"You don’t want to eat in me.","q2":"Wearing something in me might be embarrassing.","q3":"A kayak and racecar stay the same in me.","q4":"A truck in me might beep.","q5":"!em ni m‘I"}
+"2025-03-16": {"answers":"reverse","prompt":"What am I?","q1":"You don’t want to eat in me.","q2":"Wearing something in me might be embarrassing.","q3":"A kayak and racecar stay the same in me.","q4":"A truck in me might beep.","q5":"!em ni m‘I"},
+"2025-03-17": {"answers":"radio,radios","prompt":"What am I?","q1":"I’m useful in the wilderness or in a zombie apocalypse.","q2":"I’m most popular in cars.","q3":"I’m tuned.","q4":"I’m a wireless receiver.","q5":"I’m like livestreamed podcasts."}
 }
