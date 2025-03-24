@@ -82,5 +82,6 @@
 "2025-03-22": {"answers":"british columbia,bc","prompt":"What comes first?","q1":"6th: Baja California Sur.","q2":"5th: Baja California.","q3":"4th: California.","q4":"3rd: Oregon.","q5":"2nd: Washington.","message":"Sixday"},
 "2025-03-23": {"answers":"mask,masks","prompt":"What am I?","q1":"I’m worn in the ring.","q2":"I’m worn underwater.","q3":"I’m worn in the hospital.","q4":"I’m worn in a bank robbery.","q5":"I’m worn for theatre, protection, or disguise."},
 "2025-03-24": {"answers":"claw,claws","prompt":"What am I?","q1":"I’m full of muscles.","q2":"I’m your chance at a prize.","q3":"I’m similar to a wrench, chopsticks, or pliers.","q4":"I’m found on lobsters and crabs.","q5":"I’m a few-fingered grabber."},
-"2025-03-25": {"answers":"cure,curing","prompt":"What am I?","q1":"Some don’t have me.","q2":"I might be salty.","q3":"I’m hopefully found.","q4":"I’m a silver bullet or done to beef jerky.","q5":"I’m a culinary preservation or a medical solution.","message":"Twosday"}
+"2025-03-25": {"answers":"cure,curing","prompt":"What am I?","q1":"Some don’t have me.","q2":"I might be salty.","q3":"I’m hopefully found.","q4":"I’m a silver bullet or done to beef jerky.","q5":"I’m a culinary preservation or a medical solution.","message":"Twosday"},
+"2025-03-26": {"answers":"pear,pears","prompt":"What am I?","q1":"I’m used in instrument and furniture production.","q2":"I’m lightbulb shaped.","q3":"I’m a homophone for a couple’s synonym.","q4":"You may find a partridge in my tree.","q5":"I’m a sweet fruit."}
 }
