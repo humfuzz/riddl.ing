@@ -86,5 +86,6 @@
 "2025-03-26": {"answers":"pear,pears","prompt":"What am I?","q1":"I’m used in instrument and furniture production.","q2":"I’m lightbulb shaped.","q3":"I’m a homophone for a couple’s synonym.","q4":"You may find a partridge in my tree.","q5":"I’m a sweet fruit."},
 "2025-03-27": {"answers":"hacker,hackers,hackerman","prompt":"Who am I?","q1":"I go places I’m not allowed.","q2":"I might leave no trace of where I’ve been.","q3":"I might steal important information.","q4":"I might take down important systems.","q5":"I do this by typing furiously (as seen on TV)."},
 "2025-03-28": {"answers":"toothpaste","prompt":"What am I?","q1":"You should see me every day.","q2":"You shouldn’t eat me.","q3":"I’m squeezed.","q4":"I’m minty.","q5":"Four out of five dentists recommend me."},
-"2025-03-29": {"answers":"mount everest,everest,sagarmatha,qomolangma","prompt":"What comes first?","q1":"6th: Vinson.","q2":"5th: Elbrus.","q3":"4th: Kilimanjaro.","q4":"3rd: Denali.","q5":"2nd: Aconcagua.","message":"Sixday"}
+"2025-03-29": {"answers":"mount everest,everest,sagarmatha,qomolangma","prompt":"What comes first?","q1":"6th: Vinson.","q2":"5th: Elbrus.","q3":"4th: Kilimanjaro.","q4":"3rd: Denali.","q5":"2nd: Aconcagua.","message":"Sixday"},
+"2025-03-30": {"answers":"emergency","prompt":"What am I?","q1":"Rules might be broken during me.","q2":"You might make a call during me.","q3":"You might need to “drop, cover, and hold on” in one of me...","q4":"...or you might be about to have a baby.","q5":"I’m an urgent and abnormal situation."}
 }
