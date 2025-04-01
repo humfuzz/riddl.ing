@@ -90,5 +90,6 @@
 "2025-03-30": {"answers":"emergency","prompt":"What am I?","q1":"Rules might be broken during me.","q2":"You might make a call during me.","q3":"You might need to “drop, cover, and hold on” in one of me...","q4":"...or you might be about to have a baby.","q5":"I’m an urgent and abnormal situation."},
 "2025-03-31": {"answers":"rock,rocks","prompt":"What am I?","q1":"Eating me is an insult.","q2":"Balancing me is an art form.","q3":"Climbing me is a sport.","q4":"Having me in your shoes is an annoyance.","q5":"Crushing scissors is my winning move."},
 "2025-04-01": {"answers":"sign,signs","prompt":"What am I?","q1":"I show you the way.","q2":"I’m done for documents.","q3":"I’m clues for your doctor.","q4":"Your me depends on when you were born.","q5":"I’m a traffic notice, a legal acknowledgement, a medical symptom, or an astrological division.","message":"Twosday"},
-"2025-04-02": {"answers":"igloo","prompt":"Where am I?","q1":"I’m warm.","q2":"I’m surrounded by cold.","q3":"I’m inside.","q4":"I’m in a dome.","q5":"I’m in a snow shelter."}
+"2025-04-02": {"answers":"igloo","prompt":"Where am I?","q1":"I’m warm.","q2":"I’m surrounded by cold.","q3":"I’m inside.","q4":"I’m in a dome.","q5":"I’m in a snow shelter."},
+"2025-04-03": {"answers":"harp,harps","prompt":"What am I?","q1":"I have strings.","q2":"I may have pedals.","q3":"I’m triangular.","q4":"I’m seen with angels and beer.","q5":"I’m a plucked string instrument."}
 }
