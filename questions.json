@@ -94,5 +94,6 @@
 "2025-04-03": {"answers":"harp,harps","prompt":"What am I?","q1":"I have strings.","q2":"I may have pedals.","q3":"I’m triangular.","q4":"I’m seen with angels and beer.","q5":"I’m a plucked string instrument."},
 "2025-04-04": {"answers":"map,maps,atlas","prompt":"What am I?","q1":"I’m full of spots.","q2":"I used to be handmade.","q3":"Find yourself on me.","q4":"A local might not need me.","q5":"I’m a navigation chart."},
 "2025-04-05": {"answers":"ostrich,ostriches","prompt":"What comes first?","q1":"6th: Turkey.","q2":"5th: Rhea.","q3":"4th: Emperor penguin.","q4":"3rd: Emu.","q5":"2nd: Cassowary.","message":"Saturnday"},
-"2025-04-06": {"answers":"computer","prompt":"What am I?","q1":"I’m the second C in CAPTCHA.","q2":"I’m the C in CAD.","q3":"I’m the C in HCI.","q4":"I’m the C in CGI.","q5":"I’m the C in PC."}
+"2025-04-06": {"answers":"computer","prompt":"What am I?","q1":"I’m the second C in CAPTCHA.","q2":"I’m the C in CAD.","q3":"I’m the C in HCI.","q4":"I’m the C in CGI.","q5":"I’m the C in PC."},
+"2025-04-07": {"answers":"ice","prompt":"What am I?","q1":"My age is long.","q2":"I might help you if you’re in pain.","q3":"Dry me is used in shipping.","q4":"My cream is a popular treat.","q5":"I’m frozen water."}
 }
