@@ -98,5 +98,6 @@
 "2025-04-07": {"answers":"ice","prompt":"What am I?","q1":"My age is long.","q2":"I might help you if you’re in pain.","q3":"Dry me is used in shipping.","q4":"My cream is a popular treat.","q5":"I’m frozen water."},
 "2025-04-08": {"answers":"solution","prompt":"What am I?","q1":"You look for me.","q2":"Sweet tea is a me.","q3":"You might find me at the end of a book.","q4":"Add something to water to make me.","q5":"I’m the answer to a problem or a mixture of substances.","message":"Twosday"},
 "2025-04-09": {"answers":"spa,spas,sauna","prompt":"Where am I?","q1":"It can be very hot here.","q2":"It can be very cold here.","q3":"I paid to be here.","q4":"I might be naked here.","q5":"I can get a massage here."},
-"2025-04-10": {"answers":"cute","prompt":"What am I?","q1":"Outfits can be me.","q2":"Disgusting things aren’t me.","q3":"Cartoons can be me.","q4":"You might want to squish, pet, or look at things that are me.","q5":"Babies, puppies, and kittens are me."}
+"2025-04-10": {"answers":"cute","prompt":"What am I?","q1":"Outfits can be me.","q2":"Disgusting things aren’t me.","q3":"Cartoons can be me.","q4":"You might want to squish, pet, or look at things that are me.","q5":"Babies, puppies, and kittens are me."},
+"2025-04-11": {"answers":"caravan","prompt":"What am I?","q1":"I’ve been on the road for many days.","q2":"I carry many goods.","q3":"Two vehicles are part of my name.","q4":"Animals, merchants, pilgrims, and migrants are part of me.","q5":"I’m a group of travellers traversing the desert or the Silk Road."}
 }
