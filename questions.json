@@ -105,5 +105,6 @@
 "2025-04-14": {"answers":"bowl","prompt":"What am I?","q1":"You have me.","q2":"I can be made of wood, metal, glass, ceramic, plastic, or bread.","q3":"I’m found with plates and glasses.","q4":"I’m found with spoons.","q5":"I contain soups."},
 "2025-04-15": {"answers":"vein,veins","prompt":"What am I?","q1":"I’m seen on plants.","q2":"I’m not actually blue.","q3":"A phlebotomist is an expert in me.","q4":"I’m seen on cartoon muscles.","q5":"I’m half of your blood vessels.","message":"Twosday"},
 "2025-04-16": {"answers":"copenhagen","prompt":"Where am I?","q1":"I’m in a city.","q2":"The gardens here are amusing.","q3":"This place started as a Viking fishing village.","q4":"Sweden is just across the water.","q5":"I’m in the capital of Denmark."},
-"2025-04-17": {"answers":"drink,drinks","prompt":"What am I?","q1":"I’m hot or cold.","q2":"It looks like I have a “PhD in squids”.","q3":"I’m sweet or dry.","q4":"I’m still or sparkling.","q5":"I’m tea, wine, water, coffee, juice, milk..."}
+"2025-04-17": {"answers":"drink,drinks","prompt":"What am I?","q1":"I’m hot or cold.","q2":"It looks like I have a “PhD in squids”.","q3":"I’m sweet or dry.","q4":"I’m still or sparkling.","q5":"I’m tea, wine, water, coffee, juice, milk..."},
+"2025-04-18": {"answers":"owl,owls","prompt":"What am I?","q1":"I symbolize wisdom.","q2":"I can only see straight ahead...","q3":"...yet I have a wide field of vision.","q4":"My sight is especially impressive in the dark.","q5":"I’m a nocturnal carnivorous bird."}
 }
