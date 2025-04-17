@@ -106,5 +106,6 @@
 "2025-04-15": {"answers":"vein,veins","prompt":"What am I?","q1":"I’m seen on plants.","q2":"I’m not actually blue.","q3":"A phlebotomist is an expert in me.","q4":"I’m seen on cartoon muscles.","q5":"I’m half of your blood vessels.","message":"Twosday"},
 "2025-04-16": {"answers":"copenhagen","prompt":"Where am I?","q1":"I’m in a city.","q2":"The gardens here are amusing.","q3":"This place started as a Viking fishing village.","q4":"Sweden is just across the water.","q5":"I’m in the capital of Denmark."},
 "2025-04-17": {"answers":"drink,drinks","prompt":"What am I?","q1":"I’m hot or cold.","q2":"It looks like I have a “PhD in squids”.","q3":"I’m sweet or dry.","q4":"I’m still or sparkling.","q5":"I’m tea, wine, water, coffee, juice, milk..."},
-"2025-04-18": {"answers":"owl,owls","prompt":"What am I?","q1":"I symbolize wisdom.","q2":"I can only see straight ahead...","q3":"...yet I have a wide field of vision.","q4":"My sight is especially impressive in the dark.","q5":"I’m a nocturnal carnivorous bird."}
+"2025-04-18": {"answers":"owl,owls","prompt":"What am I?","q1":"I symbolize wisdom.","q2":"I can only see straight ahead...","q3":"...yet I have a wide field of vision.","q4":"My sight is especially impressive in the dark.","q5":"I’m a nocturnal carnivorous bird."},
+"2025-04-19": {"answers":"royal flush,five of a kind,flush five,flush house","prompt":"What comes first?","q1":"6th: Straight.","q2":"5th: Flush.","q3":"4th: Full house.","q4":"3rd: Four of a kind.","q5":"2nd: Straight flush.","message":"Saturnday"}
 }
