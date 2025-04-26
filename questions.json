@@ -115,5 +115,6 @@
 "2025-04-24": {"answers":"sword,swords","prompt":"What am I?","q1":"I’m dangerous.","q2":"I’ve been around since metalworking.","q3":"Varieties of me include shamshir, talwar, and jian.","q4":"Varieties of me include zweihänder, rapier, and katana.","q5":"I’m longer than a knife."},
 "2025-04-25": {"answers":"lighthouse","prompt":"What am I?","q1":"I’m tall...","q2":"...to be easily seen.","q3":"I’m close to water.","q4":"I help navigate.","q5":"I house light."},
 "2025-04-26": {"answers":"soprano","prompt":"What comes first?","q1":"6th: bass.","q2":"5th: baritone.","q3":"4th: tenor.","q4":"3rd: alto.","q5":"2nd: mezzo-soprano.","message":"Saturnday"},
-"2025-04-27": {"answers":"mirror,mirrors","prompt":"...might be hard without me. What am I?","q1":"Tying a tie...","q2":"Flossing your teeth...","q3":"Putting in contact lenses...","q4":"Seeing your back...","q5":"Putting on makeup..."}
+"2025-04-27": {"answers":"mirror,mirrors","prompt":"...might be hard without me. What am I?","q1":"Tying a tie...","q2":"Flossing your teeth...","q3":"Putting in contact lenses...","q4":"Seeing your back...","q5":"Putting on makeup..."},
+"2025-04-28": {"answers":"civilization,civilizations,civilisation,civilisations","prompt":"What am I?","q1":"You’re part of me.","q2":"Money is also part of me.","q3":"My video game series involves leaders like Confucius, Gandhi, Caesar, and Xerxes.","q4":"Writing, trade, and agriculture are also parts of me.","q5":"I’m an advanced society made of cities."}
 }
