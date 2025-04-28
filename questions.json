@@ -117,5 +117,6 @@
 "2025-04-26": {"answers":"soprano","prompt":"What comes first?","q1":"6th: bass.","q2":"5th: baritone.","q3":"4th: tenor.","q4":"3rd: alto.","q5":"2nd: mezzo-soprano.","message":"Saturnday"},
 "2025-04-27": {"answers":"mirror,mirrors","prompt":"...might be hard without me. What am I?","q1":"Tying a tie...","q2":"Flossing your teeth...","q3":"Putting in contact lenses...","q4":"Seeing your back...","q5":"Putting on makeup..."},
 "2025-04-28": {"answers":"civilization,civilizations,civilisation,civilisations","prompt":"What am I?","q1":"You’re part of me.","q2":"Money is also part of me.","q3":"My video game series involves leaders like Confucius, Gandhi, Caesar, and Xerxes.","q4":"Writing, trade, and agriculture are also parts of me.","q5":"I’m an advanced society made of cities."},
-"2025-04-29": {"answers":"ring,rings","prompt":"What am I?","q1":"Lead me and do crime.","q2":"Count me and determine age.","q3":"Hear me and it’s go time.","q4":"Wear me and you’re taken.","q5":"See me around Saturn.","message":"Twosday"}
+"2025-04-29": {"answers":"ring,rings","prompt":"What am I?","q1":"Lead me and do crime.","q2":"Count me and determine age.","q3":"Hear me and it’s go time.","q4":"Wear me and you’re taken.","q5":"See me around Saturn.","message":"Twosday"},
+"2025-04-30": {"answers":"promise,promises","prompt":"What am I?","q1":"“I do” is an example of me.","q2":"“I owe you” is another example.","q3":"Politicians might break me.","q4":"Pinky me and swear on it!","q5":"I’m an oath of future commitment."}
 }
