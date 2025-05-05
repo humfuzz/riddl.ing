@@ -124,5 +124,6 @@
 "2025-05-03": {"answers":"sun,sol","prompt":"What comes first?","q1":"6th: WISE 0855−0714.","q2":"5th: Luhman 16.","q3":"4th: Barnard’s Star.","q4":"3rd: Alpha Centauri AB.","q5":"2nd: Proxima Centauri.","message":"Saturnday"},
 "2025-05-04": {"answers":"phantom","prompt":"What comes first?","q1":"VI: Return.","q2":"V: Empire.","q3":"IV: New.","q4":"III: Revenge.","q5":"II: Attack.","message":"Fourthday"},
 "2025-05-05": {"answers":"garlic","prompt":"What am I?","q1":"I’m often crushed.","q2":"You’ll smell me for hours.","q3":"Find me in hummus, aioli, or on bread.","q4":"Vampires hate me!","q5":"My relatives include chive, leek, and scallion."},
-"2025-05-06": {"answers":"break","prompt":"What am I?","q1":"Do me if you need change.","q2":"Don’t do me to things that aren’t yours.","q3":"You need me if you’re tired.","q4":"I’m found between paragraphs.","q5":"I’m a gap between work, lines, or clouds.","message":"Twosday"}
+"2025-05-06": {"answers":"break","prompt":"What am I?","q1":"Do me if you need change.","q2":"Don’t do me to things that aren’t yours.","q3":"You need me if you’re tired.","q4":"I’m found between paragraphs.","q5":"I’m a gap between work, lines, or clouds.","message":"Twosday"},
+"2025-05-07": {"answers":"closet","prompt":"Where am I?","q1":"It’s dark here.","q2":"You might open here before going outside.","q3":"I might come out of here to say something personal.","q4":"I’m in a good hiding place...","q5":"...depending on how many clothes are here."}
 }
