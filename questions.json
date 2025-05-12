@@ -131,5 +131,6 @@
 "2025-05-10": {"answers":"nile,white nile","prompt":"What comes first?","q1":"6th: Yellow.","q2":"5th: Yenisey.","q3":"4th: Mississippi.","q4":"3rd: Yangtze.","q5":"2nd: Amazon.","message":"Saturnday"},
 "2025-05-11": {"answers":"pore,pores","prompt":"What am I?","q1":"I’ll act up.","q2":"You have me.","q3":"Change my third letter and I become a religious leader.","q4":"I’m hairy and sweaty.","q5":"I’m a tiny hole in your skin."},
 "2025-05-12": {"answers":"potato,potatoes","prompt":"What am I?","q1":"I’m in knödel and szałot.","q2":"I’m in Olivier salad and latkes.","q3":"I’m in gnocchi and pierogi.","q4":"I’m in poutine and shepherd’s pie.","q5":"I’m in tater tots and French fries."},
-"2025-05-13": {"answers":"pant","prompt":"What am I?","q1":"You don’t need to do me...①","q2":"You need two of me...②","q3":"①...as much as a dog.","q4":"②...because I’m worn in pairs.","q5":"I’m a way to cool down or half a leg covering.","message":"Twosday"}
+"2025-05-13": {"answers":"pant","prompt":"What am I?","q1":"You don’t need to do me...①","q2":"You need two of me...②","q3":"①...as much as a dog.","q4":"②...because I’m worn in pairs.","q5":"I’m a way to cool down or half a leg covering.","message":"Twosday"},
+"2025-05-14": {"answers":"little red riding hood,little red riding-hood,red riding hood,red","prompt":"Who am I?","q1":"I’m bringing food.","q2":"I’m travelling through the woods.","q3":"I’m off to see my grandma.","q4":"My grandma turned out to be a wolf.","q5":"I’m named for my small red cape."}
 }
