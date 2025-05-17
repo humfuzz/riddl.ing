@@ -136,5 +136,6 @@
 "2025-05-15": {"answers":"percussion instrument,percussion,drum,drums,percussion instruments","prompt":"What am I?","q1":"Ashiko and udu are types of me.","q2":"Janggu and tanggu are types of me.","q3":"Cajón and djembe are types of me.","q4":"Timpani and bongos are types of me.","q5":"Snares and tambourines are types of me."},
 "2025-05-16": {"answers":"rush hour","prompt":"When am I?","q1":"I’m a particular period...","q2":"...twice a day...","q3":"...on weekdays...","q4":"...when everyone’s travelling...","q5":"...to and from home."},
 "2025-05-17": {"answers":"outer space,space","prompt":"What comes last?","q1":"1st: Troposphere.","q2":"2nd: Stratosphere.","q3":"3rd: Mesosphere.","q4":"4th: Thermosphere.","q5":"5th: Exosphere.","message":"Saturnday"},
-"2025-05-18": {"answers":"tour","prompt":"What am I?","q1":"I’m in what we put our money into.","q2":"I’m into urban sights.","q3":"I’m in an entourage.","q4":"I’m in detour.","q5":"I’m in “tourism”."}
+"2025-05-18": {"answers":"tour","prompt":"What am I?","q1":"I’m in what we put our money into.","q2":"I’m into urban sights.","q3":"I’m in an entourage.","q4":"I’m in detour.","q5":"I’m in “tourism”."},
+"2025-05-19": {"answers":"exam,examination","prompt":"What am I?","q1":"I’m timed.","q2":"You should look carefully in me.","q3":"I’m sometimes taken home.","q4":"I can be open or closed-book.","q5":"I’m a final test."}
 }
