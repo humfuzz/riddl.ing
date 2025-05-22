@@ -141,5 +141,6 @@
 "2025-05-20": {"answers":"bark","prompt":"What am I?","q1":"I might be seen on a walk.","q2":"I might be heard after a doorbell.","q3":"I’m all over the forest.","q4":"I’m part of every kennel.","q5":"I’m a tree’s skin or a dog’s woof.","message":"Twosday"},
 "2025-05-21": {"answers":"hero,heroes","prompt":"Who am I?","q1":"I’m admired.","q2":"I’m in many stories and legends.","q3":"I’m not a zero.","q4":"I’m not a villain.","q5":"Hercules and Superman are me."},
 "2025-05-22": {"answers":"rust","prompt":"What am I?","q1":"I’m a product of time.","q2":"I form if you haven’t done something recently.","q3":"My belt used to have many factories.","q4":"Mars is famously full of me.","q5":"Metal forms a patina if it turns green, and it forms me if it turns red."},
-"2025-05-23": {"answers":"ring,rings","prompt":"What am I?","q1":"Phones have me.","q2":"Trees have me.","q3":"Wrestling has me.","q4":"Saturn has me.","q5":"Married people have me."}
+"2025-05-23": {"answers":"ring,rings","prompt":"What am I?","q1":"Phones have me.","q2":"Trees have me.","q3":"Wrestling has me.","q4":"Saturn has me.","q5":"Married people have me."},
+"2025-05-24": {"answers":"rook,tower,castle,chariot,fortress,cannon,ship,boat,elephant","prompt":"What comes first?","q1":"6th: Bishop.","q2":"5th: King.","q3":"4th: Queen.","q4":"3rd: Bishop.","q5":"2nd: Knight.","message":"Saturnday"}
 }
