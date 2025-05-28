@@ -147,5 +147,6 @@
 "2025-05-26": {"answers":"plan,plans","prompt":"What am I?","q1":"You have a me, right?","q2":"What do you mean you don’t have a me?","q3":"It’s an emergency, here’s the escape me.","q4":"I put money in my retirement me.","q5":"Follow me step by step and it’ll all go according to me."},
 "2025-05-27": {"answers":"filter","prompt":"What am I?","q1":"I’ll make better water.","q2":"I’ll make you prettier.","q3":"I’ll make cleaner air.","q4":"I remove the unwanted.","q5":"I purify fluids or enhance photos.","message":"Twosday"},
 "2025-05-28": {"answers":"floor","prompt":"What am I?","q1":"My price is the lowest.","q2":"Take the me and speak.","q3":"Exit on the ground me.","q4":"My plan helps build not just me, but the whole house.","q5":"I’m not a ceiling."},
-"2025-05-29": {"answers":"font,fonts","prompt":"What am I?","q1":"I have marks and counters.","q2":"I have cases and weights.","q3":"I can be bold.","q4":"I’m full of glyphs.","q5":"I’m a typeface in one style."}
+"2025-05-29": {"answers":"font,fonts","prompt":"What am I?","q1":"I have marks and counters.","q2":"I have cases and weights.","q3":"I can be bold.","q4":"I’m full of glyphs.","q5":"I’m a typeface in one style."},
+"2025-05-30": {"answers":"hole","prompt":"What am I?","q1":"Fill me and make me “me”!","q2":"Use a key me to get home.","q3":"I’m a golfer’s goal.","q4":"If I’m in the wall, I’m an American diner or a British cash machine.","q5":"Avoid a pot me outside."}
 }
