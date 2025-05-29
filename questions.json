@@ -148,5 +148,6 @@
 "2025-05-27": {"answers":"filter","prompt":"What am I?","q1":"I’ll make better water.","q2":"I’ll make you prettier.","q3":"I’ll make cleaner air.","q4":"I remove the unwanted.","q5":"I purify fluids or enhance photos.","message":"Twosday"},
 "2025-05-28": {"answers":"floor","prompt":"What am I?","q1":"My price is the lowest.","q2":"Take the me and speak.","q3":"Exit on the ground me.","q4":"My plan helps build not just me, but the whole house.","q5":"I’m not a ceiling."},
 "2025-05-29": {"answers":"font,fonts","prompt":"What am I?","q1":"I have marks and counters.","q2":"I have cases and weights.","q3":"I can be bold.","q4":"I’m full of glyphs.","q5":"I’m a typeface in one style."},
-"2025-05-30": {"answers":"hole","prompt":"What am I?","q1":"Fill me and make me “me”!","q2":"Use a key me to get home.","q3":"I’m a golfer’s goal.","q4":"If I’m in the wall, I’m an American diner or a British cash machine.","q5":"Avoid a pot me outside."}
+"2025-05-30": {"answers":"hole","prompt":"What am I?","q1":"Fill me and make me “me”!","q2":"Use a key me to get home.","q3":"I’m a golfer’s goal.","q4":"If I’m in the wall, I’m an American diner or a British cash machine.","q5":"Avoid a pot me outside."},
+"2025-05-31": {"answers":"sing","prompt":"What comes first?","q1":"6th: A word meaning “frightening”.","q2":"5th: Take away L = “beginning”.","q3":"4th: Take away T = “looking for long”.","q4":"3rd: Take away A = “a thin thread”.","q5":"2nd: Take away R = “a bee’s warning”.","message":"Saturnday"}
 }
