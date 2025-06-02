@@ -152,5 +152,6 @@
 "2025-05-31": {"answers":"sing","prompt":"What comes first?","q1":"6th: A word meaning “frightening”.","q2":"5th: Take away L = “beginning”.","q3":"4th: Take away T = “looking for long”.","q4":"3rd: Take away A = “a thin thread”.","q5":"2nd: Take away R = “a bee’s warning”.","message":"Saturnday"},
 "2025-06-01": {"answers":"eclipse","prompt":"What am I?","q1":"I’m a coincidence...","q2":"... of three things.","q3":"You’re on one of those things.","q4":"The other two are in space.","q5":"It’s also a coincidence that the Moon is about the same size as the Sun in the sky."},
 "2025-06-02": {"answers":"microscope,microscopes","prompt":"What am I?","q1":"I can be simple or compound.","q2":"I have multiple lenses.","q3":"I’m often found in a lab.","q4":"I help you see things...","q5":"...that are very very small."},
-"2025-06-03": {"answers":"developer","prompt":"Who am I?","q1":"I make money.","q2":"My clients keep changing their minds.","q3":"A good framework is important to me.","q4":"My work involves building code.","q5":"I make houses or websites.","message":"Twosday"}
+"2025-06-03": {"answers":"developer","prompt":"Who am I?","q1":"I make money.","q2":"My clients keep changing their minds.","q3":"A good framework is important to me.","q4":"My work involves building code.","q5":"I make houses or websites.","message":"Twosday"},
+"2025-06-04": {"answers":"submarine,submarines","prompt":"Where am I?","q1":"There are no windows here.","q2":"No, I’m not in a sandwich.","q3":"Deploy the sonar!","q4":"Fire the torpedos!","q5":"Resurface the vessel!"}
 }
