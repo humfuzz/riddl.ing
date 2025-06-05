@@ -155,5 +155,6 @@
 "2025-06-03": {"answers":"developer","prompt":"Who am I?","q1":"I make money.","q2":"My clients keep changing their minds.","q3":"A good framework is important to me.","q4":"My work involves building code.","q5":"I make houses or websites.","message":"Twosday"},
 "2025-06-04": {"answers":"submarine,submarines","prompt":"Where am I?","q1":"There are no windows here.","q2":"No, I’m not in a sandwich.","q3":"Deploy the sonar!","q4":"Fire the torpedos!","q5":"Resurface the vessel!"},
 "2025-06-05": {"answers":"switch 2,nintendo switch 2","prompt":"What comes first?","q1":"6th: 64.","q2":"5th: GameCube.","q3":"4th: Wii.","q4":"3rd: Wii U.","q5":"2nd: Switch."},
-"2025-06-06": {"answers":"hotspot,hot spot,hot-spot","prompt":"What am I?","q1":"My two words rhyme.","q2":"My first word means “popular”.","q3":"My second word means “area”.","q4":"I’m a “warm place” of high activity.","q5":"I’m a “sizzling source” for biodiversity, entertainment, or internet access."}
+"2025-06-06": {"answers":"hotspot,hot spot,hot-spot","prompt":"What am I?","q1":"My two words rhyme.","q2":"My first word means “popular”.","q3":"My second word means “area”.","q4":"I’m a “warm place” of high activity.","q5":"I’m a “sizzling source” for biodiversity, entertainment, or internet access."},
+"2025-06-07": {"answers":"thumb","prompt":"What comes first?","q1":"6th: (Very rare.)","q2":"5th: Makes promises.","q3":"4th: Keeps a promise.","q4":"3rd: Rude by itself.","q5":"2nd: Points at things.","message":"Saturnday"}
 }
