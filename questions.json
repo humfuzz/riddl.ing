@@ -170,5 +170,6 @@
 "2025-06-18": {"answers":"bank","prompt":"Where am I?","q1":"I’m in a store...","q2":"...where I don’t buy things, per se.","q3":"Part of this place is always open...","q4":"...where I can use a machine instead of talking to people.","q5":"I deposit and withdraw money here."},
 "2025-06-19": {"answers":"beet,beetroot","prompt":"What am I?","q1":"I’m sweet.","q2":"Don’t get me on your clothes.","q3":"I’m sometimes the colour of cheeks.","q4":"I’m related to carrots and potatoes.","q5":"I’m a wine-coloured vegetable."},
 "2025-06-20": {"answers":"copy","prompt":"What am I?","q1":"I’m associated with the letter ‘C’.","q2":"I can be hard and physical.","q3":"I can be soft and digital.","q4":"I’m what you often do before you paste.","q5":"I’m reproduced from an original."},
-"2025-06-21": {"answers":"google,google search,www.google.com","prompt":"What comes first?","q1":"6th: X.","q2":"5th: ChatGPT.","q3":"4th: Instagram.","q4":"3rd: Facebook.","q5":"2nd: YouTube.","message":"Saturnday"}
+"2025-06-21": {"answers":"google,google search,www.google.com","prompt":"What comes first?","q1":"6th: X.","q2":"5th: ChatGPT.","q3":"4th: Instagram.","q4":"3rd: Facebook.","q5":"2nd: YouTube.","message":"Saturnday"},
+"2025-06-22": {"answers":"outage,power outage","prompt":"What am I?","q1":"I might be a time for boredom...","q2":"...or a time for darkness.","q3":"My second half doesn’t have an opposite because you can’t reverse time...","q4":"...and my first half’s opposite is “in”.","q5":"I’m a loss of power."}
 }
