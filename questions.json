@@ -172,5 +172,6 @@
 "2025-06-20": {"answers":"copy","prompt":"What am I?","q1":"I’m associated with the letter ‘C’.","q2":"I can be hard and physical.","q3":"I can be soft and digital.","q4":"I’m what you often do before you paste.","q5":"I’m reproduced from an original."},
 "2025-06-21": {"answers":"google,google search,www.google.com","prompt":"What comes first?","q1":"6th: X.","q2":"5th: ChatGPT.","q3":"4th: Instagram.","q4":"3rd: Facebook.","q5":"2nd: YouTube.","message":"Saturnday"},
 "2025-06-22": {"answers":"outage,power outage","prompt":"What am I?","q1":"I might be a time for boredom...","q2":"...or a time for darkness.","q3":"My second half doesn’t have an opposite because you can’t reverse time...","q4":"...and my first half’s opposite is “in”.","q5":"I’m a loss of power."},
-"2025-06-23": {"answers":"slide","prompt":"What am I?","q1":"I’m part of a casual outfit.","q2":"I’m part of a baseball game.","q3":"I’m part of a trombone.","q4":"I’m part of a presentation.","q5":"I’m part of a playground."}
+"2025-06-23": {"answers":"slide","prompt":"What am I?","q1":"I’m part of a casual outfit.","q2":"I’m part of a baseball game.","q3":"I’m part of a trombone.","q4":"I’m part of a presentation.","q5":"I’m part of a playground."},
+"2025-06-24": {"answers":"coast","prompt":"What am I?","q1":"You can come out if I’m clear.","q2":"I’m what happens if you take your foot off.","q3":"Australia has a long me and Armenia has none.","q4":"It’s easy to do me downhill.","q5":"I’m where land meets the sea or cruising without power.","message":"Twosday"}
 }
