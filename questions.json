@@ -175,5 +175,6 @@
 "2025-06-23": {"answers":"slide","prompt":"What am I?","q1":"I’m part of a casual outfit.","q2":"I’m part of a baseball game.","q3":"I’m part of a trombone.","q4":"I’m part of a presentation.","q5":"I’m part of a playground."},
 "2025-06-24": {"answers":"coast","prompt":"What am I?","q1":"You can come out if I’m clear.","q2":"I’m what happens if you take your foot off.","q3":"Australia has a long me and Armenia has none.","q4":"It’s easy to do me downhill.","q5":"I’m where land meets the sea or cruising without power.","message":"Twosday"},
 "2025-06-25": {"answers":"outside","prompt":"Where am I?","q1":"Some activities can only be done here.","q2":"There’s no air conditioning here.","q3":"My parents told me to go here.","q4":"I might “touch grass” here.","q5":"I’m exposed to the elements here."},
-"2025-06-26": {"answers":"brunch","prompt":"What am I?","q1":"I’m never at night.","q2":"I kill two birds with one stone.","q3":"I’m great if you woke up late.","q4":"I might have waffles or dim sum.","q5":"I’m breakfast and lunch at once."}
+"2025-06-26": {"answers":"brunch","prompt":"What am I?","q1":"I’m never at night.","q2":"I kill two birds with one stone.","q3":"I’m great if you woke up late.","q4":"I might have waffles or dim sum.","q5":"I’m breakfast and lunch at once."},
+"2025-06-27": {"answers":"torch","prompt":"What am I?","q1":"I’m featured in Minecraft.","q2":"I’m featured at the Olympics.","q3":"Be careful when holding me.","q4":"I emit light and heat.","q5":"I’m a stick with fire on one end."}
 }
