@@ -177,5 +177,6 @@
 "2025-06-25": {"answers":"outside","prompt":"Where am I?","q1":"Some activities can only be done here.","q2":"There’s no air conditioning here.","q3":"My parents told me to go here.","q4":"I might “touch grass” here.","q5":"I’m exposed to the elements here."},
 "2025-06-26": {"answers":"brunch","prompt":"What am I?","q1":"I’m never at night.","q2":"I kill two birds with one stone.","q3":"I’m great if you woke up late.","q4":"I might have waffles or dim sum.","q5":"I’m breakfast and lunch at once."},
 "2025-06-27": {"answers":"torch","prompt":"What am I?","q1":"I’m featured in Minecraft.","q2":"I’m featured at the Olympics.","q3":"Be careful when holding me.","q4":"I emit light and heat.","q5":"I’m a stick with fire on one end."},
-"2025-06-28": {"answers":"avatar","prompt":"What comes first?","q1":"6th: Star Wars: The Force Awakens.","q2":"5th: Ne Zha 2.","q3":"4th: Titanic.","q4":"3rd: Avatar: The Way of Water.","q5":"2nd: Avengers: Endgame.","message":"Saturnday"}
+"2025-06-28": {"answers":"avatar","prompt":"What comes first?","q1":"6th: Star Wars: The Force Awakens.","q2":"5th: Ne Zha 2.","q3":"4th: Titanic.","q4":"3rd: Avatar: The Way of Water.","q5":"2nd: Avengers: Endgame.","message":"Saturnday"},
+"2025-06-29": {"answers":"week,weeks","prompt":"What am I?","q1":"I might feel long.","q2":"I don’t sound strong.","q3":"My end is a time for rest.","q4":"My days are a time for work.","q5":"There are fifty-two of me every year."}
 }
