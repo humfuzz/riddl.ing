@@ -183,5 +183,6 @@
 "2025-07-01": {"answers":"scale,scales","prompt":"What am I?","q1":"Maps use me.","q2":"Do me to a mountain.","q3":"I may be major or minor.","q4":"I measure weights.","q5":"Fish have me.","message":"Twosday"},
 "2025-07-02": {"answers":"camouflage","prompt":"What am I?","q1":"It’s hard to see me.","q2":"Some buildings have me.","q3":"Squids do me.","q4":"Soldiers wear me.","q5":"I blend into my environment."},
 "2025-07-03": {"answers":"nap","prompt":"What am I?","q1":"I’m enjoyed.","q2":"If I’m too long, I’m no longer me.","q3":"I’m scary when I follow “kid”.","q4":"Babies love me.","q5":"I’m a sleeping break."},
-"2025-07-04": {"answers":"study","prompt":"What am I?","q1":"I’m a place where you might do me.","q2":"Kids do me more than adults.","q3":"Do me to check a scientific finding.","q4":"Doing me might include reviewing and memorization.","q5":"Do me before a school test."}
+"2025-07-04": {"answers":"study","prompt":"What am I?","q1":"I’m a place where you might do me.","q2":"Kids do me more than adults.","q3":"Do me to check a scientific finding.","q4":"Doing me might include reviewing and memorization.","q5":"Do me before a school test."},
+"2025-07-05": {"answers":"ant,ants,amoeba,amoebae,amoebas,aphid,aphids","prompt":"What comes first?","q1":"6th: The fourth largest, only smaller than its right and blue brothers.","q2":"5th: Smaller and trumpets.","q3":"4th: Smaller, helps someone bring presents once a year.","q4":"3rd: Smaller, sleeps on laptops and scratches couches.","q5":"2nd: Smaller, buzzes for honey.","message":"Saturnday"}
 }
