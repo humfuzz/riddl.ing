@@ -196,5 +196,6 @@
 "2025-07-14": {"answers":"dice,die","prompt":"What am I?","q1":"I might have six sides.","q2":"I might have twenty sides.","q3":"I’m found in some board games.","q4":"You might roll me or throw me.","q5":"I can generate a random value."},
 "2025-07-15": {"answers":"metal,metals","prompt":"What am I?","q1":"I’m heavy.","q2":"I often involve screaming.","q3":"I’m valuable.","q4":"I have loud drums and guitars.","q5":"I’m a shiny material or a rock genre.","message":"Twosday"},
 "2025-07-16": {"answers":"prison,jail,gaol,penitentiary","prompt":"Where am I?","q1":"I volunteer here.","q2":"I’m wearing a uniform.","q3":"I don’t want to be here.","q4":"I’m here for a sentence.","q5":"I’m here because I broke a law."},
-"2025-07-17": {"answers":"anniversary,birthday,birthdays","prompt":"What am I?","q1":"Today’s the first me of riddling!","q2":"I’m celebrated...","q3":"...once a year.","q4":"You might have a jubilee, party, or reunion on me.","q5":"A birthday is one kind of me."}
+"2025-07-17": {"answers":"anniversary,birthday,birthdays","prompt":"What am I?","q1":"Today’s the first me of riddling!","q2":"I’m celebrated...","q3":"...once a year.","q4":"You might have a jubilee, party, or reunion on me.","q5":"A birthday is one kind of me."},
+"2025-07-18": {"answers":"corner","prompt":"What am I?","q1":"Stop, you’re “me”ed!","q2":"I’m a good place for a kick.","q3":"A car slows down on me.","q4":"My stores have snacks.","q5":"A square has four of me."}
 }
