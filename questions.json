@@ -199,5 +199,6 @@
 "2025-07-17": {"answers":"anniversary,birthday,birthdays","prompt":"What am I?","q1":"Today’s the first me of riddling!","q2":"I’m celebrated...","q3":"...once a year.","q4":"You might have a jubilee, party, or reunion on me.","q5":"A birthday is one kind of me."},
 "2025-07-18": {"answers":"corner","prompt":"What am I?","q1":"Stop, you’re “me”ed!","q2":"I’m a good place for a kick.","q3":"A car slows down on me.","q4":"My stores have snacks.","q5":"A square has four of me."},
 "2025-07-19": {"answers":"vitamin a","prompt":"What comes first?","q1":"6th: (Doesn’t exist.)","q2":"5th: You need it.","q3":"4th: Get it outside.","q4":"3rd: Get it from fruits like oranges or lemons.","q5":"2nd: 1 (thiamine) through 12 (cobalamin) are found in meat, eggs, dairy, and leafy greens.","message":"Saturnday"},
-"2025-07-20": {"answers":"monkey","prompt":"What am I?","q1":"I’m in a troop.","q2":"I might see no evil.","q3":"Despite my name, I can’t open locks.","q4":"I’m associated with a calendar.","q5":"I’m a furry primate related to apes."}
+"2025-07-20": {"answers":"monkey","prompt":"What am I?","q1":"I’m in a troop.","q2":"I might see no evil.","q3":"Despite my name, I can’t open locks.","q4":"I’m associated with a calendar.","q5":"I’m a furry primate related to apes."},
+"2025-07-21": {"answers":"cave,caves,cavern","prompt":"What am I?","q1":"My “in” can trap you.","q2":"My paintings are old.","q3":"A man me might feature sports and beer.","q4":"I host bats and bears.","q5":"I’m a deep hole underground."}
 }
