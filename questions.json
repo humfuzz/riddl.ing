@@ -201,5 +201,6 @@
 "2025-07-19": {"answers":"vitamin a","prompt":"What comes first?","q1":"6th: (Doesn’t exist.)","q2":"5th: You need it.","q3":"4th: Get it outside.","q4":"3rd: Get it from fruits like oranges or lemons.","q5":"2nd: 1 (thiamine) through 12 (cobalamin) are found in meat, eggs, dairy, and leafy greens.","message":"Saturnday"},
 "2025-07-20": {"answers":"monkey","prompt":"What am I?","q1":"I’m in a troop.","q2":"I might see no evil.","q3":"Despite my name, I can’t open locks.","q4":"I’m associated with a calendar.","q5":"I’m a furry primate related to apes."},
 "2025-07-21": {"answers":"cave,caves,cavern","prompt":"What am I?","q1":"My “in” can trap you.","q2":"My paintings are old.","q3":"A man me might feature sports and beer.","q4":"I host bats and bears.","q5":"I’m a deep hole underground."},
-"2025-07-22": {"answers":"spare","prompt":"What am I?","q1":"You might have me in the back.","q2":"I’m worse than a strike.","q3":"Can you me some change?","q4":"Do you have a me you aren’t using?","q5":"Please do me, I don’t want to die!","message":"Twosday"}
+"2025-07-22": {"answers":"spare","prompt":"What am I?","q1":"You might have me in the back.","q2":"I’m worse than a strike.","q3":"Can you me some change?","q4":"Do you have a me you aren’t using?","q5":"Please do me, I don’t want to die!","message":"Twosday"},
+"2025-07-23": {"answers":"sponge","prompt":"What am I?","q1":"I’m often artificial...","q2":"...but I naturally live underwater.","q3":"I can hold liquids.","q4":"There’s a famous me named Bob.","q5":"I’ll help you clean."}
 }
