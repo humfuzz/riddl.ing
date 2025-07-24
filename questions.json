@@ -204,5 +204,6 @@
 "2025-07-22": {"answers":"spare","prompt":"What am I?","q1":"You might have me in the back.","q2":"I’m worse than a strike.","q3":"Can you me some change?","q4":"Do you have a me you aren’t using?","q5":"Please do me, I don’t want to die!","message":"Twosday"},
 "2025-07-23": {"answers":"sponge","prompt":"What am I?","q1":"I’m often artificial...","q2":"...but I naturally live underwater.","q3":"I can hold liquids.","q4":"There’s a famous me named Bob.","q5":"I’ll help you clean."},
 "2025-07-24": {"answers":"balcony","prompt":"What am I?","q1":"I might have a garden.","q2":"I might have a barbecue grill.","q3":"I might have chairs and a coffee table.","q4":"I definitely have railings.","q5":"I’m an apartment’s outdoor space."},
-"2025-07-25": {"answers":"wine,wines","prompt":"What am I?","q1":"I’m Rượu cần and Tapuy.","q2":"I’m Saperavi and Öküzgözü.","q3":"I’m Makgeolli and Tempranillo.","q4":"I’m Sake and Moscato.","q5":"I’m Cabernet Sauvignon and Chardonnay."}
+"2025-07-25": {"answers":"wine,wines","prompt":"What am I?","q1":"I’m Rượu cần and Tapuy.","q2":"I’m Saperavi and Öküzgözü.","q3":"I’m Makgeolli and Tempranillo.","q4":"I’m Sake and Moscato.","q5":"I’m Cabernet Sauvignon and Chardonnay."},
+"2025-07-26": {"answers":"bitcoin,btc","prompt":"What comes first?","q1":"6th: Solana.","q2":"5th: Build’N’Build.","q3":"4th: Tether.","q4":"3rd: XRP.","q5":"2nd: Ethereum.","message":"Saturnday"}
 }
