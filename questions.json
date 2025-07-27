@@ -207,5 +207,6 @@
 "2025-07-25": {"answers":"wine,wines","prompt":"What am I?","q1":"I’m Rượu cần and Tapuy.","q2":"I’m Saperavi and Öküzgözü.","q3":"I’m Makgeolli and Tempranillo.","q4":"I’m Sake and Moscato.","q5":"I’m Cabernet Sauvignon and Chardonnay."},
 "2025-07-26": {"answers":"bitcoin,btc","prompt":"What comes first?","q1":"6th: Solana.","q2":"5th: Build’N’Build.","q3":"4th: Tether.","q4":"3rd: XRP.","q5":"2nd: Ethereum.","message":"Saturnday"},
 "2025-07-27": {"answers":"diamond,diamonds","prompt":"What am I?","q1":"I’m hard.","q2":"I’m seen when skiing or playing baseball.","q3":"I’m grown...","q4":"...or mined.","q5":"My friends are spade, heart, and club."},
-"2025-07-28": {"answers":"raisin,currant,sultana","prompt":"What am I?","q1":"I’m found in bread and cake.","q2":"Add a ‘g’ and I might be seeking donations.","q3":"My water’s been removed.","q4":"I’m a smaller prune.","q5":"I’m a dried grape."}
+"2025-07-28": {"answers":"raisin,currant,sultana","prompt":"What am I?","q1":"I’m found in bread and cake.","q2":"Add a ‘g’ and I might be seeking donations.","q3":"My water’s been removed.","q4":"I’m a smaller prune.","q5":"I’m a dried grape."},
+"2025-07-29": {"answers":"stock","prompt":"What am I?","q1":"Check me in the back.","q2":"I can be chicken or fish.","q3":"You want to sell me (eventually).","q4":"My photos are watermarked.","q5":"I’m inventory, simmered for hours, bought low (hopefully), or licensed to businesses.","message":"Twosday"}
 }
