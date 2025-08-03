@@ -213,5 +213,6 @@
 "2025-07-31": {"answers":"yo-yo,yoyo","prompt":"What am I?","q1":"I’m cheap.","q2":"Do tricks with me.","q3":"If you’re good at my tricks, you can compete.","q4":"My trick divisions include two-handed, off-string, and freehand.","q5":"I’m a spinning toy."},
 "2025-08-01": {"answers":"cosplay,cosplayer","prompt":"What am I?","q1":"I might have weapons.","q2":"I might have wigs.","q3":"I might feature fictional characters.","q4":"I’m seen at fan conventions.","q5":"I’m short for “costume play”."},
 "2025-08-02": {"answers":"one","prompt":"What comes first?","q1":"6th: I’m one syllable.","q2":"5th: I might be associated with hands or stars.","q3":"4th: I rhyme with “more” or “centaur”.","q4":"3rd: I might be the start of a countdown or the end of a podium.","q5":"2nd: I’m the first prime number.","message":"Saturnday"},
-"2025-08-03": {"answers":"trap","prompt":"What am I?","q1":"It’s a me!","q2":"Shut your me!","q3":"You don’t need help, pull your boots me!","q4":"Mouse me and fly me do me to mice and flies, respectively.","q5":"Avoid tourist me and death me."}
+"2025-08-03": {"answers":"trap","prompt":"What am I?","q1":"It’s a me!","q2":"Shut your me!","q3":"You don’t need help, pull your boots me!","q4":"Mouse me and fly me do me to mice and flies, respectively.","q5":"Avoid tourist me and death me."},
+"2025-08-05": {"answers":"host","prompt":"What am I?","q1":"Every Olympics has a me.","q2":"I’m running a multiplayer game.","q3":"I speak between performances.","q4":"A parasite lives inside me.","q5":"I invite guests.","message":"Twosday"}
 }
