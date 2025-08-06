@@ -217,5 +217,6 @@
 "2025-08-04": {"answers":"squeak","prompt":"What am I?","q1":"A basketball game might make me.","q2":"A rubber duck might make me.","q3":"A rusty bike might make me.","q4":"A mouse might make me.","q5":"I’m a high pitched noise."},
 "2025-08-05": {"answers":"host","prompt":"What am I?","q1":"Every Olympics has a me.","q2":"I’m running a multiplayer game.","q3":"I speak between performances.","q4":"A parasite lives inside me.","q5":"I invite guests.","message":"Twosday"},
 "2025-08-06": {"answers":"pipe,pipes","prompt":"What am I?","q1":"I’m smoky.","q2":"A half-me is great for tricks.","q3":"Waste goes through me.","q4":"A singer has a good set of me.","q5":"I’m a hollow tube."},
-"2025-08-07": {"answers":"factory,factories","prompt":"What am I?","q1":"I have lines.","q2":"No, I don’t multiply numbers.","q3":"A famous me makes chocolate.","q4":"I have large machines and strict cleanliness standards.","q5":"I’m a building for assembling products."}
+"2025-08-07": {"answers":"factory,factories","prompt":"What am I?","q1":"I have lines.","q2":"No, I don’t multiply numbers.","q3":"A famous me makes chocolate.","q4":"I have large machines and strict cleanliness standards.","q5":"I’m a building for assembling products."},
+"2025-08-08": {"answers":"picture,pictures","prompt":"What am I?","q1":"Can you help take a me?","q2":"I’m shot.","q3":"Look at the big me.","q4":"A motion me is a movie.","q5":"I might show a nice landscape or some smiling people."}
 }
