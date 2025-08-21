@@ -232,5 +232,6 @@
 "2025-08-19": {"answers":"fine","prompt":"What am I?","q1":"I’m very small.","q2":"I’m excellent... or just okay.","q3":"“Me, I’ll do it...”","q4":"You don’t like paying me.","q5":"I’m powdery, a described quality, a reluctant expression, or a law-breaking fee.","message":"Twosday"},
 "2025-08-20": {"answers":"salt","prompt":"What am I?","q1":"Cheese has me, bananas don’t.","q2":"Securely encrypted passwords have me, plain text doesn’t.","q3":"Competitive online multiplayer games have me, a cozy fishing game doesn’t.","q4":"Roads in winter have me, roads in summer don’t.","q5":"Oceans have me, rivers don’t (comparatively)."},
 "2025-08-21": {"answers":"smile","prompt":"What am I?","q1":"I could be evil.","q2":"I’m longer than a “mile”?","q3":"I could be fake.","q4":"I’m biggest ear to ear.","q5":"I’m a frown upside down."},
-"2025-08-22": {"answers":"piece","prompt":"What am I?","q1":"I’m usually not alone.","q2":"Board games, museums, and newspapers have me.","q3":"Cakes and pizzas often have me.","q4":"How many me are in that LEGO set?","q5":"I’m one slice of a pie."}
+"2025-08-22": {"answers":"piece","prompt":"What am I?","q1":"I’m usually not alone.","q2":"Board games, museums, and newspapers have me.","q3":"Cakes and pizzas often have me.","q4":"How many me are in that LEGO set?","q5":"I’m one slice of a pie."},
+"2025-08-23": {"answers":"jurassic","prompt":"What comes first?","q1":"6th: Silurian.","q2":"5th: Devonian.","q3":"4th: Carboniferous.","q4":"3rd: Permian.","q5":"2nd: Triassic.","message":"Saturnday"}
 }
