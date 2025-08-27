@@ -237,5 +237,7 @@
 "2025-08-24": {"answers":"ink","prompt":"What am I?","q1":"I’m found in stationary shops.","q2":"I’m found in photo labs.","q3":"I’m found in tattoo studios.","q4":"I’m found in squids.","q5":"I’m a liquid that colours things."},
 "2025-08-25": {"answers":"stick","prompt":"What am I?","q1":"Chop me for eating.","q2":"I can mean glue, jab, and persist.","q3":"I may break bones with stones.","q4":"Change my ‘I’ with a ‘U’ and it might describe you right now.","q5":"My insects blend in with the trees."},
 "2025-08-26": {"answers":"hint","prompt":"What am I?","q1":"I’m barely noticeable.","q2":"I’m hopefully helpful.","q3":"I’m a whiff or a touch.","q4":"I’m a detective’s tip.","q5":"I’m a trace amount or a clue to a puzzle.","message":"Twosday"},
-"2025-08-27": {"answers":"free","prompt":"What am I?","q1":"“You’re me now!”","q2":"Time, wills, and rides can be me.","q3":"I’m like climbing without ropes.","q4":"Parks, beaches, and libraries are often me.","q5":"I’m yours for the low price of nothing!"}
+"2025-08-27": {"answers":"free","prompt":"What am I?","q1":"“You’re me now!”","q2":"Time, wills, and rides can be me.","q3":"I’m like climbing without ropes.","q4":"Parks, beaches, and libraries are often me.","q5":"I’m yours for the low price of nothing!"},
+"2025-08-28": {"answers":"staff","prompt":"What am I?","q1":"I might be a stick.","q2":"I could be used for walking.","q3":"I could be used for magic.","q4":"At a store, I could be a group of people...","q5":"...running the store."},
+"2025-08-29": {"answers":"bar","prompt":"What am I?","q1":"Gold me is a type of me.","q2":"Chocolate me is a type of me.","q3":"Sports me is a type of me.","q4":"Search me is a type of me.","q5":"Progress me is a type of me."}
 }
