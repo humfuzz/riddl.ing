@@ -239,5 +239,6 @@
 "2025-08-26": {"answers":"hint","prompt":"What am I?","q1":"I’m barely noticeable.","q2":"I’m hopefully helpful.","q3":"I’m a whiff or a touch.","q4":"I’m a detective’s tip.","q5":"I’m a trace amount or a clue to a puzzle.","message":"Twosday"},
 "2025-08-27": {"answers":"free","prompt":"What am I?","q1":"“You’re me now!”","q2":"Time, wills, and rides can be me.","q3":"I’m like climbing without ropes.","q4":"Parks, beaches, and libraries are often me.","q5":"I’m yours for the low price of nothing!"},
 "2025-08-28": {"answers":"staff","prompt":"What am I?","q1":"I might be a stick.","q2":"I could be used for walking.","q3":"I could be used for magic.","q4":"At a store, I could be a group of people...","q5":"...running the store."},
-"2025-08-29": {"answers":"bar","prompt":"What am I?","q1":"Gold me is a type of me.","q2":"Chocolate me is a type of me.","q3":"Sports me is a type of me.","q4":"Search me is a type of me.","q5":"Progress me is a type of me."}
+"2025-08-29": {"answers":"bar","prompt":"What am I?","q1":"Gold me is a type of me.","q2":"Chocolate me is a type of me.","q3":"Sports me is a type of me.","q4":"Search me is a type of me.","q5":"Progress me is a type of me."},
+"2025-08-30": {"answers":"saturday","prompt":"What comes sixth?","q1":"1st: Not many people’s favourite.","q2":"2nd: Sounds like it’s second.","q3":"3rd: The middle or “hump”.","q4":"4th: Named after a thunder god.","q5":"5th: Thank god it’s today!","message":"Saturnday"}
 }
