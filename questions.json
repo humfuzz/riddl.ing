@@ -248,5 +248,6 @@
 "2025-09-04": {"answers":"horseshoe,horseshoes","prompt":"What am I?","q1":"I’m a symbol of good luck.","q2":"Farriers know all about me.","q3":"I’m attached with glue or nails.","q4":"I look like a ‘U’.","q5":"I protect hooves from wear."},
 "2025-09-05": {"answers":"contest","prompt":"What am I?","q1":"I’m based on luck (sometimes).","q2":"Change my ‘S’ to ‘X’ and I become background knowledge.","q3":"I’m based on skill (sometimes).","q4":"The winner of me wins a prize.","q5":"I might be a lottery or a competition."},
 "2025-09-06": {"answers":"the","prompt":"What comes first?","q1":"6th: A.","q2":"5th: And.","q3":"4th: Of.","q4":"3rd: To.","q5":"2nd: Be.","message":"Saturnday"},
-"2025-09-07": {"answers":"hollow","prompt":"What am I?","q1":"Caves are me.","q2":"Some tree trunks are me.","q3":"In math, circles and spheres are me, discs and balls aren’t.","q4":"Empty victories are me.","q5":"Stomachs, vases, balloons, and straws are me."}
+"2025-09-07": {"answers":"hollow","prompt":"What am I?","q1":"Caves are me.","q2":"Some tree trunks are me.","q3":"In math, circles and spheres are me, discs and balls aren’t.","q4":"Empty victories are me.","q5":"Stomachs, vases, balloons, and straws are me."},
+"2025-09-08": {"answers":"origami","prompt":"What am I?","q1":"I’m originally from Japan.","q2":"Squares are important to me.","q3":"Valleys and mountains are part of me.","q4":"Cranes and planes are popular with me.","q5":"I’m the art of folding paper."}
 }
