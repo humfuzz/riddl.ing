@@ -250,5 +250,6 @@
 "2025-09-06": {"answers":"the","prompt":"What comes first?","q1":"6th: A.","q2":"5th: And.","q3":"4th: Of.","q4":"3rd: To.","q5":"2nd: Be.","message":"Saturnday"},
 "2025-09-07": {"answers":"hollow","prompt":"What am I?","q1":"Caves are me.","q2":"Some tree trunks are me.","q3":"In math, circles and spheres are me, discs and balls aren’t.","q4":"Empty victories are me.","q5":"Stomachs, vases, balloons, and straws are me."},
 "2025-09-08": {"answers":"origami","prompt":"What am I?","q1":"I’m originally from Japan.","q2":"Squares are important to me.","q3":"Valleys and mountains are part of me.","q4":"Cranes and planes are popular with me.","q5":"I’m the art of folding paper."},
-"2025-09-09": {"answers":"point","prompt":"What am I?","q1":"You can find me in this clue.","q2":"I’m collected.","q3":"You do me to direct others attention.","q4":"I separate the two parts of a non-whole number.","q5":"I’m a sharp end of something.","message":"Twosday"}
+"2025-09-09": {"answers":"point","prompt":"What am I?","q1":"You can find me in this clue.","q2":"I’m collected.","q3":"You do me to direct others attention.","q4":"I separate the two parts of a non-whole number.","q5":"I’m a sharp end of something.","message":"Twosday"},
+"2025-09-10": {"answers":"blank","prompt":"What am I?","q1":"Drawing a me?","q2":"You can’t miss point me.","q3":"Add “et” to me for a good night’s sleep.","q4":"Write my cheque without an amount.","q5":"I’m completely empty, like paper or a stare."}
 }
