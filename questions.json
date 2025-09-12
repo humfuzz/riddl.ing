@@ -254,5 +254,6 @@
 "2025-09-10": {"answers":"blank","prompt":"What am I?","q1":"Drawing a me?","q2":"You can’t miss point me.","q3":"Add “et” to me for a good night’s sleep.","q4":"Write my cheque without an amount.","q5":"I’m completely empty, like paper or a stare."},
 "2025-09-11": {"answers":"sand","prompt":"What am I?","q1":"My box is for playing.","q2":"My dollar is an animal.","q3":"My paper is coarse.","q4":"My castles don’t last long.","q5":"My “wich” is for eating."},
 "2025-09-12": {"answers":"refill","prompt":"What am I?","q1":"I’m sometimes free.","q2":"Dispensing machines might be used for me.","q3":"Bottomless things give you infinite me.","q4":"I’m done with reusable containers.","q5":"I make emptied things full again."},
-"2025-09-13": {"answers":"taylor swift","prompt":"What comes first?","q1":"6th: Reputation.","q2":"5th: 1989.","q3":"4th: Red.","q4":"3rd: Speak Now.","q5":"2nd: Fearless.","message":"Saturnday / Guest riddle by a friend"}
+"2025-09-13": {"answers":"taylor swift","prompt":"What comes first?","q1":"6th: Reputation.","q2":"5th: 1989.","q3":"4th: Red.","q4":"3rd: Speak Now.","q5":"2nd: Fearless.","message":"Saturnday / Guest riddle by a friend"},
+"2025-09-14": {"answers":"weird","prompt":"What am I?","q1":"I’m me...","q2":"...because my ‘e’ comes before my ‘i’.","q3":"My looks are unpleasant.","q4":"Rearrange my letters and I mean “on edge” or “broader”.","q5":"I’m strange or bizarre."}
 }
