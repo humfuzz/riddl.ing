@@ -276,5 +276,6 @@
 "2025-10-02": {"answers":"vote","prompt":"What am I?","q1":"“Me for me!”","q2":"You do me when I happen.","q3":"I’m important if there’s a werewolf or impostor.","q4":"I’m a choice made in a booth.","q5":"I’m cast by people to make decisions."},
 "2025-10-03": {"answers":"limit","prompt":"What am I?","q1":"I’m might be seen on a sign on the road.","q2":"I’m essential to calculus.","q3":"The guess me in this game is five.","q4":"I’m the edge of what’s possible.","q5":"I’m a restriction on the value of something."},
 "2025-10-04": {"answers":"ace,joker","prompt":"What comes first?","q1":"6th: Nine.","q2":"5th: Has the most suits on display.","q3":"4th: A male name or a six-pointed toy.","q4":"3rd: A female ruler.","q5":"2nd: King.","message":"Saturnday"},
-"2025-10-05": {"answers":"job","prompt":"What fits the blank?","q1":"“Good _!”","q2":"“They’re a bit of an odd _.”","q3":"“Did you get a nose _?”","q4":"“The operation was an inside _.”","q5":"“Don’t quit your day _.”"}
+"2025-10-05": {"answers":"job","prompt":"What fits the blank?","q1":"“Good _!”","q2":"“They’re a bit of an odd _.”","q3":"“Did you get a nose _?”","q4":"“The operation was an inside _.”","q5":"“Don’t quit your day _.”"},
+"2025-10-06": {"answers":"interview","prompt":"What am I?","q1":"I might happen on a podcast.","q2":"I feature questions.","q3":"I might happen in a police station.","q4":"I come before a job.","q5":"I’m an audition conversation."}
 }
