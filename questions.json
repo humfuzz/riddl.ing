@@ -280,5 +280,6 @@
 "2025-10-06": {"answers":"interview","prompt":"What am I?","q1":"I might happen on a podcast.","q2":"I feature questions.","q3":"I might happen in a police station.","q4":"I come before a job.","q5":"I’m an audition conversation."},
 "2025-10-07": {"answers":"pawn","prompt":"What am I?","q1":"I can trade up in value.","q2":"My shop trades (probably down in value).","q3":"I’m promoted.","q4":"I’m ordered around.","q5":"I’m a chess piece, a loaned item, or someone to be manipulated.","message":"Twosday"},
 "2025-10-08": {"answers":"shadow","prompt":"What am I?","q1":"I’m cast.","q2":"I’m learning from my senior.","q3":"I can keep time with the sun.","q4":"My puppets use fingers.","q5":"I’m always in the dark."},
-"2025-10-09": {"answers":"syrup","prompt":"What am I?","q1":"Corn me is a type of me.","q2":"Fruit me is a type of me.","q3":"Molasses is a type of me.","q4":"Cough me is a type of me.","q5":"Maple me is a type of me."}
+"2025-10-09": {"answers":"syrup","prompt":"What am I?","q1":"Corn me is a type of me.","q2":"Fruit me is a type of me.","q3":"Molasses is a type of me.","q4":"Cough me is a type of me.","q5":"Maple me is a type of me."},
+"2025-10-10": {"answers":"oil","prompt":"What am I?","q1":"I’m carried across countries.","q2":"I’m in many famous paintings.","q3":"I can be made of peanuts or fish.","q4":"I’m used to make things not stick.","q5":"I don’t mix well with water."}
 }
