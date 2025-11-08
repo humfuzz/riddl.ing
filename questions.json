@@ -311,5 +311,6 @@
 "2025-11-06": {"answers":"bronze","prompt":"What am I?","q1":"I’m associated with the number three.","q2":"I’m used in crafting ships and musical instruments.","q3":"I might become green over time.","q4":"The Iron Age followed my age.","q5":"I’m an alloy of copper and tin."},
 "2025-11-07": {"answers":"secret","prompt":"What am I?","q1":"An “open me” is not really a “me”.","q2":"Find me under the rug.","q3":"Keep me under your hat.","q4":"Little birds share me.","q5":"Carry me to your grave."},
 "2025-11-08": {"answers":"area","prompt":"What am I?","q1":"If I’m grey, I’m fuzzy.","q2":"I’m important in a house’s price.","q3":"My fifty-first is top secret.","q4":"Phones use my codes.","q5":"A rectangle’s me is its width multiplied by its height."},
-"2025-11-09": {"answers":"taxi,taxis,taxicab","prompt":"What am I?","q1":"Take me.","q2":"Hail me.","q3":"You can’t spell me without ‘I’ and government revenue!","q4":"I might have a sign on my roof with my name.","q5":"I’m a fared cab that takes you places."}
+"2025-11-09": {"answers":"taxi,taxis,taxicab","prompt":"What am I?","q1":"Take me.","q2":"Hail me.","q3":"You can’t spell me without ‘I’ and government revenue!","q4":"I might have a sign on my roof with my name.","q5":"I’m a fared cab that takes you places."},
+"2025-11-10": {"answers":"power","prompt":"What am I?","q1":"People fight for me.","q2":"I give you privileges.","q3":"My lines stretch long.","q4":"I used to be measured in horses...","q5":"...but now I’m often measured in watts."}
 }
