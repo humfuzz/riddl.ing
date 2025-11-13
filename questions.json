@@ -316,5 +316,6 @@
 "2025-11-11": {"answers":"bill","prompt":"What am I?","q1":"People fight for me...","q2":"...after enjoying their time together...","q3":"...eating a meal.","q4":"I’m passed by governments.","q5":"I’m found on duck heads.","message":"Twosday"},
 "2025-11-12": {"answers":"spaceship","prompt":"Where am I?","q1":"There might be pods here...","q2":"...for sleeping or escaping.","q3":"I might be on the Nostromo, the Falcon, or the TARDIS.","q4":"The first part of here describes the outside, and the second part is something found on water.","q5":"I’m on an interstellar vehicle."},
 "2025-11-13": {"answers":"spray","prompt":"What am I?","q1":"Wolves do me.","q2":"I’m used on plants, hair, and bears.","q3":"I feed plants, fix hair, and scare bears.","q4":"Skunks do me.","q5":"Graffiti artists do me."},
-"2025-11-14": {"answers":"system","prompt":"What am I?","q1":"I might be nervous.","q2":"I might be operating.","q3":"I might be eco.","q4":"I might be immune or solar.","q5":"I might be Dewey Decimal or Global Positioning."}
+"2025-11-14": {"answers":"system","prompt":"What am I?","q1":"I might be nervous.","q2":"I might be operating.","q3":"I might be eco.","q4":"I might be immune or solar.","q5":"I might be Dewey Decimal or Global Positioning."},
+"2025-11-15": {"answers":"floss","prompt":"What am I?","q1":"I’m found in washrooms...","q2":"...but probably not in public washrooms.","q3":"I share my name with a dance and certain candy.","q4":"I’m useful with a mirror.","q5":"I go in between teeth."}
 }
