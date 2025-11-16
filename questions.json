@@ -319,5 +319,6 @@
 "2025-11-14": {"answers":"system","prompt":"What am I?","q1":"I might be nervous.","q2":"I might be operating.","q3":"I might be eco.","q4":"I might be immune or solar.","q5":"I might be Dewey Decimal or Global Positioning."},
 "2025-11-15": {"answers":"floss","prompt":"What am I?","q1":"I’m found in washrooms...","q2":"...but probably not in public washrooms.","q3":"I share my name with a dance and certain candy.","q4":"I’m useful with a mirror.","q5":"I go in between teeth."},
 "2025-11-16": {"answers":"constellation,constellations","prompt":"What am I?","q1":"Pegasus and Phoenix are me.","q2":"Hercules and Hydra are me.","q3":"Scorpio and Cancer are me.","q4":"Cassiopeia and Orion are me.","q5":"Ursa Major and Ursa Minor are me."},
-"2025-11-17": {"answers":"alarm,alarms","prompt":"What am I?","q1":"You might find me in the bedroom.","q2":"You might find me on your smartphone.","q3":"A fire me might save your life.","q4":"I might wake you up.","q5":"I’ll help you be on time."}
+"2025-11-17": {"answers":"alarm,alarms","prompt":"What am I?","q1":"You might find me in the bedroom.","q2":"You might find me on your smartphone.","q3":"A fire me might save your life.","q4":"I might wake you up.","q5":"I’ll help you be on time."},
+"2025-11-18": {"answers":"kid","prompt":"What am I?","q1":"I want to be the centre of attention.","q2":"I’m not serious.","q3":"I might grow horns.","q4":"“Me you not” = telling the truth.","q5":"I’m joking or a young goat or human.","message":"Twosday"}
 }
