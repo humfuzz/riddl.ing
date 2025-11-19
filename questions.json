@@ -322,5 +322,6 @@
 "2025-11-17": {"answers":"alarm,alarms","prompt":"What am I?","q1":"You might find me in the bedroom.","q2":"You might find me on your smartphone.","q3":"A fire me might save your life.","q4":"I might wake you up.","q5":"I’ll help you be on time."},
 "2025-11-18": {"answers":"kid","prompt":"What am I?","q1":"I want to be the centre of attention.","q2":"I’m not serious.","q3":"I might grow horns.","q4":"“Me you not” = telling the truth.","q5":"I’m joking or a young goat or human.","message":"Twosday"},
 "2025-11-19": {"answers":"firefighter,firefighters,fireman,firemen","prompt":"Who am I?","q1":"I’m fit.","q2":"I have a lot of equipment.","q3":"Drills are important in my line of work.","q4":"You might hear me passing by.","q5":"My job involves extinguishing flames."},
-"2025-11-20": {"answers":"fish","prompt":"What am I?","q1":"A cat me is a type of me.","q2":"A zebra me is a type of me.","q3":"A star me is a type of me.","q4":"A gold me is a type of me.","q5":"A jelly me is a type of me."}
+"2025-11-20": {"answers":"fish","prompt":"What am I?","q1":"A cat me is a type of me.","q2":"A zebra me is a type of me.","q3":"A star me is a type of me.","q4":"A gold me is a type of me.","q5":"A jelly me is a type of me."},
+"2025-11-21": {"answers":"express","prompt":"What am I?","q1":"I’m faster than normal.","q2":"I sound like a machine that irons your past relationships.","q3":"I’m showing my feelings.","q4":"I’m one letter away from a female ruler.","q5":"My train or delivery may cost more for my speed."}
 }
