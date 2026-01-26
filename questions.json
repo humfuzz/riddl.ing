@@ -25,5 +25,6 @@
 "2026-01-24": {"answers":"beer,ale,ales,lager,ipa,porter","prompt":"What am I?","q1":"I’m hard.","q2":"Too much of me might cause trouble.","q3":"I’m held during many sports.","q4":"I’m bubbly.","q5":"I’m a yeasty pub drink."},
 "2026-01-25": {"answers":"sea","prompt":"What am I?","q1":"I’m salty.","q2":"I’m before eye.","q3":"There are less than a hundred of me.","q4":"I’m after “bee”.","q5":"I’m bigger than a lake and smaller than an ocean."},
 "2026-01-26": {"answers":"cookie","prompt":"What am I?","q1":"I rise.","q2":"I might avoid passwords.","q3":"Eat me and I’ll turn my ‘C’ into a ‘D’.","q4":"I’m often chipped and crumbly.","q5":"I’m a sweet baked biscuit."},
-"2026-01-27": {"answers":"turkey","prompt":"What am I?","q1":"I’m from America.","q2":"I’m in Eurasia.","q3":"I have a red neck or a red flag.","q4":"I’m eaten.","q5":"Pide and döner are eaten in me.","message":"Twosday"}
+"2026-01-27": {"answers":"turkey","prompt":"What am I?","q1":"I’m from America.","q2":"I’m in Eurasia.","q3":"I have a red neck or a red flag.","q4":"I’m eaten.","q5":"Pide and döner are eaten in me.","message":"Twosday"},
+"2026-01-28": {"answers":"dna,deoxyribonucleic acid","prompt":"What am I?","q1":"I’m in you.","q2":"I’m come in pairs.","q3":"I’m copied over and over.","q4":"I’m essential for life.","q5":"I’m a helical molecule that your genes are made up of."}
 }
