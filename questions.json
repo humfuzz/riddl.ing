@@ -28,5 +28,6 @@
 "2026-01-27": {"answers":"turkey","prompt":"What am I?","q1":"I’m from America.","q2":"I’m in Eurasia.","q3":"I have a red neck or a red flag.","q4":"I’m eaten.","q5":"Pide and döner are eaten in me.","message":"Twosday"},
 "2026-01-28": {"answers":"dna,deoxyribonucleic acid","prompt":"What am I?","q1":"I’m in you.","q2":"I’m come in pairs.","q3":"I’m copied over and over.","q4":"I’m essential for life.","q5":"I’m a helical molecule that your genes are made up of."},
 "2026-01-29": {"answers":"buffet,all-you-can-eat restaurant","prompt":"What am I?","q1":"I’m endless.","q2":"You pay for me.","q3":"You may serve yourself.","q4":"To get your money’s worth, you might avoid bread and potatoes.","q5":"I’m all you can eat."},
-"2026-01-30": {"answers":"sun","prompt":"What connects all clues?","q1":"Screens and burns.","q2":"Kazakhstan and Uruguay.","q3":"Dried tomatoes.","q4":"Ra and Amaterasu.","q5":"Solar and daylight.","message":"Connections"}
+"2026-01-30": {"answers":"sun","prompt":"What connects all clues?","q1":"Screens and burns.","q2":"Kazakhstan and Uruguay.","q3":"Dried tomatoes.","q4":"Ra and Amaterasu.","q5":"Solar and daylight.","message":"Connections"},
+"2026-01-31": {"answers":"pad","prompt":"What am I?","q1":"Use a touch me.","q2":"Wear a shoulder me.","q3":"Write on a scratch me.","q4":"Frogs hop on a lily me.","q5":"Helicopters land on a heli-me."}
 }
