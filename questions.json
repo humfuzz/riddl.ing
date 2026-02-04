@@ -34,5 +34,6 @@
 "2026-02-02": {"answers":"net","prompt":"What am I?","q1":"I’m featured in sports.","q2":"I’m online.","q3":"I’m used in the circus.","q4":"I’m used in fishing.","q5":"You need me in volleyball and hockey."},
 "2026-02-03": {"answers":"server","prompt":"What am I?","q1":"I’m hoping for an ace.","q2":"I’ve got many clients.","q3":"I’m a way to play Minecraft.","q4":"I’m bringing your order.","q5":"I’m a private space for group chats.","message":"Twosday"},
 "2026-02-04": {"answers":"kitchen","prompt":"Where am I?","q1":"It can be dangerous if you’re not careful here.","q2":"The work here is often done for other people.","q3":"Areas here can be very cold and very hot.","q4":"The smells here are delightful.","q5":"There are knives and stoves here."},
-"2026-02-05": {"answers":"pistachio","prompt":"What am I?","q1":"I might hurt your nails.","q2":"My name likely comes from Persian.","q3":"I’m related to mangoes and cashews.","q4":"I’m part of spumoni, baklava, and knafeh.","q5":"I’m a shelled green seed."}
+"2026-02-05": {"answers":"pistachio","prompt":"What am I?","q1":"I might hurt your nails.","q2":"My name likely comes from Persian.","q3":"I’m related to mangoes and cashews.","q4":"I’m part of spumoni, baklava, and knafeh.","q5":"I’m a shelled green seed."},
+"2026-02-06": {"answers":"parade","prompt":"What am I?","q1":"I might have tanks.","q2":"I might have Santa.","q3":"I might have marching bands.","q4":"I might have athletes from all nations.","q5":"I might have cheerleaders, mascots, and decorated cars."}
 }
