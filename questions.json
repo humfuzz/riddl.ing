@@ -37,5 +37,6 @@
 "2026-02-05": {"answers":"pistachio","prompt":"What am I?","q1":"I might hurt your nails.","q2":"My name likely comes from Persian.","q3":"I’m related to mangoes and cashews.","q4":"I’m part of spumoni, baklava, and knafeh.","q5":"I’m a shelled green seed."},
 "2026-02-06": {"answers":"parade","prompt":"What am I?","q1":"I might have tanks.","q2":"I might have Santa.","q3":"I might have marching bands.","q4":"I might have athletes from all nations.","q5":"I might have cheerleaders, mascots, and decorated cars."},
 "2026-02-07": {"answers":"jump,jumping","prompt":"What am I?","q1":"I might follow a joyful win.","q2":"On skis, I’m about going far.","q3":"On a snowboard, I’m about tricks.","q4":"On skates, I’m about loops and axels.","q5":"I’m feet off the ground."},
-"2026-02-08": {"answers":"stone","prompt":"What am I?","q1":"I’m hard.","q2":"I’m easy to find.","q3":"I’m seen in cemeteries.","q4":"I’m featured in curling.","q5":"I’m used in jewelry."}
+"2026-02-08": {"answers":"stone","prompt":"What am I?","q1":"I’m hard.","q2":"I’m easy to find.","q3":"I’m seen in cemeteries.","q4":"I’m featured in curling.","q5":"I’m used in jewelry."},
+"2026-02-09": {"answers":"biathlon","prompt":"What am I?","q1":"I need endurance and precision.","q2":"I need snow...","q3":"...and targets.","q4":"I’m skiing with a rifle.","q5":"I’m one event less than a triathlon."}
 }
