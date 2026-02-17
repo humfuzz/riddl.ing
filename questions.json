@@ -46,5 +46,6 @@
 "2026-02-14": {"answers":"luge","prompt":"What am I?","q1":"Bring an umbrella for a de-“me”.","q2":"Change my third letter to ‘R’ and go fishing with me.","q3":"Rearrange my letters and I become sticky.","q4":"Change my first letter to ‘H’ and I become enormous.","q5":"I’m competitive feet-first sledding."},
 "2026-02-15": {"answers":"blade","prompt":"What connects all five words?","q1":"1. Grass.","q2":"2. Shoulder.","q3":"3. Skates.","q4":"4. Razor.","q5":"5. Knife.","message":"Connections"},
 "2026-02-16": {"answers":"horse,horses","prompt":"What am I?","q1":"A sea me has no legs.","q2":"My power is measured.","q3":"A dark me may upset things.","q4":"My shoes are lucky.","q5":"I’m related to zebras and donkeys."},
-"2026-02-17": {"answers":"fortune","prompt":"What am I?","q1":"I’m told.","q2":"I might be found in food.","q3":"I can be good or bad.","q4":"I might be found in a vault.","q5":"I’m a lucky accident, a lot of money, or I see the future.","message":"Twosday"}
+"2026-02-17": {"answers":"fortune","prompt":"What am I?","q1":"I’m told.","q2":"I might be found in food.","q3":"I can be good or bad.","q4":"I might be found in a vault.","q5":"I’m a lucky accident, a lot of money, or I see the future.","message":"Twosday"},
+"2026-02-18": {"answers":"volunteer,volunteers","prompt":"Who am I?","q1":"You may find me at a concert.","q2":"You may find me at the Olympics.","q3":"You may find me at a magic show.","q4":"You may find me at a food bank.","q5":"I don’t get paid."}
 }
