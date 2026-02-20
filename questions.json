@@ -50,5 +50,6 @@
 "2026-02-18": {"answers":"volunteer,volunteers","prompt":"Who am I?","q1":"You may find me at a concert.","q2":"You may find me at the Olympics.","q3":"You may find me at a magic show.","q4":"You may find me at a food bank.","q5":"I don’t get paid."},
 "2026-02-19": {"answers":"point","prompt":"What am I?","q1":"I’m small.","q2":"I’m often marked with a single letter.","q3":"People often do me with one finger.","q4":"“Me”-blank is close.","q5":"Quadruple axel is worth a lot of me."},
 "2026-02-20": {"answers":"goggles,goggle","prompt":"What am I?","q1":"I’m worn by construction workers.","q2":"I’m worn by lab technicians.","q3":"I’m worn by mechanics.","q4":"I’m worn by skiers.","q5":"I’m worn by swimmers."},
-"2026-02-21": {"answers":"pole,poles","prompt":"What am I?","q1":"Earth has me.","q2":"Ski jumpers don’t have me...","q3":"... but Summer jumpers do.","q4":"I might live in Poland.","q5":"Magnets have two of me."}
+"2026-02-21": {"answers":"pole,poles","prompt":"What am I?","q1":"Earth has me.","q2":"Ski jumpers don’t have me...","q3":"... but Summer jumpers do.","q4":"I might live in Poland.","q5":"Magnets have two of me."},
+"2026-02-22": {"answers":"ceremony","prompt":"What am I?","q1":"I open and close.","q2":"I award people.","q3":"I marry people.","q4":"I graduate people.","q5":"I’m a formal special occasion."}
 }
