@@ -52,5 +52,6 @@
 "2026-02-20": {"answers":"goggles,goggle","prompt":"What am I?","q1":"I’m worn by construction workers.","q2":"I’m worn by lab technicians.","q3":"I’m worn by mechanics.","q4":"I’m worn by skiers.","q5":"I’m worn by swimmers."},
 "2026-02-21": {"answers":"pole,poles","prompt":"What am I?","q1":"Earth has me.","q2":"Ski jumpers don’t have me...","q3":"... but Summer jumpers do.","q4":"I might live in Poland.","q5":"Magnets have two of me."},
 "2026-02-22": {"answers":"ceremony","prompt":"What am I?","q1":"I open and close.","q2":"I award people.","q3":"I marry people.","q4":"I graduate people.","q5":"I’m a formal special occasion."},
-"2026-02-23": {"answers":"supper","prompt":"What am I?","q1":"Some people don’t have me.","q2":"In Milan, see the last me...","q3":"...which took place in Jerusalem.","q4":"My counterpart, which used to be in the afternoon, is a more formal version of me.","q5":"I’m an evening meal or snack after dinner."}
+"2026-02-23": {"answers":"supper","prompt":"What am I?","q1":"Some people don’t have me.","q2":"In Milan, see the last me...","q3":"...which took place in Jerusalem.","q4":"My counterpart, which used to be in the afternoon, is a more formal version of me.","q5":"I’m an evening meal or snack after dinner."},
+"2026-02-24": {"answers":"park","prompt":"What am I?","q1":"Do me to cars.","q2":"Do me to your money.","q3":"I might have a ferris wheel.","q4":"I might have baseball players.","q5":"Shift your car to me so you can do me in a car me. Don’t forget to pay or you might get a “me-ing” ticket!","message":"Twosday"}
 }
