@@ -59,5 +59,6 @@
 "2026-02-27": {"answers":"pearl,pearls","prompt":"What am I?","q1":"I have many layers.","q2":"The rounder I am, the more valuable I become.","q3":"My colours are commonly white, cream, pink, and black.","q4":"I’m popular in jewelry.","q5":"I’m produced by molluscs."},
 "2026-02-28": {"answers":"six seven","prompt":"What am I?","q1":"I’m annoying to some.","q2":"I’m funny to others.","q3":"I might have replaced something nice and something high.","q4":"“My child can’t stop saying me – should I be concerned?”","q5":"I come after four five."},
 "2026-03-01": {"answers":"coconut,coconuts","prompt":"What am I?","q1":"My outside is hard.","q2":"My inside has water.","q3":"You can eat me.","q4":"I grow in tropical regions.","q5":"Despite my name, I’m not a nut."},
-"2026-03-02": {"answers":"pie,pies","prompt":"What am I?","q1":"I can be mud.","q2":"I can be humble.","q3":"I can be pork.","q4":"I can be shepherd’s.","q5":"I can be apple, cherry, or pumpkin."}
+"2026-03-02": {"answers":"pie,pies","prompt":"What am I?","q1":"I can be mud.","q2":"I can be humble.","q3":"I can be pork.","q4":"I can be shepherd’s.","q5":"I can be apple, cherry, or pumpkin."},
+"2026-03-03": {"answers":"safe","prompt":"What am I?","q1":"I’m not out.","q2":"I’m locked.","q3":"You deserve to feel me.","q4":"I’m secure.","q5":"I’m not dangerous.","message":"Twosday"}
 }
