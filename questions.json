@@ -65,5 +65,6 @@
 "2026-03-05": {"answers":"cable","prompt":"What am I?","q1":"I’m often very long.","q2":"My car is above ground.","q3":"Some of my fibres are underwater.","q4":"My television has many channels.","q5":"Varieties of me include power, ethernet, and HDMI."},
 "2026-03-06": {"answers":"venue,venues","prompt":"What am I?","q1":"Re-“me” has money.","q2":"Walk down the a-“me”.","q3":"I’m a place where things happen.","q4":"44th Street and 8th a-“me” is where you’ll find a famous me.","q5":"I’m a baseball stadium, a concert hall, or a movie theatre."},
 "2026-03-07": {"answers":"string,strings","prompt":"What am I?","q1":"I’m some characters.","q2":"Do me along to give false hope.","q3":"My beans are long.","q4":"Without me, you can’t play tennis.","q5":"A piano has me, though it isn’t a me instrument."},
-"2026-03-08": {"answers":"angel,angels","prompt":"What am I?","q1":"I might keep you safe.","q2":"You can make me with snow.","q3":"I might be wearing white.","q4":"I might be guardian or hells.","q5":"I might have a halo and wings."}
+"2026-03-08": {"answers":"angel,angels","prompt":"What am I?","q1":"I might keep you safe.","q2":"You can make me with snow.","q3":"I might be wearing white.","q4":"I might be guardian or hells.","q5":"I might have a halo and wings."},
+"2026-03-09": {"answers":"pill","prompt":"What am I?","q1":"I can be dangerous.","q2":"I come in bottles.","q3":"I might have tabs or caps.","q4":"I can be hard to swallow.","q5":"I’m a form of edible medicine that rhymes with “drill”."}
 }
