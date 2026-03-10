@@ -68,5 +68,6 @@
 "2026-03-08": {"answers":"angel,angels","prompt":"What am I?","q1":"I might keep you safe.","q2":"You can make me with snow.","q3":"I might be wearing white.","q4":"I might be guardian or hells.","q5":"I might have a halo and wings."},
 "2026-03-09": {"answers":"pill","prompt":"What am I?","q1":"I can be dangerous.","q2":"I come in bottles.","q3":"I might have tabs or caps.","q4":"I can be hard to swallow.","q5":"I’m a form of edible medicine that rhymes with “drill”."},
 "2026-03-10": {"answers":"cross","prompt":"What am I?","q1":"My paths meet.","q2":"I’m done to fingers, arms, and legs.","q3":"I’m done on streets.","q4":"I’m seen at church.","q5":"I’m seen on flags including Denmark’s, Georgia’s, and the United Kingdom’s.","message":"Twosday"},
-"2026-03-11": {"answers":"senior","prompt":"What am I?","q1":"I might be old.","q2":"I might be a father.","q3":"I might be more experienced.","q4":"I might be in my last year.","q5":"I’m not junior."}
+"2026-03-11": {"answers":"senior","prompt":"What am I?","q1":"I might be old.","q2":"I might be a father.","q3":"I might be more experienced.","q4":"I might be in my last year.","q5":"I’m not junior."},
+"2026-03-12": {"answers":"fountain","prompt":"What am I?","q1":"Find me in parks.","q2":"I might dance to songs.","q3":"Find my drinks at fast food places.","q4":"My pens are reusable.","q5":"I discharge water or drinks."}
 }
