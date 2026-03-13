@@ -71,5 +71,6 @@
 "2026-03-11": {"answers":"senior","prompt":"What am I?","q1":"I might be old.","q2":"I might be a father.","q3":"I might be more experienced.","q4":"I might be in my last year.","q5":"I’m not junior."},
 "2026-03-12": {"answers":"fountain","prompt":"What am I?","q1":"Find me in parks.","q2":"I might dance to songs.","q3":"Find my drinks at fast food places.","q4":"My pens are reusable.","q5":"I discharge water or drinks."},
 "2026-03-13": {"answers":"alert,attentive,awake,wakeful","prompt":"...might make you more me. What am I?","q1":"A cup...","q2":"A loud sound...","q3":"A scary bug...","q4":"A splash of cold water...","q5":"Getting good sleep..."},
-"2026-03-14": {"answers":"split","prompt":"What am I?","q1":"I’m seen with bananas.","q2":"Do me to bills.","q3":"I’m seen in blackjack and bowling.","q4":"Horror film: Let’s “me” up! Heist film: Let’s “me” and get out of here! We can “me” the money later.","q5":"I’m dividing something into pieces."}
+"2026-03-14": {"answers":"split","prompt":"What am I?","q1":"I’m seen with bananas.","q2":"Do me to bills.","q3":"I’m seen in blackjack and bowling.","q4":"Horror film: Let’s “me” up! Heist film: Let’s “me” and get out of here! We can “me” the money later.","q5":"I’m dividing something into pieces."},
+"2026-03-15": {"answers":"roll","prompt":"What connects all five clues?","q1":"1. Spring.","q2":"2. Drum.","q3":"3. Dice.","q4":"4. Cinnamon.","q5":"5. Toilet paper.","message":"Connections"}
 }
