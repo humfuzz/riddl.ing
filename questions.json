@@ -73,5 +73,6 @@
 "2026-03-13": {"answers":"alert,attentive,awake,wakeful","prompt":"...might make you more me. What am I?","q1":"A cup...","q2":"A loud sound...","q3":"A scary bug...","q4":"A splash of cold water...","q5":"Getting good sleep..."},
 "2026-03-14": {"answers":"split","prompt":"What am I?","q1":"I’m seen with bananas.","q2":"Do me to bills.","q3":"I’m seen in blackjack and bowling.","q4":"Horror film: Let’s “me” up! Heist film: Let’s “me” and get out of here! We can “me” the money later.","q5":"I’m dividing something into pieces."},
 "2026-03-15": {"answers":"roll","prompt":"What connects all five clues?","q1":"1. Spring.","q2":"2. Drum.","q3":"3. Dice.","q4":"4. Cinnamon.","q5":"5. Toilet paper.","message":"Connections"},
-"2026-03-16": {"answers":"reason","prompt":"What am I?","q1":"I might persuade.","q2":"I might be an excuse.","q3":"“Me”-able people are easy to “me” with.","q4":"There’s no me nor rhyme.","q5":"I’m a cause or careful thought."}
+"2026-03-16": {"answers":"reason","prompt":"What am I?","q1":"I might persuade.","q2":"I might be an excuse.","q3":"“Me”-able people are easy to “me” with.","q4":"There’s no me nor rhyme.","q5":"I’m a cause or careful thought."},
+"2026-03-17": {"answers":"star,stars","prompt":"What am I?","q1":"I’m famous.","q2":"I’m very hot.","q3":"I might be an actor, an athlete, or a musician.","q4":"I might have five points.","q5":"The sun is a me.","message":"Twosday"}
 }
