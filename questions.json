@@ -75,5 +75,6 @@
 "2026-03-15": {"answers":"roll","prompt":"What connects all five clues?","q1":"1. Spring.","q2":"2. Drum.","q3":"3. Dice.","q4":"4. Cinnamon.","q5":"5. Toilet paper.","message":"Connections"},
 "2026-03-16": {"answers":"reason","prompt":"What am I?","q1":"I might persuade.","q2":"I might be an excuse.","q3":"“Me”-able people are easy to “me” with.","q4":"There’s no me nor rhyme.","q5":"I’m a cause or careful thought."},
 "2026-03-17": {"answers":"star,stars","prompt":"What am I?","q1":"I’m famous.","q2":"I’m very hot.","q3":"I might be an actor, an athlete, or a musician.","q4":"I might have five points.","q5":"The sun is a me.","message":"Twosday"},
-"2026-03-18": {"answers":"bagel","prompt":"What am I?","q1":"I’m dense.","q2":"I might be eaten for breakfast.","q3":"I’m made of flour.","q4":"I might be topped with seeds.","q5":"I’m a bread ring often cut in half."}
+"2026-03-18": {"answers":"bagel","prompt":"What am I?","q1":"I’m dense.","q2":"I might be eaten for breakfast.","q3":"I’m made of flour.","q4":"I might be topped with seeds.","q5":"I’m a bread ring often cut in half."},
+"2026-03-19": {"answers":"asdf","prompt":"What’s the password?","q1":"I’m not very secure.","q2":"I’m four letters long.","q3":"I’m typed all on the left hand on a QWERTY keyboard.","q4":"I’m one vowel followed by three consonants.","q5":"With my letters, you can write “ad as sad as a fad”."}
 }
