@@ -83,5 +83,7 @@
 "2026-03-23": {"answers":"door,doors","prompt":"What am I?","q1":"I might slide.","q2":"I might swing.","q3":"I might be open.","q4":"Knock on me.","q5":"Close me on your way out."},
 "2026-03-24": {"answers":"drag","prompt":"What am I?","q1":"I’m a bore.","q2":"I’m breathing in.","q3":"I’m like a fashion show.","q4":"I slow down vehicles with air or water.","q5":"I’m clicking, holding, and moving.","message":"Twosday"},
 "2026-03-25": {"answers":"peak","prompt":"What am I?","q1":"I’m tiptop.","q2":"Every graph has me.","q3":"I’m slang for excellence.","q4":"Every mountain has me.","q5":"I’m a summit, a maximum point."},
-"2026-03-26": {"answers":"pedal","prompt":"What am I?","q1":"Organs have me.","q2":"Garbage cans might have me.","q3":"Sewing machines might have me.","q4":"Bicycles have me.","q5":"Cars and drum kits have me."}
+"2026-03-26": {"answers":"pedal","prompt":"What am I?","q1":"Organs have me.","q2":"Garbage cans might have me.","q3":"Sewing machines might have me.","q4":"Bicycles have me.","q5":"Cars and drum kits have me."},
+"2026-03-27": {"answers":"volcano,volcanoes","prompt":"What am I?","q1":"I’m part of some islands.","q2":"I’m found with some hot springs.","q3":"I can be dormant, active, or extinct.","q4":"I’m found with some geysers and earthquakes.","q5":"My magma erupts as lava."},
+"2026-03-28": {"answers":"offer","prompt":"What am I?","q1":"I might be free.","q2":"I might be limited.","q3":"My letter comes with strings attached.","q4":"I might be difficult to refuse.","q5":"I might bring condolences, support, or sign-on bonuses."}
 }
