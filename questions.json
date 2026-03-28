@@ -86,5 +86,6 @@
 "2026-03-26": {"answers":"pedal","prompt":"What am I?","q1":"Organs have me.","q2":"Garbage cans might have me.","q3":"Sewing machines might have me.","q4":"Bicycles have me.","q5":"Cars and drum kits have me."},
 "2026-03-27": {"answers":"volcano,volcanoes","prompt":"What am I?","q1":"I’m part of some islands.","q2":"I’m found with some hot springs.","q3":"I can be dormant, active, or extinct.","q4":"I’m found with some geysers and earthquakes.","q5":"My magma erupts as lava."},
 "2026-03-28": {"answers":"offer","prompt":"What am I?","q1":"I might be free.","q2":"I might be limited.","q3":"My letter comes with strings attached.","q4":"I might be difficult to refuse.","q5":"I might bring condolences, support, or sign-on bonuses."},
-"2026-03-29": {"answers":"sakura,cherry blossom,cherry blossoms,japanese cherry blossom,prunus serrulata","prompt":"What am I?","q1":"My fruits are unimportant.","q2":"My flowers are treasured.","q3":"Many photograph me...","q4":"...especially in Japan.","q5":"I’m a tree with white and pink flowers."}
+"2026-03-29": {"answers":"sakura,cherry blossom,cherry blossoms,japanese cherry blossom,prunus serrulata","prompt":"What am I?","q1":"My fruits are unimportant.","q2":"My flowers are treasured.","q3":"Many photograph me...","q4":"...especially in Japan.","q5":"I’m a tree with white and pink flowers."},
+"2026-03-30": {"answers":"oven","prompt":"What am I?","q1":"I’m blocky.","q2":"I have light inside.","q3":"I have knobs and switches.","q4":"Preheat me.","q5":"Bake cookies in me."}
 }
