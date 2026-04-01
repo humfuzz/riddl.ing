@@ -90,5 +90,6 @@
 "2026-03-30": {"answers":"oven","prompt":"What am I?","q1":"I’m blocky.","q2":"I have light inside.","q3":"I have knobs and switches.","q4":"Preheat me.","q5":"Bake cookies in me."},
 "2026-03-31": {"answers":"change,changes","prompt":"What am I?","q1":"Babies need me.","q2":"Seasons do me.","q3":"Politicians promise me.","q4":"Cashiers return me.","q5":"Caterpillars undergo me.","message":"Twosday"},
 "2026-04-01": {"answers":"yes,what","prompt":"Am I what?","q1":"I’m not how.","q2":"I’m not why.","q3":"I’m not when.","q4":"I’m not where.","q5":"I’m not who.","message":"🤔"},
-"2026-04-02": {"answers":"crown","prompt":"What am I?","q1":"People might wear me in Disneyland.","q2":"People might wear me at a burger place.","q3":"Broccoli has me.","q4":"People might wear me on their tooth.","q5":"Royalty wears me."}
+"2026-04-02": {"answers":"crown","prompt":"What am I?","q1":"People might wear me in Disneyland.","q2":"People might wear me at a burger place.","q3":"Broccoli has me.","q4":"People might wear me on their tooth.","q5":"Royalty wears me."},
+"2026-04-03": {"answers":"horn","prompt":"What am I?","q1":"I’m in a band.","q2":"I’m on some heads.","q3":"I might be sharp.","q4":"My sound might mean “get moving!”","q5":"I’m something that honks or on something that bleats."}
 }
