@@ -93,5 +93,6 @@
 "2026-04-02": {"answers":"crown","prompt":"What am I?","q1":"People might wear me in Disneyland.","q2":"People might wear me at a burger place.","q3":"Broccoli has me.","q4":"People might wear me on their tooth.","q5":"Royalty wears me."},
 "2026-04-03": {"answers":"horn","prompt":"What am I?","q1":"I’m in a band.","q2":"I’m on some heads.","q3":"I might be sharp.","q4":"My sound might mean “get moving!”","q5":"I’m something that honks or on something that bleats."},
 "2026-04-04": {"answers":"pinocchio,pinnochio","prompt":"Who am I?","q1":"I want to be real.","q2":"I’m a bad liar.","q3":"I’m made of wood.","q4":"My nose might be long.","q5":"I’m Geppetto’s puppet boy."},
-"2026-04-05": {"answers":"volleyball,beach volleyball","prompt":"What am I?","q1":"I feature bumps and spikes.","q2":"I’m often six on six.","q3":"I’m made of leather stripes.","q4":"I’m popular on beaches.","q5":"I’m a net and ball sport."}
+"2026-04-05": {"answers":"volleyball,beach volleyball","prompt":"What am I?","q1":"I feature bumps and spikes.","q2":"I’m often six on six.","q3":"I’m made of leather stripes.","q4":"I’m popular on beaches.","q5":"I’m a net and ball sport."},
+"2026-04-06": {"answers":"salt,salts","prompt":"What am I?","q1":"I can be white.","q2":"I can be sea.","q3":"I can be table.","q4":"I can be himalayan.","q5":"I can be kosher, iodized, or pickling."}
 }
