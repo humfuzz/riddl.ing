@@ -96,5 +96,6 @@
 "2026-04-05": {"answers":"volleyball,beach volleyball","prompt":"What am I?","q1":"I feature bumps and spikes.","q2":"I’m often six on six.","q3":"I’m made of leather stripes.","q4":"I’m popular on beaches.","q5":"I’m a net and ball sport."},
 "2026-04-06": {"answers":"salt,salts","prompt":"What am I?","q1":"I can be white.","q2":"I can be sea.","q3":"I can be table.","q4":"I can be himalayan.","q5":"I can be kosher, iodized, or pickling."},
 "2026-04-07": {"answers":"scroll","prompt":"What am I?","q1":"I’m long.","q2":"Some wheels are made for me.","q3":"I’m rolled and unrolled.","q4":"I might be doomed.","q5":"I’m an old book with a single page, or something done in social media.","message":"Twosday"},
-"2026-04-08": {"answers":"wallet","prompt":"What am I?","q1":"I can fit in your palm.","q2":"I might have paper, metal, or plastic inside.","q3":"Your phone might have a digital me.","q4":"You don’t want to lose me.","q5":"Take me out when paying."}
+"2026-04-08": {"answers":"wallet","prompt":"What am I?","q1":"I can fit in your palm.","q2":"I might have paper, metal, or plastic inside.","q3":"Your phone might have a digital me.","q4":"You don’t want to lose me.","q5":"Take me out when paying."},
+"2026-04-09": {"answers":"tax,taxes","prompt":"What am I?","q1":"I can be carbon.","q2":"I can be property.","q3":"I can be sales.","q4":"I can be income.","q5":"I can be inheritance, payroll, value added, estate, corporate, or capital gains."}
 }
