@@ -103,5 +103,6 @@
 "2026-04-12": {"answers":"sweep","prompt":"What am I?","q1":"A team might do me if they’re a lot better.","q2":"Investigators might do me to a crime scene.","q3":"Curlers might do me to ice.","q4":"Wipers might do me back and forth.","q5":"Do me with a broom."},
 "2026-04-13": {"answers":"umbrella,umbrellas","prompt":"What am I?","q1":"Open me.","q2":"Hold me.","q3":"Shake me before you go in.","q4":"Stand under me.","q5":"Take me when it’s raining."},
 "2026-04-14": {"answers":"last","prompt":"What am I?","q1":"I’m recent.","q2":"I’m final.","q3":"I’m enduring.","q4":"I’m previous.","q5":"I’m the “me” clue!","message":"Twosday"},
-"2026-04-15": {"answers":"wire,wires","prompt":"What am I?","q1":"Connect me.","q2":"Cut the right me.","q3":"No, the left me!","q4":"A spy might wear me.","q5":"A fence might have barbed me."}
+"2026-04-15": {"answers":"wire,wires","prompt":"What am I?","q1":"Connect me.","q2":"Cut the right me.","q3":"No, the left me!","q4":"A spy might wear me.","q5":"A fence might have barbed me."},
+"2026-04-16": {"answers":"vent","prompt":"What am I?","q1":"I might help you if you’re angry.","q2":"A creative person might in-“me”.","q3":"I help spies and impostors escape.","q4":"A proactive person might pre-“me” a dangerous e-“me”.","q5":"I help circulate air."}
 }
