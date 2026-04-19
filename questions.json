@@ -108,5 +108,6 @@
 "2026-04-17": {"answers":"casino","prompt":"Where am I?","q1":"There are no windows here.","q2":"There are no clocks here.","q3":"There are levers and screens here.","q4":"There are chips and balls here.","q5":"There are cards and dealers here."},
 "2026-04-18": {"answers":"pit","prompt":"What am I?","q1":"Arms have me...","q2":"...but legs don’t.","q3":"Grapes don’t have me...","q4":"...but peaches do.","q5":"I’m a hole which might have an orchestra."},
 "2026-04-19": {"answers":"molecule","prompt":"What am I?","q1":"I’m part of you.","q2":"I’m part of a mole.","q3":"I’m minuscule.","q4":"I’m part of everything.","q5":"I’m connected atoms."},
-"2026-04-20": {"answers":"cart,carts,kart,go-kart,go-karts,trolley,trolleys","prompt":"What am I?","q1":"I roll...","q2":"...on four wheels.","q3":"I might hold a baby.","q4":"Online, I might hold many things you want.","q5":"I might hold groceries."}
+"2026-04-20": {"answers":"cart,carts,kart,go-kart,go-karts,trolley,trolleys","prompt":"What am I?","q1":"I roll...","q2":"...on four wheels.","q3":"I might hold a baby.","q4":"Online, I might hold many things you want.","q5":"I might hold groceries."},
+"2026-04-21": {"answers":"form","prompt":"What am I?","q1":"I’m usually black and white.","q2":"I’m full of blanks.","q3":"“Me”-al might mean to wear black and white.","q4":"You fill out my blanks and submit me.","q5":"Diamond is a me of carbon.","message":"Twosday"}
 }
