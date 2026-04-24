@@ -112,5 +112,7 @@
 "2026-04-21": {"answers":"form","prompt":"What am I?","q1":"I’m usually black and white.","q2":"I’m full of blanks.","q3":"“Me”-al might mean to wear black and white.","q4":"You fill out my blanks and submit me.","q5":"Diamond is a me of carbon.","message":"Twosday"},
 "2026-04-22": {"answers":"intern,apprentice","prompt":"Who am I?","q1":"I’m at the bottom.","q2":"I’m on my ship.","q3":"I’m temporary.","q4":"I’m told what to do.","q5":"I might be unpaid."},
 "2026-04-23": {"answers":"lyric,lyrics","prompt":"What am I?","q1":"I’m written.","q2":"I’m named after a string instrument.","q3":"Parodies often modify me.","q4":"I’m sung.","q5":"I’m on a karaoke screen."},
-"2026-04-24": {"answers":"speaker,speakers","prompt":"What am I?","q1":"I play.","q2":"My phone might be rude.","q3":"I’m common in graduations and weddings.","q4":"I’m essential in a movie theatre.","q5":"I talk or play sound."}
+"2026-04-24": {"answers":"speaker,speakers","prompt":"What am I?","q1":"I play.","q2":"My phone might be rude.","q3":"I’m common in graduations and weddings.","q4":"I’m essential in a movie theatre.","q5":"I talk or play sound."},
+"2026-04-25": {"answers":"festival","prompt":"What am I?","q1":"I’m music.","q2":"I’m film.","q3":"I’m Eid al-Fitr or Tanabata.","q4":"I’m Cannes or Burning Man.","q5":"I’m Coachella, Carnaval, or Christmas."},
+"2026-04-26": {"answers":"critical","prompt":"What am I?","q1":"“Dia” might be me.","q2":"Health might be me.","q3":"A mission might be me.","q4":"If you’re self-“me”, you might have low self-esteem.","q5":"I might describe a film reviewer."}
 }
