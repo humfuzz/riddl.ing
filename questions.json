@@ -114,5 +114,6 @@
 "2026-04-23": {"answers":"lyric,lyrics","prompt":"What am I?","q1":"I’m written.","q2":"I’m named after a string instrument.","q3":"Parodies often modify me.","q4":"I’m sung.","q5":"I’m on a karaoke screen."},
 "2026-04-24": {"answers":"speaker,speakers","prompt":"What am I?","q1":"I play.","q2":"My phone might be rude.","q3":"I’m common in graduations and weddings.","q4":"I’m essential in a movie theatre.","q5":"I talk or play sound."},
 "2026-04-25": {"answers":"festival","prompt":"What am I?","q1":"I’m music.","q2":"I’m film.","q3":"I’m Eid al-Fitr or Tanabata.","q4":"I’m Cannes or Burning Man.","q5":"I’m Coachella, Carnaval, or Christmas."},
-"2026-04-26": {"answers":"critical","prompt":"What am I?","q1":"“Dia” might be me.","q2":"Health might be me.","q3":"A mission might be me.","q4":"If you’re self-“me”, you might have low self-esteem.","q5":"I might describe a film reviewer."}
+"2026-04-26": {"answers":"critical","prompt":"What am I?","q1":"“Dia” might be me.","q2":"Health might be me.","q3":"A mission might be me.","q4":"If you’re self-“me”, you might have low self-esteem.","q5":"I might describe a film reviewer."},
+"2026-04-27": {"answers":"square","prompt":"What am I?","q1":"I’m common in board games.","q2":"Cheese slices are often me.","q3":"I’m common in origami.","q4":"“Times Me” is not actually me.","q5":"I have four sides."}
 }
