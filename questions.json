@@ -117,5 +117,6 @@
 "2026-04-26": {"answers":"critical","prompt":"What am I?","q1":"“Dia” might be me.","q2":"Health might be me.","q3":"A mission might be me.","q4":"If you’re self-“me”, you might have low self-esteem.","q5":"I might describe a film reviewer."},
 "2026-04-27": {"answers":"square","prompt":"What am I?","q1":"I’m common in board games.","q2":"Cheese slices are often me.","q3":"I’m common in origami.","q4":"“Times Me” is not actually me.","q5":"I have four sides."},
 "2026-04-28": {"answers":"cast","prompt":"What am I?","q1":"I help you stay still.","q2":"I’m some actors.","q3":"Remove me with a saw.","q4":"Objects do me to shadows.","q5":"“Pod”, “fore”, “broad”, and “out” are all forms of me.","message":"Twosday"},
-"2026-04-29": {"answers":"heist,caper,robbery,burglary","prompt":"What am I?","q1":"I’m a film genre.","q2":"I’m a crime.","q3":"I’m one last job.","q4":"I might happen at a bank, museum, or casino.","q5":"Plan your getaway after me."}
+"2026-04-29": {"answers":"heist,caper,robbery,burglary","prompt":"What am I?","q1":"I’m a film genre.","q2":"I’m a crime.","q3":"I’m one last job.","q4":"I might happen at a bank, museum, or casino.","q5":"Plan your getaway after me."},
+"2026-04-30": {"answers":"stale","prompt":"What am I?","q1":"Things go “me”.","q2":"My things might be hard.","q3":"My mates are drawn.","q4":"Bread might be me.","q5":"I’m not fresh."}
 }
