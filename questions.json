@@ -119,5 +119,7 @@
 "2026-04-28": {"answers":"cast","prompt":"What am I?","q1":"I help you stay still.","q2":"I’m some actors.","q3":"Remove me with a saw.","q4":"Objects do me to shadows.","q5":"“Pod”, “fore”, “broad”, and “out” are all forms of me.","message":"Twosday"},
 "2026-04-29": {"answers":"heist,caper,robbery,burglary","prompt":"What am I?","q1":"I’m a film genre.","q2":"I’m a crime.","q3":"I’m one last job.","q4":"I might happen at a bank, museum, or casino.","q5":"Plan your getaway after me."},
 "2026-04-30": {"answers":"stale","prompt":"What am I?","q1":"Things go “me”.","q2":"My things might be hard.","q3":"My mates are drawn.","q4":"Bread might be me.","q5":"I’m not fresh."},
-"2026-05-01": {"answers":"polar","prompt":"What am I?","q1":"Water is me.","q2":"Ice might be me.","q3":"Bears might be me.","q4":"“Me”-oids are printed instantly.","q5":"Bi-“me” is a mental disorder."}
+"2026-05-01": {"answers":"polar","prompt":"What am I?","q1":"Water is me.","q2":"Ice might be me.","q3":"Bears might be me.","q4":"“Me”-oids are printed instantly.","q5":"Bi-“me” is a mental disorder."},
+"2026-05-02": {"answers":"vinegar","prompt":"What am I?","q1":"Put me on lumpia.","q2":"Put me on xiaolongbao.","q3":"Put me on fried fish.","q4":"Put me on salad.","q5":"Put me on cucumbers to turn them into pickles."},
+"2026-05-03": {"answers":"chant","prompt":"What am I?","q1":"I encourage a team.","q2":"I’m a Buddhist meditation.","q3":"I’m K-pop audience participation.","q4":"I’m medieval music.","q5":"Examples of me: “Olé, Olé, Olé” or “Om mani padme hum”."}
 }
