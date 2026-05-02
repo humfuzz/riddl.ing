@@ -121,5 +121,6 @@
 "2026-04-30": {"answers":"stale","prompt":"What am I?","q1":"Things go “me”.","q2":"My things might be hard.","q3":"My mates are drawn.","q4":"Bread might be me.","q5":"I’m not fresh."},
 "2026-05-01": {"answers":"polar","prompt":"What am I?","q1":"Water is me.","q2":"Ice might be me.","q3":"Bears might be me.","q4":"“Me”-oids are printed instantly.","q5":"Bi-“me” is a mental disorder."},
 "2026-05-02": {"answers":"vinegar","prompt":"What am I?","q1":"Put me on lumpia.","q2":"Put me on xiaolongbao.","q3":"Put me on fried fish.","q4":"Put me on salad.","q5":"Put me on cucumbers to turn them into pickles."},
-"2026-05-03": {"answers":"chant","prompt":"What am I?","q1":"I encourage a team.","q2":"I’m a Buddhist meditation.","q3":"I’m K-pop audience participation.","q4":"I’m medieval music.","q5":"Examples of me: “Olé, Olé, Olé” or “Om mani padme hum”."}
+"2026-05-03": {"answers":"chant","prompt":"What am I?","q1":"I encourage a team.","q2":"I’m a Buddhist meditation.","q3":"I’m K-pop audience participation.","q4":"I’m medieval music.","q5":"Examples of me: “Olé, Olé, Olé” or “Om mani padme hum”."},
+"2026-05-04": {"answers":"force","prompt":"What am I?","q1":"I might be air or work.","q2":"I might be police or magnetic.","q3":"I might be brute or gravitational.","q4":"I might be sales, centripetal, or “tour de”.","q5":"May the me be with you."}
 }
