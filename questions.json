@@ -125,5 +125,6 @@
 "2026-05-04": {"answers":"force","prompt":"What am I?","q1":"I might be air or work.","q2":"I might be police or magnetic.","q3":"I might be brute or gravitational.","q4":"I might be sales, centripetal, or “tour de”.","q5":"May the me be with you."},
 "2026-05-05": {"answers":"pitch","prompt":"What am I?","q1":"I’m a good or bad idea in an elevator.","q2":"I’m short or long in golf.","q3":"I’m real or fake in football.","q4":"I’m high or low in music.","q5":"I’m hit or miss in baseball.","message":"Twosday"},
 "2026-05-06": {"answers":"desk,desks","prompt":"What am I?","q1":"Do things with my top.","q2":"I’m common in schools.","q3":"Ask the help me.","q4":"I’m common in offices.","q5":"Try a standing me if you’re tired of sitting."},
-"2026-05-07": {"answers":"mail","prompt":"What am I?","q1":"Electronic me is fast.","q2":"You could also choose express me...","q3":"...if you don’t want to deal with snail me.","q4":"Black me is a crime.","q5":"Leave a voice me."}
+"2026-05-07": {"answers":"mail","prompt":"What am I?","q1":"Electronic me is fast.","q2":"You could also choose express me...","q3":"...if you don’t want to deal with snail me.","q4":"Black me is a crime.","q5":"Leave a voice me."},
+"2026-05-08": {"answers":"pea,peas","prompt":"What am I?","q1":"I’m snow.","q2":"I’m split.","q3":"I’m snap.","q4":"I’m mushy.","q5":"I’m black eyed."}
 }
