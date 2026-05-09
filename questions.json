@@ -128,5 +128,6 @@
 "2026-05-07": {"answers":"mail","prompt":"What am I?","q1":"Electronic me is fast.","q2":"You could also choose express me...","q3":"...if you don’t want to deal with snail me.","q4":"Black me is a crime.","q5":"Leave a voice me."},
 "2026-05-08": {"answers":"pea,peas","prompt":"What am I?","q1":"I’m snow.","q2":"I’m split.","q3":"I’m snap.","q4":"I’m mushy.","q5":"I’m black eyed."},
 "2026-05-09": {"answers":"matrix,matrices,the matrix","prompt":"What am I?","q1":"I have rows and columns.","q2":"I’m full of agents.","q3":"I’m found in linear algebra.","q4":"I feature slow bullets.","q5":"I’m an array of numbers that might make up a simulated reality."},
-"2026-05-10": {"answers":"rep","prompt":"What fits the blank?","q1":"_utation, like standing.","q2":"_etitions, like when exercising.","q3":"_ublic, like France or Korea.","q4":"_resentatives, like in government.","q5":"_ly, like what you do to write back to emails or texts."}
+"2026-05-10": {"answers":"rep","prompt":"What fits the blank?","q1":"_utation, like standing.","q2":"_etitions, like when exercising.","q3":"_ublic, like France or Korea.","q4":"_resentatives, like in government.","q5":"_ly, like what you do to write back to emails or texts."},
+"2026-05-11": {"answers":"belt","prompt":"What am I?","q1":"Find me between two planets.","q2":"I might deliver sushi.","q3":"Wear a seat me.","q4":"A karate me comes in many colours.","q5":"I hold up pants."}
 }
