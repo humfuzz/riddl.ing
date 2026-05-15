@@ -134,5 +134,6 @@
 "2026-05-13": {"answers":"oil","prompt":"What am I?","q1":"I fry.","q2":"I reduce sound.","q3":"I paint.","q4":"I lubricate.","q5":"I’m a petroleum fuel."},
 "2026-05-14": {"answers":"mushroom,mushrooms,fungus,fungi","prompt":"What am I?","q1":"I have a stem.","q2":"I have a cap.","q3":"I love moisture.","q4":"I can be poisonous.","q5":"Find me in the forest."},
 "2026-05-15": {"answers":"sphinx,sphynx","prompt":"What am I?","q1":"I might tell this riddle.","q2":"I’m a guardian.","q3":"I’m close to some pyramids.","q4":"I’m a mythical creature.","q5":"I’m part lion, woman, and bird."},
-"2026-05-16": {"answers":"date","prompt":"What am I?","q1":"Go on a me.","q2":"If you’re “out of” me, “up” me.","q3":"I can be blind.","q4":"I might tell you about things going bad.","q5":"Today, I’m May 16."}
+"2026-05-16": {"answers":"date","prompt":"What am I?","q1":"Go on a me.","q2":"If you’re “out of” me, “up” me.","q3":"I can be blind.","q4":"I might tell you about things going bad.","q5":"Today, I’m May 16."},
+"2026-05-17": {"answers":"board game,board games","prompt":"What am I?","q1":"I’m clue.","q2":"I’m go.","q3":"I’m risk.","q4":"I’m monopoly.","q5":"I’m scrabble."}
 }
