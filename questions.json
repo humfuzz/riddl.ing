@@ -136,5 +136,7 @@
 "2026-05-15": {"answers":"sphinx,sphynx","prompt":"What am I?","q1":"I might tell this riddle.","q2":"I’m a guardian.","q3":"I’m close to some pyramids.","q4":"I’m a mythical creature.","q5":"I’m part lion, woman, and bird."},
 "2026-05-16": {"answers":"date","prompt":"What am I?","q1":"Go on a me.","q2":"If you’re “out of” me, “up” me.","q3":"I can be blind.","q4":"I might tell you about things going bad.","q5":"Today, I’m May 16."},
 "2026-05-17": {"answers":"board game,board games","prompt":"What am I?","q1":"I’m clue.","q2":"I’m go.","q3":"I’m risk.","q4":"I’m monopoly.","q5":"I’m scrabble."},
-"2026-05-18": {"answers":"platypus,platypuses,platypi,platapus,platipus","prompt":"What am I?","q1":"I am a good swimmer.","q2":"I’m from Australia.","q3":"I lay eggs.","q4":"I’m a mammal.","q5":"My head looks similar to a duck’s."}
+"2026-05-18": {"answers":"platypus,platypuses,platypi,platapus,platipus","prompt":"What am I?","q1":"I am a good swimmer.","q2":"I’m from Australia.","q3":"I lay eggs.","q4":"I’m a mammal.","q5":"My head looks similar to a duck’s."},
+"2026-05-19": {"answers":"organ,organs","prompt":"What am I?","q1":"I’m loud.","q2":"I’m bloody.","q3":"I’ll ring in your ears, or I’m just your ears.","q4":"I’m in churches and humans.","q5":"I’m a pipe instrument, or a heart.","message":"Twosday"},
+"2026-05-20": {"answers":"knife,knives","prompt":"What am I?","q1":"Swiss me is a type of me.","q2":"Pocket me is a type of me.","q3":"Utility me is a type of me.","q4":"Bread me is a type of me.","q5":"Chef’s me is a type of me."}
 }
