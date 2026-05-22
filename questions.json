@@ -140,5 +140,7 @@
 "2026-05-19": {"answers":"organ,organs","prompt":"What am I?","q1":"I’m loud.","q2":"I’m bloody.","q3":"I’ll ring in your ears, or I’m just your ears.","q4":"I’m in churches and humans.","q5":"I’m a pipe instrument, or a heart.","message":"Twosday"},
 "2026-05-20": {"answers":"knife,knives","prompt":"What am I?","q1":"Swiss me is a type of me.","q2":"Pocket me is a type of me.","q3":"Utility me is a type of me.","q4":"Bread me is a type of me.","q5":"Chef’s me is a type of me."},
 "2026-05-21": {"answers":"antenna,aerial,feeler","prompt":"What am I?","q1":"I’m in a car.","q2":"I’m on a crab.","q3":"I might be a big dish.","q4":"I’m on an ant.","q5":"I’m on a butterfly and a radio."},
-"2026-05-22": {"answers":"steer","prompt":"What am I?","q1":"Rearrange my letters to be short.","q2":"I often involve wheels.","q3":"Rearrange my letters to start over.","q4":"Without me, you go straight.","q5":"Rearrange my letters to make a forest."}
+"2026-05-22": {"answers":"steer","prompt":"What am I?","q1":"Rearrange my letters to be short.","q2":"I often involve wheels.","q3":"Rearrange my letters to start over.","q4":"Without me, you go straight.","q5":"Rearrange my letters to make a forest."},
+"2026-05-23": {"answers":"will","prompt":"What am I?","q1":"Write me.","q2":"I involve the future.","q3":"Sign me.","q4":"There’s a way when there’s me.","q5":"“Me” you or won’t you?"},
+"2026-05-24": {"answers":"live","prompt":"What am I?","q1":"“I’m me!”","q2":"You’re doing me right now.","q3":"Add an “O” to me to put in a salad.","q4":"My stock are animals and my stream is viewed.","q5":"Add an “R” to me to filter blood."}
 }
