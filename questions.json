@@ -144,5 +144,6 @@
 "2026-05-23": {"answers":"will","prompt":"What am I?","q1":"Write me.","q2":"I involve the future.","q3":"Sign me.","q4":"There’s a way when there’s me.","q5":"“Me” you or won’t you?"},
 "2026-05-24": {"answers":"live","prompt":"What am I?","q1":"“I’m me!”","q2":"You’re doing me right now.","q3":"Add an “O” to me to put in a salad.","q4":"My stock are animals and my stream is viewed.","q5":"Add an “R” to me to filter blood."},
 "2026-05-25": {"answers":"lemonade","prompt":"What am I?","q1":"I might be squeezed.","q2":"I’m often sweetened.","q3":"I’m sold at stands.","q4":"I’m flavoured with other fruits...","q5":"...but I’m named after the yellow one."},
-"2026-05-26": {"answers":"single,singles","prompt":"What am I?","q1":"I might describe a small house.","q2":"I’m an action in baseball.","q3":"I’m a form of music.","q4":"I’m a relationship status.","q5":"I’m an individual.","message":"Twosday"}
+"2026-05-26": {"answers":"single,singles","prompt":"What am I?","q1":"I might describe a small house.","q2":"I’m an action in baseball.","q3":"I’m a form of music.","q4":"I’m a relationship status.","q5":"I’m an individual.","message":"Twosday"},
+"2026-05-27": {"answers":"basketball,basket ball","prompt":"What am I?","q1":"I’m orange.","q2":"Travel is a part of me.","q3":"Shots are a part of me.","q4":"Hoops are a part of me.","q5":"Dunks and dribbles are a part of me."}
 }
