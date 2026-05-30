@@ -149,5 +149,6 @@
 "2026-05-28": {"answers":"wing,wings","prompt":"What am I?","q1":"Buildings have me.","q2":"Planes have me.","q3":"Restaurants serve me.","q4":"Butterflies have me.","q5":"Chickens have me."},
 "2026-05-29": {"answers":"sister,sisters","prompt":"What am I?","q1":"You might have me, you might not have me.","q2":"Cities might be me.","q3":"Whether or not you have me is not really your choice, nor your parents’.","q4":"I might be a nun.","q5":"I’m not a brother."},
 "2026-05-30": {"answers":"vibe,vibes","prompt":"What am I?","q1":"I’m good or bad.","q2":"I’m just a feeling.","q3":"I’m coding without coding.","q4":"I might be short for a phone mode.","q5":"I might be short for “vibraphone”."},
-"2026-05-31": {"answers":"receipt,bill,tab,invoice,check,cheque","prompt":"What am I?","q1":"“Do you want your me?”","q2":"You might if you feel remorse later.","q3":"You might if it’s a gift.","q4":"You might if you can expense it.","q5":"You might if you want a refund."}
+"2026-05-31": {"answers":"receipt,bill,tab,invoice,check,cheque","prompt":"What am I?","q1":"“Do you want your me?”","q2":"You might if you feel remorse later.","q3":"You might if it’s a gift.","q4":"You might if you can expense it.","q5":"You might if you want a refund."},
+"2026-06-01": {"answers":"ant,ants","prompt":"What am I?","q1":"I march.","q2":"I’m a hard worker.","q3":"I obey my queen.","q4":"I’m strong for my size.","q5":"I’m a colony insect related to bees and wasps."}
 }
