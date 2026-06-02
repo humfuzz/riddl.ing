@@ -152,5 +152,6 @@
 "2026-05-31": {"answers":"receipt,bill,tab,invoice,check,cheque","prompt":"What am I?","q1":"“Do you want your me?”","q2":"You might if you feel remorse later.","q3":"You might if it’s a gift.","q4":"You might if you can expense it.","q5":"You might if you want a refund."},
 "2026-06-01": {"answers":"ant,ants","prompt":"What am I?","q1":"I march.","q2":"I’m a hard worker.","q3":"I obey my queen.","q4":"I’m strong for my size.","q5":"I’m a colony insect related to bees and wasps."},
 "2026-06-02": {"answers":"seal","prompt":"What am I?","q1":"Check for me.","q2":"I’m slow on land.","q3":"I might be part of a letter.","q4":"I live in cold water.","q5":"I’m wax, tightly closed, or a walrus relative.","message":"Twosday"},
-"2026-06-03": {"answers":"lasagna,lasagne","prompt":"What am I?","q1":"I come in layers.","q2":"I’m baked.","q3":"I’m sauced.","q4":"I have cheese and tomatoes.","q5":"I’m Italian."}
+"2026-06-03": {"answers":"lasagna,lasagne","prompt":"What am I?","q1":"I come in layers.","q2":"I’m baked.","q3":"I’m sauced.","q4":"I have cheese and tomatoes.","q5":"I’m Italian."},
+"2026-06-04": {"answers":"curtain","prompt":"What am I?","q1":"Many homes have me.","q2":"Some theatres have me.","q3":"I hang.","q4":"A blackout me is good for a bedroom.","q5":"Some choose blinds over me."}
 }
