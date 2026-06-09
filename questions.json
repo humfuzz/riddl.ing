@@ -158,5 +158,7 @@
 "2026-06-06": {"answers":"solo","prompt":"What am I?","q1":"I’m on my own.","q2":"Others may stop playing for me.","q3":"I might get applause.","q4":"I’m Italian for being alone.","q5":"I’m one of a duo."},
 "2026-06-07": {"answers":"graph,graphs","prompt":"What am I?","q1":"My paper is square.","q2":"I might have lines.","q3":"A bio-“me”-y is about a life.","q4":"A photo is short for a photo me.","q5":"I’m a chart with points of data."},
 "2026-06-08": {"answers":"moth","prompt":"What am I?","q1":"I love light.","q2":"My balls kill me.","q3":"I’m more active at night.","q4":"My babies wiggle.","q5":"I’m a fuzzy butterfly relative."},
-"2026-06-09": {"answers":"stalk","prompt":"What am I?","q1":"I’m creepy.","q2":"I stand up straight.","q3":"I’m usually green.","q4":"Lions do me to prey.","q5":"I’m a stem off which leaves grow.","message":"Twosday"}
+"2026-06-09": {"answers":"stalk","prompt":"What am I?","q1":"I’m creepy.","q2":"I stand up straight.","q3":"I’m usually green.","q4":"Lions do me to prey.","q5":"I’m a stem off which leaves grow.","message":"Twosday"},
+"2026-06-10": {"answers":"iceberg","prompt":"What am I?","q1":"I’m large.","q2":"I float.","q3":"Most of me is hidden...","q4":"...under water.","q5":"I sank the Titanic."},
+"2026-06-11": {"answers":"theory,theories","prompt":"What am I?","q1":"Varieties of me include game and set.","q2":"Varieties of me include information and string.","q3":"Varieties of me include germ and plate tectonics.","q4":"Varieties of me include Big Bang and evolution.","q5":"Varieties of me include special relativity and general relativity."}
 }
