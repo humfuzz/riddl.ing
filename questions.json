@@ -162,5 +162,6 @@
 "2026-06-10": {"answers":"iceberg","prompt":"What am I?","q1":"I’m large.","q2":"I float.","q3":"Most of me is hidden...","q4":"...under water.","q5":"I sank the Titanic."},
 "2026-06-11": {"answers":"theory,theories","prompt":"What am I?","q1":"Varieties of me include game and set.","q2":"Varieties of me include information and string.","q3":"Varieties of me include germ and plate tectonics.","q4":"Varieties of me include Big Bang and evolution.","q5":"Varieties of me include special relativity and general relativity."},
 "2026-06-12": {"answers":"gate","prompt":"What am I?","q1":"I might be scandalous.","q2":"I might come between gas and girl.","q3":"My keepers may be obnoxious.","q4":"Golden me is a wide body of water with a famous way across.","q5":"Verbs “conju” me and maps “navi” me."},
-"2026-06-13": {"answers":"leg,legs","prompt":"What am I?","q1":"You probably have me.","q2":"Break a me!","q3":"A “me up” is an advantage.","q4":"The last me of a trip reaches its final destination.","q5":"Horses usually have four of me."}
+"2026-06-13": {"answers":"leg,legs","prompt":"What am I?","q1":"You probably have me.","q2":"Break a me!","q3":"A “me up” is an advantage.","q4":"The last me of a trip reaches its final destination.","q5":"Horses usually have four of me."},
+"2026-06-14": {"answers":"neigh","prompt":"What am I?","q1":"I’m expressive.","q2":"I’m part of your “hood”.","q3":"Rearrange my letters to make a door part.","q4":"I sound like an old “no”.","q5":"I’m a horse cry."}
 }
