@@ -170,5 +170,6 @@
 "2026-06-18": {"answers":"action","prompt":"What am I?","q1":"“Red” me has a lot of black.","q2":"A gambler gets in on me.","q3":"A movie director starts on every me.","q4":"Animation doesn’t have live me.","q5":"For every me there is an equal and opposite “re” me."},
 "2026-06-19": {"answers":"storm,storms","prompt":"What am I?","q1":"I might be rain or snow.","q2":"I might be done to castles.","q3":"I might be sand or thunder.","q4":"You’d better get inside during me.","q5":"I’m violent weather."},
 "2026-06-20": {"answers":"zone","prompt":"What am I?","q1":"You’re in a time me.","q2":"You’re protected by the “o” me.","q3":"That’s out of my comfort me.","q4":"Eat a “cal” me.","q5":"Score a touchdown in the end me."},
-"2026-06-21": {"answers":"loop","prompt":"What am I?","q1":"I might be endless.","q2":"My holes let you cheat.","q3":"I restart music.","q4":"Some planes can do me vertically.","q5":"I’m a path that circles back on itself."}
+"2026-06-21": {"answers":"loop","prompt":"What am I?","q1":"I might be endless.","q2":"My holes let you cheat.","q3":"I restart music.","q4":"Some planes can do me vertically.","q5":"I’m a path that circles back on itself."},
+"2026-06-22": {"answers":"ceiling","prompt":"What am I?","q1":"I’m a limit.","q2":"I might be glass.","q3":"Tall people might dislike me.","q4":"Look up to see me.","q5":"I’m not a floor."}
 }
