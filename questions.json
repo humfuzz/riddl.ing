@@ -173,5 +173,6 @@
 "2026-06-21": {"answers":"loop","prompt":"What am I?","q1":"I might be endless.","q2":"My holes let you cheat.","q3":"I restart music.","q4":"Some planes can do me vertically.","q5":"I’m a path that circles back on itself."},
 "2026-06-22": {"answers":"ceiling","prompt":"What am I?","q1":"I’m a limit.","q2":"I might be glass.","q3":"Tall people might dislike me.","q4":"Look up to see me.","q5":"I’m not a floor."},
 "2026-06-23": {"answers":"spoke","prompt":"What am I?","q1":"I’m on a bike.","q2":"I’m in the past.","q3":"I’m connected to a hub.","q4":"I’m similar to “said”.","q5":"I was “speak”.","message":"Twosday"},
-"2026-06-24": {"answers":"hotel,hotels","prompt":"Where am I?","q1":"There might be transportation services here.","q2":"There might be dining here.","q3":"There might be a pool here.","q4":"There might be a gym here.","q5":"There are lodgings here."}
+"2026-06-24": {"answers":"hotel,hotels","prompt":"Where am I?","q1":"There might be transportation services here.","q2":"There might be dining here.","q3":"There might be a pool here.","q4":"There might be a gym here.","q5":"There are lodgings here."},
+"2026-06-25": {"answers":"hot pot","prompt":"What am I?","q1":"I rhyme.","q2":"I might be spicy.","q3":"I might involve dipping sauces.","q4":"Cook raw meat and vegetables in me.","q5":"I’m a boiling bowl."}
 }
