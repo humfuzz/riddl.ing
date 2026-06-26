@@ -175,5 +175,6 @@
 "2026-06-23": {"answers":"spoke","prompt":"What am I?","q1":"I’m on a bike.","q2":"I’m in the past.","q3":"I’m connected to a hub.","q4":"I’m similar to “said”.","q5":"I was “speak”.","message":"Twosday"},
 "2026-06-24": {"answers":"hotel,hotels","prompt":"Where am I?","q1":"There might be transportation services here.","q2":"There might be dining here.","q3":"There might be a pool here.","q4":"There might be a gym here.","q5":"There are lodgings here."},
 "2026-06-25": {"answers":"hot pot","prompt":"What am I?","q1":"I rhyme.","q2":"I might be spicy.","q3":"I might involve dipping sauces.","q4":"Cook raw meat and vegetables in me.","q5":"I’m a boiling bowl."},
-"2026-06-26": {"answers":"world","prompt":"What am I?","q1":"My view is believed.","q2":"My cup is watched.","q3":"My war is global.","q4":"My wide web is surfed.","q5":"My organizations include Health and Trade."}
+"2026-06-26": {"answers":"world","prompt":"What am I?","q1":"My view is believed.","q2":"My cup is watched.","q3":"My war is global.","q4":"My wide web is surfed.","q5":"My organizations include Health and Trade."},
+"2026-06-27": {"answers":"cup","prompt":"What am I?","q1":"I’m held.","q2":"I’m part of many recipes.","q3":"I’m often seen with straw.","q4":"I come after “hic”.","q5":"I might contain tea or coffee."}
 }
