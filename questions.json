@@ -178,5 +178,6 @@
 "2026-06-26": {"answers":"world","prompt":"What am I?","q1":"My view is believed.","q2":"My cup is watched.","q3":"My war is global.","q4":"My wide web is surfed.","q5":"My organizations include Health and Trade."},
 "2026-06-27": {"answers":"cup","prompt":"What am I?","q1":"I’m held.","q2":"I’m part of many recipes.","q3":"I’m often seen with straw.","q4":"I come after “hic”.","q5":"I might contain tea or coffee."},
 "2026-06-28": {"answers":"tournament","prompt":"What am I?","q1":"I’m played.","q2":"I have rounds.","q3":"I might be Swiss.","q4":"I might have a loser’s bracket.","q5":"I’m a type of sporting competition that can be knockout or round-robin, for instance."},
-"2026-06-29": {"answers":"llama,llamas","prompt":"What am I?","q1":"My neck is long.","q2":"I eat grass.","q3":"I’m fluffy.","q4":"The first two letters of my name are the same.","q5":"I’m an alpaca relative: 🦙"}
+"2026-06-29": {"answers":"llama,llamas","prompt":"What am I?","q1":"My neck is long.","q2":"I eat grass.","q3":"I’m fluffy.","q4":"The first two letters of my name are the same.","q5":"I’m an alpaca relative: 🦙"},
+"2026-06-30": {"answers":"lead","prompt":"What am I?","q1":"I’m toxic.","q2":"Follow me.","q3":"I’m sharpened to write.","q4":"First place is in the me.","q5":"Read me in two ways, just like how “read” is read.","message":"Twosday"}
 }
