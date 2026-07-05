@@ -185,5 +185,6 @@
 "2026-07-03": {"answers":"poison,poisons,venom,venoms,toxin","prompt":"What am I?","q1":"I might be bitter.","q2":"I’m bad for you.","q3":"Seek help if you’re exposed to me.","q4":"Some frogs are dangerous because of me.","q5":"I can be neutralized with the right antidote."},
 "2026-07-04": {"answers":"back","prompt":"What am I?","q1":"It’s hard to see me...","q2":"...but not for others.","q3":"My grounds are behind and my rooms are empty.","q4":"I might be stabbed.","q5":"My wards are reversed and my packs are worn on me."},
 "2026-07-05": {"answers":"elevator,lift","prompt":"What am I?","q1":"Not everyone wants to hear my pitch.","q2":"I have multiple buttons.","q3":"Most of the buttons are numbered.","q4":"I transport things...","q5":"...vertically."},
-"2026-07-06": {"answers":"pizza,pizzas","prompt":"What am I?","q1":"I’m round.","q2":"I’m served hot.","q3":"I’m flat (traditionally).","q4":"Want a slice of me?","q5":"I’m Italian."}
+"2026-07-06": {"answers":"pizza,pizzas","prompt":"What am I?","q1":"I’m round.","q2":"I’m served hot.","q3":"I’m flat (traditionally).","q4":"Want a slice of me?","q5":"I’m Italian."},
+"2026-07-07": {"answers":"pan","prompt":"What am I?","q1":"I’m often round.","q2":"I love everyone.","q3":"I might find gold.","q4":"As sound or video, I move left and right.","q5":"Fry eggs or “cakes” in me.","message":"Twosday"}
 }
