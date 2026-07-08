@@ -188,5 +188,6 @@
 "2026-07-06": {"answers":"pizza,pizzas","prompt":"What am I?","q1":"I’m round.","q2":"I’m served hot.","q3":"I’m flat (traditionally).","q4":"Want a slice of me?","q5":"I’m Italian."},
 "2026-07-07": {"answers":"pan","prompt":"What am I?","q1":"I’m often round.","q2":"I love everyone.","q3":"I might find gold.","q4":"As sound or video, I move left and right.","q5":"Fry eggs or “cakes” in me.","message":"Twosday"},
 "2026-07-08": {"answers":"antarctic desert,antarctica,antarctic","prompt":"Where am I?","q1":"I’m in the largest of its kind.","q2":"I’m cold all the time here, unlike many others of its kind.","q3":"This place is claimed by seven countries.","q4":"You won’t find camels and scorpions here...","q5":"...but you’ll find seals and penguins."},
-"2026-07-09": {"answers":"ufo,unidentified flying object,unidentified objects from outer space,uap,unmanned aerial phenomenon","prompt":"What am I?","q1":"I might land.","q2":"I might abduct...","q3":"...with a tractor beam.","q4":"I might be piloted...","q5":"...by aliens."}
+"2026-07-09": {"answers":"ufo,unidentified flying object,unidentified objects from outer space,uap,unmanned aerial phenomenon","prompt":"What am I?","q1":"I might land.","q2":"I might abduct...","q3":"...with a tractor beam.","q4":"I might be piloted...","q5":"...by aliens."},
+"2026-07-10": {"answers":"fumble","prompt":"What am I?","q1":"I’m dropped.","q2":"I might be generational.","q3":"I’m done in the dark.","q4":"I’m a missed chance.","q5":"I rhyme with “crumble”."}
 }
