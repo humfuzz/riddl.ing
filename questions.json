@@ -155,7 +155,7 @@
 "2026-06-03": {"answers":"lasagna,lasagne","prompt":"What am I?","q1":"I come in layers.","q2":"I’m baked.","q3":"I’m sauced.","q4":"I have cheese and tomatoes.","q5":"I’m Italian."},
 "2026-06-04": {"answers":"curtain","prompt":"What am I?","q1":"Many homes have me.","q2":"Some theatres have me.","q3":"I hang.","q4":"A blackout me is good for a bedroom.","q5":"Some choose blinds over me."},
 "2026-06-05": {"answers":"sphere","prompt":"What am I?","q1":"I might describe a fruit.","q2":"I might describe a football.","q3":"I describe Earth.","q4":"I might describe soap bubbles or a collection of yarn.","q5":"I’m the shape of a ball."},
-"2026-06-06": {"answers":"solo","prompt":"What am I?","q1":"I’m on my own.","q2":"Others may stop playing for me.","q3":"I might get applause.","q4":"I’m Italian for being alone.","q5":"I’m one of a duo."},
+"2026-06-06": {"answers":"solo","prompt":"solo","q1":"I’m on my own.","q2":"Others may stop playing for me.","q3":"I might get applause.","q4":"I’m Italian for being alone.","q5":"I’m one of a duo."},
 "2026-06-07": {"answers":"graph,graphs","prompt":"What am I?","q1":"My paper is square.","q2":"I might have lines.","q3":"A bio-“me”-y is about a life.","q4":"A photo is short for a photo me.","q5":"I’m a chart with points of data."},
 "2026-06-08": {"answers":"moth","prompt":"What am I?","q1":"I love light.","q2":"My balls kill me.","q3":"I’m more active at night.","q4":"My babies wiggle.","q5":"I’m a fuzzy butterfly relative."},
 "2026-06-09": {"answers":"stalk","prompt":"What am I?","q1":"I’m creepy.","q2":"I stand up straight.","q3":"I’m usually green.","q4":"Lions do me to prey.","q5":"I’m a stem off which leaves grow.","message":"Twosday"},
@@ -191,5 +191,6 @@
 "2026-07-09": {"answers":"ufo,unidentified flying object,unidentified objects from outer space,uap,unmanned aerial phenomenon","prompt":"What am I?","q1":"I might land.","q2":"I might abduct...","q3":"...with a tractor beam.","q4":"I might be piloted...","q5":"...by aliens."},
 "2026-07-10": {"answers":"fumble","prompt":"What am I?","q1":"I’m dropped.","q2":"I might be generational.","q3":"I’m done in the dark.","q4":"I’m a missed chance.","q5":"I rhyme with “crumble”."},
 "2026-07-11": {"answers":"ribbit","prompt":"What am I?","q1":"I’m often heard by children.","q2":"I sound like a little part of your body.","q3":"I’m one letter away from a long-eared animal.","q4":"I might be heard from a lily pad.","q5":"I’m the sound of a frog or toad."},
-"2026-07-12": {"answers":"degree,degrees","prompt":"What am I?","q1":"I might describe freedom.","q2":"I might describe steepness.","q3":"I might describe the weather.","q4":"I might describe a level of education.","q5":"A right angle has ninety of me."}
+"2026-07-12": {"answers":"degree,degrees","prompt":"What am I?","q1":"I might describe freedom.","q2":"I might describe steepness.","q3":"I might describe the weather.","q4":"I might describe a level of education.","q5":"A right angle has ninety of me."},
+"2026-07-14": {"answers":"comeback","prompt":"What am I?","q1":"I might be witty.","q2":"I might be a new K-pop album.","q3":"I might be a memorable sports moment.","q4":"I sound like a plea to someone leaving.","q5":"I’m a clever retort, a return from obscurity, or a momentum swing.","message":"Twosday"}
 }
