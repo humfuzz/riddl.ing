@@ -197,5 +197,6 @@
 "2026-07-15": {"answers":"lifeguard","prompt":"Who am I?","q1":"I’ll save you.","q2":"I often wear red.","q3":"I might have sunglasses and a whistle.","q4":"I work near water.","q5":"I’ll rescue anyone drowning."},
 "2026-07-16": {"answers":"blush","prompt":"What am I?","q1":"I might happen out of love.","q2":"I might happen out of embarrassment.","q3":"I’m a product that simulates the real act.","q4":"I’m red or pink.","q5":"I’m flushed cheeks."},
 "2026-07-17": {"answers":"riddling","prompt":"What am I?","q1":"I turn two today.","q2":"I’m full of questions.","q3":"I’m full of guesses.","q4":"This is my fourth clue.","q5":"I’m this game’s name."},
-"2026-07-18": {"answers":"sky","prompt":"What am I?","q1":"My colours change over time.","q2":"I might be covered.","q3":"I’m high.","q4":"My lines show cities.","q5":"Look up to see me."}
+"2026-07-18": {"answers":"sky","prompt":"What am I?","q1":"My colours change over time.","q2":"I might be covered.","q3":"I’m high.","q4":"My lines show cities.","q5":"Look up to see me."},
+"2026-07-19": {"answers":"final,finals","prompt":"What am I?","q1":"I might be grand.","q2":"I might end a class.","q3":"I might be silent or full of cheer.","q4":"I’m after quarters and semis.","q5":"I determine a champion or your grade."}
 }
