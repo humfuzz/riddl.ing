@@ -200,5 +200,6 @@
 "2026-07-18": {"answers":"sky","prompt":"What am I?","q1":"My colours change over time.","q2":"I might be covered.","q3":"I’m high.","q4":"My lines show cities.","q5":"Look up to see me."},
 "2026-07-19": {"answers":"final,finals","prompt":"What am I?","q1":"I might be grand.","q2":"I might end a class.","q3":"I might be silent or full of cheer.","q4":"I’m after quarters and semis.","q5":"I determine a champion or your grade."},
 "2026-07-20": {"answers":"pea","prompt":"What am I?","q1":"I might be snow.","q2":"I might be split.","q3":"I might be mushy.","q4":"My nuts are hard.","q5":"I’m a legume grown in a pod."},
-"2026-07-21": {"answers":"lean","prompt":"What am I?","q1":"“Me” on me.","q2":"I’m not fat.","q3":"I’m more one way than another.","q4":"I’m resting against a wall.","q5":"I’m reclining, relying, or slim.","message":"Twosday"}
+"2026-07-21": {"answers":"lean","prompt":"What am I?","q1":"“Me” on me.","q2":"I’m not fat.","q3":"I’m more one way than another.","q4":"I’m resting against a wall.","q5":"I’m reclining, relying, or slim.","message":"Twosday"},
+"2026-07-22": {"answers":"farm,farms","prompt":"Where am I?","q1":"The weather is important here.","q2":"The animals are important here.","q3":"The plants are important here.","q4":"Things grow here.","q5":"Food is harvested here."}
 }
