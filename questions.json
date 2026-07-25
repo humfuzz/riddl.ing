@@ -204,5 +204,6 @@
 "2026-07-22": {"answers":"farm,farms","prompt":"Where am I?","q1":"The weather is important here.","q2":"The animals are important here.","q3":"The plants are important here.","q4":"Things grow here.","q5":"Food is harvested here."},
 "2026-07-23": {"answers":"kangaroo,wallaroo,wallaby,wallabies","prompt":"What am I?","q1":"My legs are powerful.","q2":"I have a long tail.","q3":"I can jump far.","q4":"I might have a pouch.","q5":"I’m a symbol of Australia."},
 "2026-07-24": {"answers":"pine","prompt":"What am I?","q1":"I smell refreshing.","q2":"I might cover presents.","q3":"I make cones.","q4":"Squirrels climb me.","q5":"I’m a needly tree."},
-"2026-07-25": {"answers":"brush","prompt":"What am I?","q1":"Cleaning me is a type of me.","q2":"Hair me is a type of me.","q3":"Makeup me is a type of me.","q4":"Tooth me is a type of me.","q5":"Paint me is a type of me."}
+"2026-07-25": {"answers":"brush","prompt":"What am I?","q1":"Cleaning me is a type of me.","q2":"Hair me is a type of me.","q3":"Makeup me is a type of me.","q4":"Tooth me is a type of me.","q5":"Paint me is a type of me."},
+"2026-07-26": {"answers":"cherry,cherries","prompt":"What am I?","q1":"Many adore my flowers.","q2":"Put me on top!","q3":"I can be sweet or sour.","q4":"Black forests have me.","q5":"I’m not a berry since I have a pit."}
 }
