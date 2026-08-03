@@ -214,5 +214,6 @@
 "2026-08-01": {"answers":"tooth,teeth","prompt":"What am I?","q1":"I’m hard.","q2":"I’m unique.","q3":"You have two sets of me...","q4":"...in your lifetime.","q5":"Show me when you smile."},
 "2026-08-02": {"answers":"proof","prompt":"What am I?","q1":"I make facts.","q2":"I measure drinks.","q3":"Something that’s “water me” can be wet.","q4":"“Me read” before you publish.","q5":"I turn a math conjecture into a theorem with methods like contradiction and induction."},
 "2026-08-03": {"answers":"salad,salads","prompt":"What am I?","q1":"I’m cold.","q2":"I’m dressed.","q3":"I’m healthy.","q4":"I’m green.","q5":"I’m vegetarian."},
-"2026-08-04": {"answers":"temple,temples","prompt":"What am I?","q1":"Give me a massage.","q2":"I’m common in Southeast Asia.","q3":"Glasses have me.","q4":"I move when you chew.","q5":"I’m similar to a mosque, a church, or a synagogue.","message":"Twosday"}
+"2026-08-04": {"answers":"temple,temples","prompt":"What am I?","q1":"Give me a massage.","q2":"I’m common in Southeast Asia.","q3":"Glasses have me.","q4":"I move when you chew.","q5":"I’m similar to a mosque, a church, or a synagogue.","message":"Twosday"},
+"2026-08-05": {"answers":"oil","prompt":"What am I?","q1":"Synthetic is a type of me.","q2":"Essential is a type of me.","q3":"Cooking is a type of me.","q4":"Crude is a type of me.","q5":"Olive and canola are types of me."}
 }
