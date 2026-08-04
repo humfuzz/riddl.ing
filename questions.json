@@ -215,5 +215,6 @@
 "2026-08-02": {"answers":"proof","prompt":"What am I?","q1":"I make facts.","q2":"I measure drinks.","q3":"Something that’s “water me” can be wet.","q4":"“Me read” before you publish.","q5":"I turn a math conjecture into a theorem with methods like contradiction and induction."},
 "2026-08-03": {"answers":"salad,salads","prompt":"What am I?","q1":"I’m cold.","q2":"I’m dressed.","q3":"I’m healthy.","q4":"I’m green.","q5":"I’m vegetarian."},
 "2026-08-04": {"answers":"temple,temples","prompt":"What am I?","q1":"Give me a massage.","q2":"I’m common in Southeast Asia.","q3":"Glasses have me.","q4":"I move when you chew.","q5":"I’m similar to a mosque, a church, or a synagogue.","message":"Twosday"},
-"2026-08-05": {"answers":"oil","prompt":"What am I?","q1":"Synthetic is a type of me.","q2":"Essential is a type of me.","q3":"Cooking is a type of me.","q4":"Crude is a type of me.","q5":"Olive and canola are types of me."}
+"2026-08-05": {"answers":"oil","prompt":"What am I?","q1":"Synthetic is a type of me.","q2":"Essential is a type of me.","q3":"Cooking is a type of me.","q4":"Crude is a type of me.","q5":"Olive and canola are types of me."},
+"2026-08-06": {"answers":"intro,introduction","prompt":"What am I?","q1":"I’m at the start.","q2":"I happen when you meet someone new.","q3":"I’m the first of many classes.","q4":"I’m a television opening.","q5":"I’m shortened by removing “duction”."}
 }
