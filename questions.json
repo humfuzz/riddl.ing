@@ -216,5 +216,7 @@
 "2026-08-03": {"answers":"salad,salads","prompt":"What am I?","q1":"I’m cold.","q2":"I’m dressed.","q3":"I’m healthy.","q4":"I’m green.","q5":"I’m vegetarian."},
 "2026-08-04": {"answers":"temple,temples","prompt":"What am I?","q1":"Give me a massage.","q2":"I’m common in Southeast Asia.","q3":"Glasses have me.","q4":"I move when you chew.","q5":"I’m similar to a mosque, a church, or a synagogue.","message":"Twosday"},
 "2026-08-05": {"answers":"oil","prompt":"What am I?","q1":"Synthetic is a type of me.","q2":"Essential is a type of me.","q3":"Cooking is a type of me.","q4":"Crude is a type of me.","q5":"Olive and canola are types of me."},
-"2026-08-06": {"answers":"intro,introduction","prompt":"What am I?","q1":"I’m at the start.","q2":"I happen when you meet someone new.","q3":"I’m the first of many classes.","q4":"I’m a television opening.","q5":"I’m shortened by removing “duction”."}
+"2026-08-06": {"answers":"intro,introduction","prompt":"What am I?","q1":"I’m at the start.","q2":"I happen when you meet someone new.","q3":"I’m the first of many classes.","q4":"I’m a television opening.","q5":"I’m shortened by removing “duction”."},
+"2026-08-07": {"answers":"clam,clams","prompt":"What am I?","q1":"Phones used to be like me.","q2":"I might hold something precious.","q3":"I’m a fan of sand.","q4":"My chowder contains me.","q5":"I’m a shelled sea animal similar to oysters and mussels."},
+"2026-08-08": {"answers":"flight","prompt":"What am I?","q1":"You aren’t capable of me...","q2":"...but you can go on me.","q3":"You might sleep or watch a movie on me.","q4":"Your bags might be checked on me.","q5":"I’m an alternative to fight."}
 }
