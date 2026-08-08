@@ -219,5 +219,6 @@
 "2026-08-06": {"answers":"intro,introduction","prompt":"What am I?","q1":"I’m at the start.","q2":"I happen when you meet someone new.","q3":"I’m the first of many classes.","q4":"I’m a television opening.","q5":"I’m shortened by removing “duction”."},
 "2026-08-07": {"answers":"clam,clams","prompt":"What am I?","q1":"Phones used to be like me.","q2":"I might hold something precious.","q3":"I’m a fan of sand.","q4":"My chowder contains me.","q5":"I’m a shelled sea animal similar to oysters and mussels."},
 "2026-08-08": {"answers":"flight","prompt":"What am I?","q1":"You aren’t capable of me...","q2":"...but you can go on me.","q3":"You might sleep or watch a movie on me.","q4":"Your bags might be checked on me.","q5":"I’m an alternative to fight."},
-"2026-08-09": {"answers":"corn","prompt":"What am I?","q1":"Pop me.","q2":"“Uni” me?","q3":"“Capri” me?","q4":"Haters show “s” me while squirrels love an “a” me.","q5":"I’m a kernel plant featured in grits, tortilla, and polenta."}
+"2026-08-09": {"answers":"corn","prompt":"What am I?","q1":"Pop me.","q2":"“Uni” me?","q3":"“Capri” me?","q4":"Haters show “s” me while squirrels love an “a” me.","q5":"I’m a kernel plant featured in grits, tortilla, and polenta."},
+"2026-08-10": {"answers":"clover,four-leaf clover,shamrock","prompt":"What am I?","q1":"Look for me in parks.","q2":"I’m sometimes lucky...","q3":"...because of a rare mutation.","q4":"I kind of look like this: ⌘","q5":"I usually have three leaves instead of four."}
 }
