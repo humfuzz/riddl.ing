@@ -224,5 +224,6 @@
 "2026-08-11": {"answers":"pop","prompt":"What am I?","q1":"I come in cans.","q2":"Put a ‘J’ or ‘K’ before me.","q3":"Your ears might do me on planes.","q4":"A burst balloon makes me.","q5":"I’m modern music, soda, or a sharp sound.","message":"Twosday"},
 "2026-08-12": {"answers":"waterfront","prompt":"Where am I?","q1":"Dock here.","q2":"Houses are expensive here.","q3":"I’m not at the “fireback”.","q4":"There are boardwalks, piers, and beaches here.","q5":"I’m where a city meets the sea, similar to a wharf or quay."},
 "2026-08-13": {"answers":"worm,worms","prompt":"What am I?","q1":"I might be book.","q2":"I might be silk.","q3":"I might be inch.","q4":"I might be earth.","q5":"You might love someone if they were me, a thin long crawling animal."},
-"2026-08-14": {"answers":"nylon","prompt":"What am I?","q1":"I’m in some guitars.","q2":"I’m in some toothbrushes.","q3":"I’m in some kites and tents.","q4":"I’m in some stockings.","q5":"I’m a plastic resembling silk and I sound like New York and London had a baby."}
+"2026-08-14": {"answers":"nylon","prompt":"What am I?","q1":"I’m in some guitars.","q2":"I’m in some toothbrushes.","q3":"I’m in some kites and tents.","q4":"I’m in some stockings.","q5":"I’m a plastic resembling silk and I sound like New York and London had a baby."},
+"2026-08-15": {"answers":"lid","prompt":"What am I?","q1":"I open.","q2":"You have two of me.","q3":"I might make water boil faster.","q4":"I’m on some bottles.","q5":"I’m a covering on eyes, pots, and jars."}
 }
