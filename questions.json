@@ -225,5 +225,7 @@
 "2026-08-12": {"answers":"waterfront","prompt":"Where am I?","q1":"Dock here.","q2":"Houses are expensive here.","q3":"I’m not at the “fireback”.","q4":"There are boardwalks, piers, and beaches here.","q5":"I’m where a city meets the sea, similar to a wharf or quay."},
 "2026-08-13": {"answers":"worm,worms","prompt":"What am I?","q1":"I might be book.","q2":"I might be silk.","q3":"I might be inch.","q4":"I might be earth.","q5":"You might love someone if they were me, a thin long crawling animal."},
 "2026-08-14": {"answers":"nylon","prompt":"What am I?","q1":"I’m in some guitars.","q2":"I’m in some toothbrushes.","q3":"I’m in some kites and tents.","q4":"I’m in some stockings.","q5":"I’m a plastic resembling silk and I sound like New York and London had a baby."},
-"2026-08-15": {"answers":"lid","prompt":"What am I?","q1":"I open.","q2":"You have two of me.","q3":"I might make water boil faster.","q4":"I’m on some bottles.","q5":"I’m a covering on eyes, pots, and jars."}
+"2026-08-15": {"answers":"lid","prompt":"What am I?","q1":"I open.","q2":"You have two of me.","q3":"I might make water boil faster.","q4":"I’m on some bottles.","q5":"I’m a covering on eyes, pots, and jars."},
+"2026-08-16": {"answers":"thirst","prompt":"What am I?","q1":"You feel me.","q2":"If you don’t do anything about me, you’ll eventually die.","q3":"I’m an intense need.","q4":"Quench me.","q5":"I’m the need for water."},
+"2026-08-17": {"answers":"lime,limes","prompt":"What am I?","q1":"My relative is yellow.","q2":"I’m key to some pies.","q3":"My stone is found in caves.","q4":"I’m essential to ceviche and guacamole.","q5":"I’m a sour green fruit."}
 }
