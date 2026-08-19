@@ -229,5 +229,7 @@
 "2026-08-16": {"answers":"thirst","prompt":"What am I?","q1":"You feel me.","q2":"If you don’t do anything about me, you’ll eventually die.","q3":"I’m an intense need.","q4":"Quench me.","q5":"I’m the need for water."},
 "2026-08-17": {"answers":"lime,limes","prompt":"What am I?","q1":"My relative is yellow.","q2":"I’m key to some pies.","q3":"My stone is found in caves.","q4":"I’m essential to ceviche and guacamole.","q5":"I’m a sour green fruit."},
 "2026-08-18": {"answers":"pack","prompt":"What am I?","q1":"I’m some cards.","q2":"I’m on a back.","q3":"I’m some wolves.","q4":"I’m some stuff, or stuffing that stuff, or the stuff that stuffs the stuff.","q5":"I’m done before a trip.","message":"Twosday"},
-"2026-08-19": {"answers":"poll","prompt":"What am I?","q1":"I have choices.","q2":"I have blanks or boxes.","q3":"I sound like something someone might walk into.","q4":"I might influence the country’s future.","q5":"I’m a survey of opinions or votes."}
+"2026-08-19": {"answers":"poll","prompt":"What am I?","q1":"I have choices.","q2":"I have blanks or boxes.","q3":"I sound like something someone might walk into.","q4":"I might influence the country’s future.","q5":"I’m a survey of opinions or votes."},
+"2026-08-20": {"answers":"kiss","prompt":"What am I?","q1":"I might be French.","q2":"I might be blown.","q3":"I might be chocolate.","q4":"I might transform a frog.","q5":"I’m the X in XOXO, a gesture of love."},
+"2026-08-21": {"answers":"bonus","prompt":"What am I?","q1":"I’m extra.","q2":"I might be paid.","q3":"Remove my first letter and I become a burden.","q4":"I might be a nineteenth hole in golf or a third ball in the tenth frame of bowling.","q5":"I’m added on to a paycheque or score."}
 }
