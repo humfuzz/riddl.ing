@@ -235,5 +235,6 @@
 "2026-08-22": {"answers":"cord","prompt":"What am I?","q1":"You have me.","q2":"You had another me, but not anymore.","q3":"Old phones have me.","q4":"An “accordion” has me.","q5":"A computer has a power me, you have a spinal me."},
 "2026-08-23": {"answers":"drop","prompt":"What am I?","q1":"“Me off” your kids.","q2":"“Me out” from school.","q3":"“Me kick” the ball.","q4":"“Me dead”: gorgeous or go away.","q5":"Dudududu “me the bass”!"},
 "2026-08-24": {"answers":"phoenix,firebird,fenghuang,bonghwang,hoo","prompt":"What am I?","q1":"I’m magic.","q2":"I can fly.","q3":"I’m not afraid of fire.","q4":"I symbolize rebirth.","q5":"I rise from ashes."},
-"2026-08-25": {"answers":"spit","prompt":"What am I?","q1":"I spin.","q2":"I’m wet.","q3":"I cook.","q4":"Do me to facts or rap.","q5":"I’m a mouth-watering skewer on a fire or mouth water.","message":"Twosday"}
+"2026-08-25": {"answers":"spit","prompt":"What am I?","q1":"I spin.","q2":"I’m wet.","q3":"I cook.","q4":"Do me to facts or rap.","q5":"I’m a mouth-watering skewer on a fire or mouth water.","message":"Twosday"},
+"2026-08-26": {"answers":"pharmacy,drugstore,chemist","prompt":"Where am I?","q1":"I’m inside.","q2":"There are no “farmers” here.","q3":"People working here crush things and use needles.","q4":"Many things sold here require permission from someone else.","q5":"I’m here to pick up drugs."}
 }
