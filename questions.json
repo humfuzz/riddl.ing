@@ -239,5 +239,7 @@
 "2026-08-26": {"answers":"pharmacy,drugstore,chemist","prompt":"Where am I?","q1":"I’m inside.","q2":"There are no “farmers” here.","q3":"People working here crush things and use needles.","q4":"Many things sold here require permission from someone else.","q5":"I’m here to pick up drugs."},
 "2026-08-27": {"answers":"pajamas,pajama,pyjamas,pijamas","prompt":"What am I?","q1":"I’m comfortable.","q2":"I come in pairs.","q3":"I have a top and a bottom.","q4":"Change into me...","q5":"...before you sleep."},
 "2026-08-28": {"answers":"clock","prompt":"What am I?","q1":"I do the same thing every day.","q2":"I’m more than a lock.","q3":"I’m useless without hands.","q4":"I tick people off.","q5":"I’m a watch when worn."},
-"2026-08-29": {"answers":"mind","prompt":"What am I?","q1":"Do you me?","q2":"Master me.","q3":"Never me.","q4":"“Me” your own business.","q5":"I might be boggled or blown."}
+"2026-08-29": {"answers":"mind","prompt":"What am I?","q1":"Do you me?","q2":"Master me.","q3":"Never me.","q4":"“Me” your own business.","q5":"I might be boggled or blown."},
+"2026-08-30": {"answers":"knock","prompt":"What am I?","q1":"“Me me.”","q2":"“Who’s there?”","q3":"“Boo!”","q4":"“Boo who?”","q5":"“Don’t cry, it’s just a me-me joke!”"},
+"2026-08-31": {"answers":"watermelon,watermelons","prompt":"What am I?","q1":"I’m green.","q2":"I’m red.","q3":"I might have stripes.","q4":"I might have black seeds.","q5":"I’m a wet fruit."}
 }
