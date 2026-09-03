@@ -244,5 +244,7 @@
 "2026-08-31": {"answers":"watermelon,watermelons","prompt":"What am I?","q1":"I’m green.","q2":"I’m red.","q3":"I might have stripes.","q4":"I might have black seeds.","q5":"I’m a wet fruit."},
 "2026-09-01": {"answers":"fault","prompt":"What am I?","q1":"It’s not my me!","q2":"I’m the source of some shaking.","q3":"I’m a bad serve.","q4":"“De”-me is an original setting or what happens to unpaid debt.","q5":"I’m responsibility, a line between rocks, weakness, exception, or defect.","message":"Twosday"},
 "2026-09-02": {"answers":"balance","prompt":"What am I?","q1":"A healthy diet is in me.","q2":"Accountants care about my sheets.","q3":"Photographers care about white me.","q4":"Gymnasts care about my beam.","q5":"Walking a tight rope? Be careful not to lose me."},
-"2026-09-03": {"answers":"loss","prompt":"What am I?","q1":"“G” me for your lips.","q2":"“F” me for your teeth.","q3":"Memory me means forgetting.","q4":"Hearing me means hearing less.","q5":"Hair me means going bald."}
+"2026-09-03": {"answers":"loss","prompt":"What am I?","q1":"“G” me for your lips.","q2":"“F” me for your teeth.","q3":"Memory me means forgetting.","q4":"Hearing me means hearing less.","q5":"Hair me means going bald."},
+"2026-09-04": {"answers":"rinse","prompt":"What am I?","q1":"Take a quick me.","q2":"I’m part of a cycle.","q3":"Do me to your hands.","q4":"I might get rid of soap.","q5":"I’m running something under water."},
+"2026-09-05": {"answers":"skew","prompt":"What am I?","q1":"I’m biased.","q2":"Eat my “ers”.","q3":"My shapes are asymmetric.","q4":"Do me to facts or rules to twist them.","q5":"I’m not level, like a Dutch angle, and I rhyme with “queue”."}
 }
