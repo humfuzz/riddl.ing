@@ -249,5 +249,7 @@
 "2026-09-05": {"answers":"skew","prompt":"What am I?","q1":"I’m biased.","q2":"Eat my “ers”.","q3":"My shapes are asymmetric.","q4":"Do me to facts or rules to twist them.","q5":"I’m not level, like a Dutch angle, and I rhyme with “queue”."},
 "2026-09-06": {"answers":"raven","prompt":"What am I?","q1":"A brave new world has me.","q2":"An intravenous drip has me.","q3":"A contravention has me, and a convention doesn’t.","q4":"A “rave nearby” has me.","q5":"I’m like a big crow."},
 "2026-09-07": {"answers":"olive,olives","prompt":"What am I?","q1":"I’m small.","q2":"I have a pit.","q3":"I’m frequently preserved.","q4":"My colours range from green to black.","q5":"My oil is popular."},
-"2026-09-08": {"answers":"screen","prompt":"What am I?","q1":"I filter.","q2":"I’m looking for disease.","q3":"I’m like a basketball pick.","q4":"I’m part of a phone or a movie theatre.","q5":"I’m an anti-bug mesh, a medical test, or a black mirror.","message":"Twosday"}
+"2026-09-08": {"answers":"screen","prompt":"What am I?","q1":"I filter.","q2":"I’m looking for disease.","q3":"I’m like a basketball pick.","q4":"I’m part of a phone or a movie theatre.","q5":"I’m an anti-bug mesh, a medical test, or a black mirror.","message":"Twosday"},
+"2026-09-09": {"answers":"mammoth,woolly mammoth,woolly mammoths","prompt":"What am I?","q1":"I’m big.","q2":"I’m hairy.","q3":"I’m ancient.","q4":"I have very long teeth.","q5":"Elephants are my modern cousins."},
+"2026-09-10": {"answers":"shower","prompt":"What am I?","q1":"I’m like rain.","q2":"I might involve brides or babies.","q3":"I might involve taps and heads.","q4":"I might involve meteors.","q5":"Instead of a bath, take a quick me."}
 }
