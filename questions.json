@@ -254,5 +254,6 @@
 "2026-09-10": {"answers":"shower","prompt":"What am I?","q1":"I’m like rain.","q2":"I might involve brides or babies.","q3":"I might involve taps and heads.","q4":"I might involve meteors.","q5":"Instead of a bath, take a quick me."},
 "2026-09-11": {"answers":"campfire","prompt":"What am I?","q1":"I’m made of sticks.","q2":"I’m seen with sticky stuff on sticks.","q3":"My sticks are bright and hot.","q4":"Your sticky sticks are hopefully toasted, not burned.","q5":"I’m a burning bundle at an overnight outdoors stay."},
 "2026-09-12": {"answers":"bear","prompt":"What am I?","q1":"I can be white, brown, or black.","q2":"Bees might be my enemy.","q3":"My spray is stronger than pepper.","q4":"Fish might be my food.","q5":"I’m furry and often named Teddy."},
-"2026-09-13": {"answers":"hike","prompt":"What am I?","q1":"“Take a me!”","q2":"You don’t want taxes to do me.","q3":"Hitch me.","q4":"My poles make me easier.","q5":"Do me up your pants, or do me up a mountain."}
+"2026-09-13": {"answers":"hike","prompt":"What am I?","q1":"“Take a me!”","q2":"You don’t want taxes to do me.","q3":"Hitch me.","q4":"My poles make me easier.","q5":"Do me up your pants, or do me up a mountain."},
+"2026-09-14": {"answers":"tent","prompt":"Where am I?","q1":"This place moves from place to place.","q2":"I’m inside something held by rope or sticks.","q3":"I might use a zipper to leave.","q4":"I’m here to stay warm and dry.","q5":"I’m camping."}
 }
