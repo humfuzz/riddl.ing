@@ -257,5 +257,6 @@
 "2026-09-13": {"answers":"hike","prompt":"What am I?","q1":"“Take a me!”","q2":"You don’t want taxes to do me.","q3":"Hitch me.","q4":"My poles make me easier.","q5":"Do me up your pants, or do me up a mountain."},
 "2026-09-14": {"answers":"tent","prompt":"Where am I?","q1":"This place moves from place to place.","q2":"I’m inside something held by rope or sticks.","q3":"I might use a zipper to leave.","q4":"I’m here to stay warm and dry.","q5":"I’m camping."},
 "2026-09-15": {"answers":"content","prompt":"What am I?","q1":"I’m happy.","q2":"I might be scrolled.","q3":"Books have my tables.","q4":"Creators upload me.","q5":"I’m satisfied, something inside a larger thing, or found on social media.","message":"Twosday"},
-"2026-09-16": {"answers":"wicked","prompt":"What am I?","q1":"I might describe a candle.","q2":"I might describe a skateboard trick.","q3":"I might describe a villain.","q4":"I might describe anything in Boston.","q5":"I might describe a green witch of the west from Oz."}
+"2026-09-16": {"answers":"wicked","prompt":"What am I?","q1":"I might describe a candle.","q2":"I might describe a skateboard trick.","q3":"I might describe a villain.","q4":"I might describe anything in Boston.","q5":"I might describe a green witch of the west from Oz."},
+"2026-09-17": {"answers":"boost,booster","prompt":"What am I?","q1":"I might help get a view.","q2":"I might be a second shot.","q3":"Raise awareness with a signal me.","q4":"Babies use my seats.","q5":"Drink some coffee for an energy me."}
 }
