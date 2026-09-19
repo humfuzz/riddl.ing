@@ -261,5 +261,6 @@
 "2026-09-17": {"answers":"boost,booster","prompt":"What am I?","q1":"I might help get a view.","q2":"I might be a second shot.","q3":"Raise awareness with a signal me.","q4":"Babies use my seats.","q5":"Drink some coffee for an energy me."},
 "2026-09-18": {"answers":"paper","prompt":"What am I?","q1":"I’m made of fibres.","q2":"Wall me can be physical or digital.","q3":"Publishing a scientific me takes a long time.","q4":"Use wrapping me in packaging.","q5":"I beat rock."},
 "2026-09-19": {"answers":"beard","prompt":"What am I?","q1":"I grow...","q2":"...on some.","q3":"I might have straps or burns.","q4":"I might be named after goats or mutton.","q5":"I’m facial hair on chins."},
-"2026-09-20": {"answers":"nothing","prompt":"What am I?","q1":"You’d be ignorant if you saw me.","q2":"You’d be happy if you want me.","q3":"You’d save money if you bought me.","q4":"You’d be heartless if you love me.","q5":"You’d be hungry if you ate me."}
+"2026-09-20": {"answers":"nothing","prompt":"What am I?","q1":"You’d be ignorant if you saw me.","q2":"You’d be happy if you want me.","q3":"You’d save money if you bought me.","q4":"You’d be heartless if you love me.","q5":"You’d be hungry if you ate me."},
+"2026-09-21": {"answers":"piano,pianos","prompt":"What am I?","q1":"I’m black and white.","q2":"I’m “quiet”.","q3":"I’m grand.","q4":"I’m upright.","q5":"I’m a keyboard musical instrument."}
 }
