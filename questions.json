@@ -263,5 +263,6 @@
 "2026-09-19": {"answers":"beard","prompt":"What am I?","q1":"I grow...","q2":"...on some.","q3":"I might have straps or burns.","q4":"I might be named after goats or mutton.","q5":"I’m facial hair on chins."},
 "2026-09-20": {"answers":"nothing","prompt":"What am I?","q1":"You’d be ignorant if you saw me.","q2":"You’d be happy if you want me.","q3":"You’d save money if you bought me.","q4":"You’d be heartless if you love me.","q5":"You’d be hungry if you ate me."},
 "2026-09-21": {"answers":"piano,pianos","prompt":"What am I?","q1":"I’m black and white.","q2":"I’m “quiet”.","q3":"I’m grand.","q4":"I’m upright.","q5":"I’m a keyboard musical instrument."},
-"2026-09-22": {"answers":"bow,bows","prompt":"What am I?","q1":"Take a me.","q2":"Draw a me.","q3":"Tie a me.","q4":"Be on the ship’s me.","q5":"I’m a dog bark, a violin stick, or the shape of colourful rain.","message":"Twosday"}
+"2026-09-22": {"answers":"bow,bows","prompt":"What am I?","q1":"Take a me.","q2":"Draw a me.","q3":"Tie a me.","q4":"Be on the ship’s me.","q5":"I’m a dog bark, a violin stick, or the shape of colourful rain.","message":"Twosday"},
+"2026-09-23": {"answers":"accent","prompt":"What am I?","q1":"I’m heard.","q2":"Examples of me include scouse and Kansai-ben.","q3":"I’m heard. Déjà vu! I’m seen.","q4":"Voila, a fiancee at a cafe might have me.","q5":"“Voilà, a fiancée at a café” has three of me."}
 }
