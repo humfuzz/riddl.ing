@@ -264,5 +264,7 @@
 "2026-09-20": {"answers":"nothing","prompt":"What am I?","q1":"You’d be ignorant if you saw me.","q2":"You’d be happy if you want me.","q3":"You’d save money if you bought me.","q4":"You’d be heartless if you love me.","q5":"You’d be hungry if you ate me."},
 "2026-09-21": {"answers":"piano,pianos","prompt":"What am I?","q1":"I’m black and white.","q2":"I’m “quiet”.","q3":"I’m grand.","q4":"I’m upright.","q5":"I’m a keyboard musical instrument."},
 "2026-09-22": {"answers":"bow,bows","prompt":"What am I?","q1":"Take a me.","q2":"Draw a me.","q3":"Tie a me.","q4":"Be on the ship’s me.","q5":"I’m a dog bark, a violin stick, or the shape of colourful rain.","message":"Twosday"},
-"2026-09-23": {"answers":"accent","prompt":"What am I?","q1":"I’m heard.","q2":"Examples of me include scouse and Kansai-ben.","q3":"I’m heard. Déjà vu! I’m seen.","q4":"Voila, a fiancee at a cafe might have me.","q5":"“Voilà, a fiancée at a café” has three of me."}
+"2026-09-23": {"answers":"accent","prompt":"What am I?","q1":"I’m heard.","q2":"Examples of me include scouse and Kansai-ben.","q3":"I’m heard. Déjà vu! I’m seen.","q4":"Voila, a fiancee at a cafe might have me.","q5":"“Voilà, a fiancée at a café” has three of me."},
+"2026-09-24": {"answers":"trash","prompt":"What am I?","q1":"Take me out.","q2":"You don’t want me, but I inevitably grow.","q3":"Do me to make a mess, which might include me.","q4":"My “pandas” climb my cans.","q5":"I’m garbage and rhyme with “crash”."},
+"2026-09-25": {"answers":"shot","prompt":"What am I?","q1":"You think you’re a hot me?","q2":"Athletes need to make me.","q3":"Models need a head me.","q4":"A long me is unlikely, a me in the dark.","q5":"Shoot your me."}
 }
