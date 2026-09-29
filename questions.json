@@ -270,5 +270,6 @@
 "2026-09-26": {"answers":"bag","prompt":"What fits the blank?","q1":"Hand _.","q2":"Gar_e.","q3":"_pipes.","q4":"Air _. Sleeping _.","q5":"Tea _. Shopping _. Punching _."},
 "2026-09-27": {"answers":"hour,one hour","prompt":"What am I?","q1":"I’m 1/2802 Venusian solar days.","q2":"I’m about 0.003 fortnights.","q3":"I’m 3.6 million milliseconds.","q4":"I’m 1/168 weeks.","q5":"I’m sixty minutes."},
 "2026-09-28": {"answers":"latte","prompt":"What am I?","q1":"I’m Italian.","q2":"I often feature art.","q3":"I’m liquid.","q4":"I’m similar to cappuccino and mocha.","q5":"I’m made of steamed milk and espresso coffee."},
-"2026-09-29": {"answers":"ship","prompt":"What am I?","q1":"Me it!","q2":"I’m a cute pair.","q3":"Doing me might actually involve planes and trains.","q4":"I travel space and the seas.","q5":"I’m delivery, fandom fantasy, or a floater.","message":"Twosday"}
+"2026-09-29": {"answers":"ship","prompt":"What am I?","q1":"Me it!","q2":"I’m a cute pair.","q3":"Doing me might actually involve planes and trains.","q4":"I travel space and the seas.","q5":"I’m delivery, fandom fantasy, or a floater.","message":"Twosday"},
+"2026-09-30": {"answers":"tulip","prompt":"What am I?","q1":"I come in many colours.","q2":"My mania made me incredibly valuable.","q3":"I’m big in the Netherlands.","q4":"My bulbs awaken in spring.","q5":"I’m a skirt-shaped flower related to lilies."}
 }
