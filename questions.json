@@ -273,5 +273,6 @@
 "2026-09-29": {"answers":"ship","prompt":"What am I?","q1":"Me it!","q2":"I’m a cute pair.","q3":"Doing me might actually involve planes and trains.","q4":"I travel space and the seas.","q5":"I’m delivery, fandom fantasy, or a floater.","message":"Twosday"},
 "2026-09-30": {"answers":"tulip","prompt":"What am I?","q1":"I come in many colours.","q2":"My mania made me incredibly valuable.","q3":"I’m big in the Netherlands.","q4":"My bulbs awaken in spring.","q5":"I’m a skirt-shaped flower related to lilies."},
 "2026-10-01": {"answers":"strategy","prompt":"What am I?","q1":"I’m part of some games.","q2":"I’m part of businesses and investments.","q3":"My first five letters is short for me, but also short for a famous guitar.","q4":"I’m part of sports and wars.","q5":"I’m a plan with decisions and goals."},
-"2026-10-02": {"answers":"shoulder","prompt":"What am I?","q1":"A cold me might make you sad.","q2":"I might bear burdens.","q3":"A chip on me might make you mean.","q4":"I’m good for crying on.","q5":"Backpack straps rely on me."}
+"2026-10-02": {"answers":"shoulder","prompt":"What am I?","q1":"A cold me might make you sad.","q2":"I might bear burdens.","q3":"A chip on me might make you mean.","q4":"I’m good for crying on.","q5":"Backpack straps rely on me."},
+"2026-10-03": {"answers":"city,cities","prompt":"What fits the blank?","q1":"_ pop.","q2":"_ centre.","q3":"Capital _.","q4":"Manchester _.","q5":"New York _ or Vatican _."}
 }
