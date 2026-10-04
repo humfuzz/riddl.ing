@@ -274,5 +274,8 @@
 "2026-09-30": {"answers":"tulip","prompt":"What am I?","q1":"I come in many colours.","q2":"My mania made me incredibly valuable.","q3":"I’m big in the Netherlands.","q4":"My bulbs awaken in spring.","q5":"I’m a skirt-shaped flower related to lilies."},
 "2026-10-01": {"answers":"strategy","prompt":"What am I?","q1":"I’m part of some games.","q2":"I’m part of businesses and investments.","q3":"My first five letters is short for me, but also short for a famous guitar.","q4":"I’m part of sports and wars.","q5":"I’m a plan with decisions and goals."},
 "2026-10-02": {"answers":"shoulder","prompt":"What am I?","q1":"A cold me might make you sad.","q2":"I might bear burdens.","q3":"A chip on me might make you mean.","q4":"I’m good for crying on.","q5":"Backpack straps rely on me."},
-"2026-10-03": {"answers":"city,cities","prompt":"What fits the blank?","q1":"_ pop.","q2":"_ centre.","q3":"Capital _.","q4":"Manchester _.","q5":"New York _ or Vatican _."}
+"2026-10-03": {"answers":"city,cities","prompt":"What fits the blank?","q1":"_ pop.","q2":"_ centre.","q3":"Capital _.","q4":"Manchester _.","q5":"New York _ or Vatican _."},
+"2026-10-04": {"answers":"portrait,portraits","prompt":"What am I?","q1":"I’m custom.","q2":"I’m visual...","q3":"...like some photographs.","q4":"I’m not a landscape.","q5":"I usually depict faces, or my height is longer than my width."},
+"2026-10-05": {"answers":"instinct,instincts","prompt":"What am I?","q1":"I make you do things...","q2":"...even if you never learned how.","q3":"Survival me is a type of me.","q4":"Imitation me is a type of me.","q5":"I’m innate behaviour more complex than a reflex."},
+"2026-10-06": {"answers":"band","prompt":"What am I?","q1":"Me together.","q2":"Play in me.","q3":"I can hold hair or sweat.","q4":"A metal me might be on a finger...","q5":"...or have a drummer.","message":"Twosday"}
 }
