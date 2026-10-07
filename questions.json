@@ -278,5 +278,7 @@
 "2026-10-04": {"answers":"portrait,portraits","prompt":"What am I?","q1":"I’m custom.","q2":"I’m visual...","q3":"...like some photographs.","q4":"I’m not a landscape.","q5":"I usually depict faces, or my height is longer than my width."},
 "2026-10-05": {"answers":"instinct,instincts","prompt":"What am I?","q1":"I make you do things...","q2":"...even if you never learned how.","q3":"Survival me is a type of me.","q4":"Imitation me is a type of me.","q5":"I’m innate behaviour more complex than a reflex."},
 "2026-10-06": {"answers":"band","prompt":"What am I?","q1":"Me together.","q2":"Play in me.","q3":"I can hold hair or sweat.","q4":"A metal me might be on a finger...","q5":"...or have a drummer.","message":"Twosday"},
-"2026-10-07": {"answers":"vest","prompt":"What am I?","q1":"I might be very reflective.","q2":"I might have lots of pockets.","q3":"I might be a sweater.","q4":"I might be under a suit jacket.","q5":"I’m sleeveless."}
+"2026-10-07": {"answers":"vest","prompt":"What am I?","q1":"I might be very reflective.","q2":"I might have lots of pockets.","q3":"I might be a sweater.","q4":"I might be under a suit jacket.","q5":"I’m sleeveless."},
+"2026-10-08": {"answers":"marathon","prompt":"What am I?","q1":"I’m long.","q2":"I require endurance.","q3":"I’m named after my start.","q4":"My end was originally Athens, Greece (about 40 kilometres away).","q5":"I’m a running race."},
+"2026-10-09": {"answers":"parachute,parachutes","prompt":"What am I?","q1":"I’m larger than you.","q2":"I slow you down.","q3":"I’m French sounding.","q4":"I resemble an umbrella.","q5":"I use air resistance to ensure a safe descent."}
 }
