@@ -280,5 +280,7 @@
 "2026-10-06": {"answers":"band","prompt":"What am I?","q1":"Me together.","q2":"Play in me.","q3":"I can hold hair or sweat.","q4":"A metal me might be on a finger...","q5":"...or have a drummer.","message":"Twosday"},
 "2026-10-07": {"answers":"vest","prompt":"What am I?","q1":"I might be very reflective.","q2":"I might have lots of pockets.","q3":"I might be a sweater.","q4":"I might be under a suit jacket.","q5":"I’m sleeveless."},
 "2026-10-08": {"answers":"marathon","prompt":"What am I?","q1":"I’m long.","q2":"I require endurance.","q3":"I’m named after my start.","q4":"My end was originally Athens, Greece (about 40 kilometres away).","q5":"I’m a running race."},
-"2026-10-09": {"answers":"parachute,parachutes","prompt":"What am I?","q1":"I’m larger than you.","q2":"I slow you down.","q3":"I’m French sounding.","q4":"I resemble an umbrella.","q5":"I use air resistance to ensure a safe descent."}
+"2026-10-09": {"answers":"parachute,parachutes","prompt":"What am I?","q1":"I’m larger than you.","q2":"I slow you down.","q3":"I’m French sounding.","q4":"I resemble an umbrella.","q5":"I use air resistance to ensure a safe descent."},
+"2026-10-10": {"answers":"squat","prompt":"What am I?","q1":"Prisoner me is a type of me.","q2":"Pistol me is a type of me.","q3":"Sumo me is a type of me.","q4":"Slavic and Asian are types of me.","q5":"You do me when you crouch."},
+"2026-10-11": {"answers":"circle,circles","prompt":"What am I?","q1":"Stars might make me over time.","q2":"Trees make me over time.","q3":"Figure skaters make me.","q4":"Compasses make me.","q5":"Hole punches make my shape."}
 }
