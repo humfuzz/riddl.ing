@@ -287,5 +287,6 @@
 "2026-10-13": {"answers":"atm","prompt":"What am I?","q1":"I’m right now.","q2":"I give you cash.","q3":"I’m an atmospheric measurement.","q4":"“OMW me IRL!”","q5":"Put your bank card in me to withdraw money.","message":"Twosday"},
 "2026-10-14": {"answers":"quicksand","prompt":"What am I?","q1":"I’m dangerous.","q2":"I can’t support your weight.","q3":"I’m viscous.","q4":"Panicking will only make things worse.","q5":"Crawl your way out of me."},
 "2026-10-15": {"answers":"deep","prompt":"What am I?","q1":"I’m like a bass, but not a soprano.","q2":"I’m like an ocean, but not a pond.","q3":"I’m like a profound statement, but not a fart joke.","q4":"I’m like pizza from Chicago, but not from New York.","q5":"I’m like the end of a pool you dive into."},
-"2026-10-16": {"answers":"noise","prompt":"What am I?","q1":"Some cancel me.","q2":"Some use me to sleep.","q3":"Some complain about me.","q4":"A boomer might call zoomer music me.","q5":"“Make some me! I can’t hear you!”"}
+"2026-10-16": {"answers":"noise","prompt":"What am I?","q1":"Some cancel me.","q2":"Some use me to sleep.","q3":"Some complain about me.","q4":"A boomer might call zoomer music me.","q5":"“Make some me! I can’t hear you!”"},
+"2026-10-17": {"answers":"riddle,riddles","prompt":"What am I?","q1":"I start vague.","q2":"I’m invented.","q3":"Guess my answer.","q4":"I’m made of clues.","q5":"I often end with “What am I?”"}
 }
