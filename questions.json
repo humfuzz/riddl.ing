@@ -289,5 +289,7 @@
 "2026-10-15": {"answers":"deep","prompt":"What am I?","q1":"I’m like a bass, but not a soprano.","q2":"I’m like an ocean, but not a pond.","q3":"I’m like a profound statement, but not a fart joke.","q4":"I’m like pizza from Chicago, but not from New York.","q5":"I’m like the end of a pool you dive into."},
 "2026-10-16": {"answers":"noise","prompt":"What am I?","q1":"Some cancel me.","q2":"Some use me to sleep.","q3":"Some complain about me.","q4":"A boomer might call zoomer music me.","q5":"“Make some me! I can’t hear you!”"},
 "2026-10-17": {"answers":"riddle,riddles","prompt":"What am I?","q1":"I start vague.","q2":"I’m invented.","q3":"Guess my answer.","q4":"I’m made of clues.","q5":"I often end with “What am I?”"},
-"2026-10-18": {"answers":"slot","prompt":"What am I?","q1":"My car goes around and around.","q2":"My machine takes your money.","q3":"Put letters in me.","q4":"I’m a place to save or an appointment time.","q5":"I’m a thin hole that tabs slide into."}
+"2026-10-18": {"answers":"slot","prompt":"What am I?","q1":"My car goes around and around.","q2":"My machine takes your money.","q3":"Put letters in me.","q4":"I’m a place to save or an appointment time.","q5":"I’m a thin hole that tabs slide into."},
+"2026-10-19": {"answers":"order","prompt":"What am I?","q1":"Me up!","q2":"That’s an I!","q3":"Can I take your me?","q4":"Everything’s in me.","q5":"I’m organized or sorted, such as things put in alphabetical me."},
+"2026-10-20": {"answers":"live","prompt":"What am I?","q1":"Do me at home.","q2":"I’m not animated.","q3":"I’m in real time.","q4":"I rhyme with “give” or “dive”.","q5":"I’m not dead, I...","message":"Twosday"}
 }
