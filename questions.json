@@ -293,5 +293,7 @@
 "2026-10-19": {"answers":"order","prompt":"What am I?","q1":"Me up!","q2":"That’s an I!","q3":"Can I take your me?","q4":"Everything’s in me.","q5":"I’m organized or sorted, such as things put in alphabetical me."},
 "2026-10-20": {"answers":"live","prompt":"What am I?","q1":"Do me at home.","q2":"I’m not animated.","q3":"I’m in real time.","q4":"I rhyme with “give” or “dive”.","q5":"I’m not dead, I...","message":"Twosday"},
 "2026-10-21": {"answers":"basement","prompt":"Where am I?","q1":"I’m indoors.","q2":"Windows here don’t have great views.","q3":"I sound like a lower “guitarment”.","q4":"This place might be my parents’.","q5":"I’m underground."},
-"2026-10-22": {"answers":"apron","prompt":"What am I?","q1":"I’m common in kitchens.","q2":"I’m made of fabric.","q3":"I might have pockets.","q4":"I’m associated with maids.","q5":"I’m a front garment worn by potters and woodworkers."}
+"2026-10-22": {"answers":"apron","prompt":"What am I?","q1":"I’m common in kitchens.","q2":"I’m made of fabric.","q3":"I might have pockets.","q4":"I’m associated with maids.","q5":"I’m a front garment worn by potters and woodworkers."},
+"2026-10-23": {"answers":"dot","prompt":"What am I?","q1":"Connect me.","q2":"I’m heard with dashes.","q3":"I’m seen with polka.","q4":"I’m short for Dorothy.","q5":"I’m a little round point."},
+"2026-10-24": {"answers":"engine,engines","prompt":"What am I?","q1":"Fire me.","q2":"Search me.","q3":"Jet me.","q4":"Steam me.","q5":"Internal combustion me."}
 }
