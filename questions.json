@@ -298,5 +298,7 @@
 "2026-10-24": {"answers":"engine,engines","prompt":"What am I?","q1":"Fire me.","q2":"Search me.","q3":"Jet me.","q4":"Steam me.","q5":"Internal combustion me."},
 "2026-10-25": {"answers":"checkout","prompt":"What am I?","q1":"Leave before my time...","q2":"...unless you arrange a late me.","q3":"Self me removes humans.","q4":"Bring your cart to me.","q5":"My counter is where you pay."},
 "2026-10-26": {"answers":"dryer","prompt":"What am I?","q1":"I might turn poblano into ancho.","q2":"A swimmer might use me.","q3":"I might turn grapes into raisins.","q4":"I might turn water into air.","q5":"I make clothes and hair less wet."},
-"2026-10-27": {"answers":"ram","prompt":"What am I?","q1":"I might break a door.","q2":"I might be horned.","q3":"I’m in computers and phones.","q4":"I’m hitting something hard.","q5":"I’m a male sheep.","message":"Twosday"}
+"2026-10-27": {"answers":"ram","prompt":"What am I?","q1":"I might break a door.","q2":"I might be horned.","q3":"I’m in computers and phones.","q4":"I’m hitting something hard.","q5":"I’m a male sheep.","message":"Twosday"},
+"2026-10-28": {"answers":"chainsaw,saw","prompt":"What am I?","q1":"I have teeth.","q2":"I use electricity.","q3":"I kill trees.","q4":"I’m very loud.","q5":"I’m a handheld cutting tool."},
+"2026-10-29": {"answers":"frankenstein,victor frankenstein","prompt":"Who am I?","q1":"I’m a scientist.","q2":"I’m obsessed with life.","q3":"My first name is Victor.","q4":"I’m famous for my monster.","q5":"I regret bringing my creature, who commonly shares my name, to life."}
 }
