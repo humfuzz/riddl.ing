@@ -300,5 +300,7 @@
 "2026-10-26": {"answers":"dryer","prompt":"What am I?","q1":"I might turn poblano into ancho.","q2":"A swimmer might use me.","q3":"I might turn grapes into raisins.","q4":"I might turn water into air.","q5":"I make clothes and hair less wet."},
 "2026-10-27": {"answers":"ram","prompt":"What am I?","q1":"I might break a door.","q2":"I might be horned.","q3":"I’m in computers and phones.","q4":"I’m hitting something hard.","q5":"I’m a male sheep.","message":"Twosday"},
 "2026-10-28": {"answers":"chainsaw,saw","prompt":"What am I?","q1":"I have teeth.","q2":"I use electricity.","q3":"I kill trees.","q4":"I’m very loud.","q5":"I’m a handheld cutting tool."},
-"2026-10-29": {"answers":"frankenstein,victor frankenstein","prompt":"Who am I?","q1":"I’m a scientist.","q2":"I’m obsessed with life.","q3":"My first name is Victor.","q4":"I’m famous for my monster.","q5":"I regret bringing my creature, who commonly shares my name, to life."}
+"2026-10-29": {"answers":"frankenstein,victor frankenstein","prompt":"Who am I?","q1":"I’m a scientist.","q2":"I’m obsessed with life.","q3":"My first name is Victor.","q4":"I’m famous for my monster.","q5":"I regret bringing my creature, who commonly shares my name, to life."},
+"2026-10-30": {"answers":"spice,spices","prompt":"What am I?","q1":"I might be five.","q2":"I might be pumpkin.","q3":"My trade changed the world.","q4":"I might be “scary” or “ginger”.","q5":"Cumin and galangal are examples of me."},
+"2026-10-31": {"answers":"werewolf","prompt":"What am I?","q1":"I’m cursed.","q2":"Famous examples of me include Link and Jacob.","q3":"Silver defeats me.","q4":"I’m part human.","q5":"The moon triggers me."}
 }
