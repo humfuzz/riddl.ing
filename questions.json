@@ -304,5 +304,6 @@
 "2026-10-30": {"answers":"spice,spices","prompt":"What am I?","q1":"I might be five.","q2":"I might be pumpkin.","q3":"My trade changed the world.","q4":"I might be “scary” or “ginger”.","q5":"Cumin and galangal are examples of me."},
 "2026-10-31": {"answers":"werewolf","prompt":"What am I?","q1":"I’m cursed.","q2":"Famous examples of me include Link and Jacob.","q3":"Silver defeats me.","q4":"I’m part human.","q5":"The moon triggers me."},
 "2026-11-01": {"answers":"again","prompt":"What am I?","q1":"Don’t guess the same answer me.","q2":"I look like “oneplus”.","q3":"I come back.","q4":"Add “st” to my end and I become a face-off.","q5":"Don’t guess the same answer me. Oh, it’s the same clue me?"},
-"2026-11-02": {"answers":"sneeze,sneezing","prompt":"What am I?","q1":"Once I start, I’m hard to stop.","q2":"I might be followed by excuses.","q3":"I might be followed by blessings.","q4":"Tissues are useful for me.","q5":"I’m snot shooting out of your face."}
+"2026-11-02": {"answers":"sneeze,sneezing","prompt":"What am I?","q1":"Once I start, I’m hard to stop.","q2":"I might be followed by excuses.","q3":"I might be followed by blessings.","q4":"Tissues are useful for me.","q5":"I’m snot shooting out of your face."},
+"2026-11-03": {"answers":"mean","prompt":"What am I?","q1":"I define.","q2":"I’m average.","q3":"I intend.","q4":"I’m cruel.","q5":"I’m in “me and you”.","message":"Twosday"}
 }
