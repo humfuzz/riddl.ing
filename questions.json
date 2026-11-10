@@ -311,5 +311,7 @@
 "2026-11-06": {"answers":"lunch","prompt":"What am I?","q1":"Have my break.","q2":"Take my money to buy me.","q3":"Bring me in my box.","q4":"My meats go in sandwiches.","q5":"I’m between breakfast and dinner."},
 "2026-11-07": {"answers":"rap","prompt":"Where am I?","q1":"I get a bad me.","q2":"I flow.","q3":"I rhyme.","q4":"I’m part of hip-hop.","q5":"I’m rhythmic poetry over a beat."},
 "2026-11-08": {"answers":"broke","prompt":"What am I?","q1":"I’m poor.","q2":"I’m not functional.","q3":"Add an ‘R’ to my end and I’m in between a purchase.","q4":"If it ain’t me, don’t fix it.","q5":"I’m the past tense of “break”."},
-"2026-11-09": {"answers":"fang","prompt":"What am I?","q1":"Dragons have me.","q2":"Cats have me.","q3":"Snakes have me.","q4":"Spiders have me.","q5":"Vampires have me."}
+"2026-11-09": {"answers":"fang","prompt":"What am I?","q1":"Dragons have me.","q2":"Cats have me.","q3":"Snakes have me.","q4":"Spiders have me.","q5":"Vampires have me."},
+"2026-11-10": {"answers":"pot","prompt":"What am I?","q1":"I might hold smelly things.","q2":"I might hold soup.","q3":"I might make you high.","q4":"I might hold Rupees.","q5":"I might hold a plant.","message":"Twosday"},
+"2026-11-11": {"answers":"airport,airports","prompt":"Where am I?","q1":"I wait here.","q2":"I need ID here.","q3":"There are many bags here.","q4":"There are many gates here.","q5":"There are many planes here."}
 }
