@@ -325,5 +325,6 @@
 "2026-11-20": {"answers":"grand","prompt":"What am I?","q1":"My father fathers fathers.","q2":"My master exceeds masters.","q3":"I’m a thousand.","q4":"My canyon is huge.","q5":"My piano is really big."},
 "2026-11-21": {"answers":"screensaver","prompt":"What am I?","q1":"Move and you’ll miss me.","q2":"I might be completely black.","q3":"I might be a slideshow of photos.","q4":"I might be a slowly moving visualization.","q5":"I don’t save electricity, but I might save pixels from burning in."},
 "2026-11-22": {"answers":"west","prompt":"What am I?","q1":"I’m associated with foods like pizza and potatoes.","q2":"Christianity is my dominant religion.","q3":"The wild me might be full of outlaws.","q4":"Go me enough and you’ll end back where you started.","q5":"I’m where the sun sets."},
-"2026-11-23": {"answers":"pump","prompt":"What am I?","q1":"Bikes need me.","q2":"Shotguns do me.","q3":"Wells need me.","q4":"Hearts do me.","q5":"I move fluids, like inflating a balloon."}
+"2026-11-23": {"answers":"pump","prompt":"What am I?","q1":"Bikes need me.","q2":"Shotguns do me.","q3":"Wells need me.","q4":"Hearts do me.","q5":"I move fluids, like inflating a balloon."},
+"2026-11-24": {"answers":"capital","prompt":"What am I?","q1":"Every clue has me.","q2":"Every company needs me.","q3":"Every country has me.","q4":"The letters in “letters” aren’t me.","q5":"I’m a big city, money, or uppercase.","message":"Twosday"}
 }
