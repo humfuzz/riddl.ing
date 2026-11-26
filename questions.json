@@ -328,5 +328,7 @@
 "2026-11-23": {"answers":"pump","prompt":"What am I?","q1":"Bikes need me.","q2":"Shotguns do me.","q3":"Wells need me.","q4":"Hearts do me.","q5":"I move fluids, like inflating a balloon."},
 "2026-11-24": {"answers":"capital","prompt":"What am I?","q1":"Every clue has me.","q2":"Every company needs me.","q3":"Every country has me.","q4":"The letters in “letters” aren’t me.","q5":"I’m a big city, money, or uppercase.","message":"Twosday"},
 "2026-11-25": {"answers":"roof","prompt":"What am I?","q1":"I’m on top.","q2":"I come in many angles.","q3":"Your mouth has me.","q4":"I can be made of many materials, including copper, terracotta, or straw.","q5":"An enclosed building has me."},
-"2026-11-26": {"answers":"gravy","prompt":"What am I?","q1":"I’m found with trains and boats.","q2":"I’m found with mash.","q3":"I’m found with biscuits.","q4":"I’m found with chicken.","q5":"I’m found with poutine."}
+"2026-11-26": {"answers":"gravy","prompt":"What am I?","q1":"I’m found with trains and boats.","q2":"I’m found with mash.","q3":"I’m found with biscuits.","q4":"I’m found with chicken.","q5":"I’m found with poutine."},
+"2026-11-27": {"answers":"cactus,cacti","prompt":"What am I?","q1":"I’m scary on the outside.","q2":"I might be juicy on the inside.","q3":"A certain dragon and a certain pear come from me.","q4":"Dragon fruit and prickly pear come from me.","q5":"I’m a spiny desert plant."},
+"2026-11-28": {"answers":"claustrophobia","prompt":"What am I?","q1":"A hug could give you me.","q2":"A cave could give you me.","q3":"A closet could give you me.","q4":"A crowded elevator could give you me.","q5":"A tight sealed space could give you me."}
 }
